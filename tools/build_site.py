@@ -78,7 +78,7 @@ def about():
     guide=next(e for e in E if e['id']=='printed-guide')['packages'][0]['source_url']
     interview='https://www.gamedeveloper.com/game-platforms/interview-making-plans-for-zeebo'
     text=head('Sources & story | Zeebo Archive','The history, source evidence, counting rules and preservation credits behind this independent Zeebo catalog.','about/index.html','../')
-    text+=f'''<main id="main" class="shell about-shell"><div class="crumbs"><a href="../index.html">Archive</a><span>/</span><span>Sources &amp; story</span></div><div class="about-hero"><div class="eyebrow"><span class="pulse"></span> CONTEXT MATTERS, TOO</div><h1>The games had names.<br><em>The archive should, too.</em></h1><p>Behind the six-digit filenames is an unusual console, a community preservation effort, and a printed guide full of games worth remembering.</p></div><div class="about-grid"><div class="about-text"><h2>A console with mobile roots</h2><p>Zeebo was a television console built around Qualcomm mobile technology. Games arrived over a 3G connection rather than on discs. In a May 2009 interview, its executives described an effort aimed at middle-class households in emerging markets, with Brazil as the initial launch market. {ext(interview,'Read the contemporary interview')}</p><h2>From a storefront to a surviving collection</h2><p>The <strong>OpenZeebo readme dated 23 October 2011</strong> describes a preservation compilation and maps numeric application IDs to game and system-app names. Its claim to contain every release is a statement by that historical source; this catalog counts the files actually supplied.</p><p>The Internet Archive item <strong>Zeebo (All Games + Dev Tools)</strong> was added on <strong>1 March 2021</strong>. Its original collection is credited here, rather than presented as a new recovery by this project. {ext(SOURCE,'View the original collection')}</p><h2>What the four supplied archives contain</h2><p>The uploaded copies yield <strong>61 game/app IDs in 68 title packages</strong>. Those include system applications as well as games. Shared IDs are grouped on one page, retaining distinct packages. IMICRO3D, component ID 12875 inside Action Hero 3D, is not counted as an additional game.</p><p>There are also <strong>16 developer/support files</strong>, three readme/ID-list records and one printed-guide record. Together these make <strong>81 browsing records and 88 source files</strong>. Material under the BREW tools folder is not automatically classified as a Zeebo retail release.</p><h2>A printed guide puts the names in context</h2><p>The undated <strong>Zeebo Brasil S.A. Guia de Jogos</strong> contains 14 scanned spreads. Original brief English summaries of its product descriptions accompany <strong>39 title IDs</strong>. Each page gives its exact scan filename so the description can be checked.</p><p>The guide describes advertised products; it does not authenticate the revision of a surviving executable. Scans and original documents remain linked at their source.</p><h2>How the evidence was checked</h2><p>All <strong>88 source files</strong> match a file size and SHA-1 in the Internet Archive file manifest embedded in the supplied ZIP. SHA-256 values were measured independently for every source file and every direct regular archive member.</p><p>The member inventory excludes directories from file counts. Containers inside the packages, including BAR, PAK and GGZ, were not exhaustively decoded. A content-multiset fingerprint compares file sizes and bytes while ignoring names and order; it is not a folder-layout equivalence claim.</p><h2>Can these files be played?</h2><p>This is a discovery and research catalog. No preserved game or developer utility was executed while assembling it. A file record does not establish compatibility, complete gameplay or continued availability of original online services.</p><h2>Help improve the record</h2><p>Corrections, original credits and substantiated historical details are welcome through an issue or proposed pull request in {ext(REPO,'the repository')}. Include the title or ID and a source. Wakka reviews contributions before publication.</p></div><aside><div class="about-fact"><span>2009</span><strong>A different route to the television</strong><p>A contemporary executive interview explains the digital distribution model and intended audience.</p></div><div class="about-fact"><span>2011</span><strong>OpenZeebo compilation</strong><p>The source readme dates its preservation effort to 23 October.</p></div><div class="about-fact"><span>2021</span><strong>Internet Archive upload</strong><p>The collection was added on 1 March.</p></div><div class="about-fact"><span>2026</span><strong>The names become browsable</strong><p>A searchable catalog with file evidence, source links and guide summaries.</p></div></aside></div><section class="sources-section"><h2>Primary records &amp; context</h2>{''.join(f'<div class="source-reference"><span>0{i}</span><div><strong>{label}</strong><p>{note}</p></div>{ext(url,"View")}</div>' for i,(label,note,url) in enumerate([('Original Internet Archive collection','Source files and public collection metadata',SOURCE),('OpenZeebo English readme','Numeric ID mapping and preservation notes · 23 October 2011',readme),('Zeebo Brasil Guia de Jogos','Printed product guide · undated; 14 scan members',guide),('Contemporary executive interview','Game Developer / Gamasutra · 20 May 2009',interview)],1))}</section><section class="about-end"><h2>Small consoles deserve a big memory.</h2><p>Preservation credits belong to OpenZeebo, the Internet Archive community, Zeebo Brasil S.A. and the original creators. Wakka assembled this independent catalog.</p><a class="btn btn-primary" href="../index.html#catalog">Browse the collection →</a></section></main>'''+foot('../')
+    text+=f'''<main id="main" class="shell about-shell"><div class="crumbs"><a href="../index.html">Archive</a><span>/</span><span>Sources &amp; story</span></div><div class="about-hero"><div class="eyebrow"><span class="pulse"></span> CONTEXT MATTERS, TOO</div><h1>The games had names.<br><em>The archive should, too.</em></h1><p>Behind the six-digit filenames is an unusual console, a community preservation effort, and a printed guide full of games worth remembering.</p></div><div class="about-grid"><div class="about-text"><h2>A console with mobile roots</h2><p>Zeebo was a television console built around Qualcomm mobile technology. Games arrived over a 3G connection rather than on discs. In a May 2009 interview, its executives described an effort aimed at middle-class households in emerging markets, with Brazil as the initial launch market. {ext(interview,'Read the contemporary interview')}</p><h2>From a storefront to a surviving collection</h2><p>The <strong>OpenZeebo readme dated 23 October 2011</strong> describes a preservation compilation and maps numeric application IDs to game and system-app names. Its claim to contain every release is a statement by that historical source; this catalog counts the files actually supplied.</p><p>The Internet Archive item <strong>Zeebo (All Games + Dev Tools)</strong> was added on <strong>1 March 2021</strong>. Its original collection is credited here, rather than presented as a new recovery by this project. {ext(SOURCE,'View the original collection')}</p><h2>What the four supplied archives contain</h2><p>The uploaded copies yield <strong>61 game/app IDs in 68 title packages</strong>. Those include system applications as well as games. Shared IDs are grouped on one page, retaining distinct packages. IMICRO3D, component ID 12875 inside Action Hero 3D, is not counted as an additional game.</p><p>There are also <strong>16 developer/support files</strong>, three readme/ID-list records and one printed-guide record. Together these make <strong>81 browsing records and 88 source files</strong>. Material under the BREW tools folder is not automatically classified as a Zeebo retail release.</p><h2>A printed guide puts the names in context</h2><p>The undated <strong>Zeebo Brasil S.A. Guia de Jogos</strong> contains 14 scanned spreads. Original brief English summaries of its product descriptions accompany <strong>39 title IDs</strong>. Each page gives its exact scan filename so the description can be checked.</p><p>The guide describes advertised products; it does not authenticate the revision of a surviving executable. Scans and original documents remain linked at their source.</p><h2>How the evidence was checked</h2><p>All <strong>88 source files</strong> match a file size and SHA-1 in the Internet Archive file manifest embedded in the supplied ZIP. SHA-256 values were measured independently for every source file and every direct regular archive member.</p><p>The member inventory excludes directories from file counts. Containers inside the packages, including BAR, PAK and GGZ, were not exhaustively decoded. A content-multiset fingerprint compares file sizes and bytes while ignoring names and order; it is not a folder-layout equivalence claim.</p><h2>Can these files be played?</h2><p>This is a discovery and research catalog. No preserved game or developer utility was executed while assembling it. A file record does not establish compatibility, complete gameplay or continued availability of original online services.</p><h2>Help improve the record</h2><p>Report an incorrect detail, missing credit or broken link through {ext(REPO+'/issues','GitHub Issues')}. Include the title or ID and a supporting source where possible. Wakka reviews reports and publishes updates.</p></div><aside><div class="about-fact"><span>2009</span><strong>A different route to the television</strong><p>A contemporary executive interview explains the digital distribution model and intended audience.</p></div><div class="about-fact"><span>2011</span><strong>OpenZeebo compilation</strong><p>The source readme dates its preservation effort to 23 October.</p></div><div class="about-fact"><span>2021</span><strong>Internet Archive upload</strong><p>The collection was added on 1 March.</p></div><div class="about-fact"><span>2026</span><strong>The names become browsable</strong><p>A searchable catalog with file evidence, source links and guide summaries.</p></div></aside></div><section class="sources-section"><h2>Primary records &amp; context</h2>{''.join(f'<div class="source-reference"><span>0{i}</span><div><strong>{label}</strong><p>{note}</p></div>{ext(url,"View")}</div>' for i,(label,note,url) in enumerate([('Original Internet Archive collection','Source files and public collection metadata',SOURCE),('OpenZeebo English readme','Numeric ID mapping and preservation notes · 23 October 2011',readme),('Zeebo Brasil Guia de Jogos','Printed product guide · undated; 14 scan members',guide),('Contemporary executive interview','Game Developer / Gamasutra · 20 May 2009',interview)],1))}</section><section class="about-end"><h2>Small consoles deserve a big memory.</h2><p>Preservation credits belong to OpenZeebo, the Internet Archive community, Zeebo Brasil S.A. and the original creators. Wakka assembled this independent catalog.</p><a class="btn btn-primary" href="../index.html#catalog">Browse the collection →</a></section></main>'''+foot('../')
     put('about/index.html',text)
 def exports():
     def write_csv(name,fields,rows):
@@ -99,71 +99,54 @@ def readme():
 
 **A small console. A surprisingly deep archive.**
 
-A searchable GitHub Pages catalog assembled from four supplied Zeebo archive copies. Original preservation credits belong to OpenZeebo and the Internet Archive community. The printed guide is credited to Zeebo Brasil S.A.
+[**Browse the Zeebo archive →**]({BASE}) · [Sources and story]({BASE}about/) · [Original collection]({SOURCE})
 
-## What's here
+Created and maintained by **Wakkatobakka**. Explore the surviving Zeebo collection by name, compare preserved package variants, and follow the evidence back to its source.
+
+![Zeebo Archive](assets/social-preview.png)
+
+## Explore the collection
 
 - **61 game/app IDs**, mapped using the 2011 OpenZeebo title list.
 - **68 title packages**, with variants grouped on the same title page.
-- **20 tools and reference records**, including 16 developer/support files, the guide and three source-text records.
+- **20 tools and reference records**, including 16 developer/support files, a printed guide, and three source-text records.
 - **14 scanned guide spreads indexed**, with original summaries for **39 documented title IDs**.
-- **81 browsing records / 88 source-file fingerprints**, plus direct-member inventories and SHA-256 values.
-- Search by title, ID, original path, internal filename or package SHA-256. Filter by record type, source subset or guide coverage.
+- **81 browsing records and 88 source-file fingerprints**, with direct-member inventories and SHA-256 values.
+- Search by title, ID, original path, internal filename, or package fingerprint; filter by record type, source subset, or guide coverage.
 
-This repository contains metadata, original summaries, decorative artwork and source links. Original game binaries, tools, guide scans and PDFs remain at their source.
+This catalog contains metadata, original summaries, decorative artwork, and source links. Original game binaries, developer tools, guide scans, and PDFs remain at their source.
 
-## Publish on GitHub Pages
+## Sources and counting rules
 
-1. Extract this ZIP on your computer.
-2. Create a public GitHub repository named **`zeebo-archive`** under **Wakkatobakka**.
-3. Copy this folder's **contents** into the repository root. `index.html`, `assets`, `games`, `resources`, `data`, `about` and `tools` must sit directly inside the repository.
-4. Commit and publish the repository.
-5. Open **Settings → Pages**. Choose **Deploy from a branch → main → /(root)**, then **Save**.
+Original preservation credits belong to **OpenZeebo and the Internet Archive community**. The printed game guide is credited to **Zeebo Brasil S.A.**
 
-Expected address after deployment: **{BASE}**
+All 88 cataloged source files match sizes and SHA-1 values in the Internet Archive manifest embedded in the supplied archive. SHA-256 values were measured independently. Input-archive and manifest fingerprints remain in `data/catalog.json`.
 
-No build service, API keys or paid hosting are required. You can preview locally by opening `index.html` before uploading.
+The 61 game/app IDs include system applications; they are not a claim of 61 retail games. Bundled IMICRO3D component ID 12875 is not counted as an additional game. Material under the developer folder is not automatically classified as a Zeebo release.
 
-## Sources & counting rules
+The printed guide is undated. The English OpenZeebo readme is dated October 23, 2011. Guide descriptions identify advertised products, rather than authenticating exact executable revisions. No preserved game or utility was run for this catalog.
 
-Original collection: **{SOURCE}**
-
-All 88 cataloged source files match sizes and SHA-1 values in the embedded Internet Archive manifest. SHA-256 values were measured independently. Input-archive and manifest fingerprints are retained in `data/catalog.json`.
-
-Game/app counts are distinct six-digit IDs, not a claim of 61 retail games. ID 12875 is a bundled IMICRO3D component. Material under the developer folder is not automatically classified as a Zeebo release. All distinct title packages remain recorded.
-
-The printed guide is undated. The English OpenZeebo readme is dated 23 October 2011. Guide descriptions identify advertised products, not exact executable revisions. No preserved game or utility was run for this catalog.
-
-## Metadata downloads
+## Follow the records
 
 | File | Contents |
 | --- | --- |
-| `data/catalog.csv` | 81 title/reference records |
-| `data/packages.csv` | 88 source files, including title variants |
-| `data/contents.csv` | Direct regular archive members, with SHA-256 |
-| `data/catalog.json` | Full nested catalog and provenance |
+| [Catalog CSV](data/catalog.csv) | 81 title/reference records |
+| [Package CSV](data/packages.csv) | 88 source files, including title variants |
+| [Contents CSV](data/contents.csv) | Direct regular archive members, with SHA-256 values |
+| [Complete JSON](data/catalog.json) | Nested catalog and source provenance |
 
-Directories are excluded from file counts. Internal BAR, PAK and GGZ containers were not exhaustively decoded. Content-multiset fingerprints ignore member names and order.
+Directories are excluded from file counts. Internal BAR, PAK, and GGZ containers were not exhaustively decoded. Content-multiset fingerprints compare file bytes and sizes while ignoring member names and order.
 
-## Suggest a correction
+## Errors and broken links
 
-Open an issue or propose a pull request with the title/ID, correction and a source. Wakka reviews contributions before they appear on the site.
+Report an incorrect detail, missing credit, or broken link through [GitHub Issues]({REPO}/issues). Include the title or record ID and a supporting source where possible. Wakka reviews reports and publishes any updates.
 
-## Maintainer notes
+## More from Wakka's archive
 
-Edit `data/catalog.json`, then run:
-
-```sh
-python3 tools/build_site.py
-```
-
-The standard-library script rebuilds the homepage, record pages, About page, CSV exports and sitemap. It needs no game files. For lasting metadata edits, update JSON rather than the generated CSVs or pages.
-
-To use another repository, change `repository` and `site_url` in the JSON, rebuild, and update these publishing instructions.
+[Qualcomm BREW](https://wakkatobakka.github.io/qualcomm-brew-archive/) · [Zeebo]({BASE}) · [ExEn](https://wakkatobakka.github.io/exen-game-archive/) · [DoJa](https://wakkatobakka.github.io/doja-archive/)
 
 ---
-
-Independent community catalog by Wakka. No affiliation with Zeebo, Tectoy, Qualcomm or original rights holders. Original content retains its respective ownership.
+Independent catalog by Wakkatobakka. No affiliation with Zeebo, Tectoy, Qualcomm, or original rights holders. Original third-party content retains its respective ownership.
 ''')
 
 homepage()
