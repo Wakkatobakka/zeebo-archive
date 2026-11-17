@@ -1,52 +1,56 @@
-# Zeebo / The Lost Catalog
+# Zeebo / Archive
 
-**A small console. A surprisingly deep archive.**
+**A true archive of the game and its history, not just a file.**
 
-[**Browse the Zeebo archive →**](https://wakkatobakka.github.io/zeebo-archive/) · [Sources and story](https://wakkatobakka.github.io/zeebo-archive/about/) · [Original collection](https://archive.org/details/zeebo-romset-and-devtools)
+[Browse the archive](https://wakkatobakka.github.io/zeebo-archive/) · [Platform history](history/index.html) · [Creators](creators/index.html) · [Sources](sources/index.html)
 
-Created and maintained by **Wakkatobakka**. Explore the surviving Zeebo collection by name, compare preserved package variants, and follow the evidence back to its source.
+Created and maintained by **Wakkatobakka**. Read about Zeebo games, the people who made them, and the console they worked with. Original file records remain available on each entry.
 
 ![Zeebo Archive](assets/social-preview.png)
 
-## Explore the collection
+## This edition
 
-- **61 game/app IDs**, mapped using the 2011 OpenZeebo title list.
-- **68 title packages**, with variants grouped on the same title page.
-- **20 tools and reference records**, including 16 developer/support files, a printed guide, and three source-text records.
-- **14 scanned guide spreads indexed**, with original summaries for **39 documented title IDs**.
-- **81 browsing records and 88 source-file fingerprints**, with direct-member inventories and SHA-256 values.
-- Search by title, ID, original path, internal filename, or package fingerprint; filter by record type, source subset, or guide coverage.
+- **56 games, 5 applications and 20 tools or reference records**, preserving all 81 existing record URLs.
+- **137 named contributors and 50 studios or organisations**, with 242 selected role credits across 35 entries. Original-game and Zeebo adaptation credits identify their edition.
+- **210 source records**, including developer accounts, interviews, announcements, credit transcriptions, guide references and the original file inventory.
+- **8 historical images across 4 games**. Contemporary interview images and later emulator captures are labelled separately. Production portfolios are linked where artwork could not be reproduced.
+- **88 original source-file records**, with package variants, source paths, direct-member inventories and fingerprints retained unchanged.
+- **14 printed-guide scan locators**, with guide coverage for 39 title IDs. Full-resolution scans remain at their source.
 
-This catalog contains metadata, original summaries, decorative artwork, and source links. Original game binaries, developer tools, guide scans, and PDFs remain at their source.
+Entries use the same reading structure as the revised ExEn archive: the game, development, people, release and reception, gallery, files and sources. Sections appear when supported by research. The existing Zeebo colours are preserved.
 
-## Sources and counting rules
+Search by game, creator, studio, ID, filename, member path or checksum. Filters cover games, applications, tools, documents, source subset and printed-guide coverage. Contributor profiles link to their games and sources. Images can be enlarged without leaving an entry.
 
-Original preservation credits belong to **OpenZeebo and the Internet Archive community**. The printed game guide is credited to **Zeebo Brasil S.A.**
+## Sources and file records
 
-All 88 cataloged source files match sizes and SHA-1 values in the Internet Archive manifest embedded in the supplied archive. SHA-256 values were measured independently. Input-archive and manifest fingerprints remain in `data/catalog.json`.
+Original preservation credits belong to **OpenZeebo and the Internet Archive community**. The printed guide is credited to **Zeebo Brasil S.A.** See [methods and credits](about/index.html).
 
-The 61 game/app IDs include system applications; they are not a claim of 61 retail games. Bundled IMICRO3D component ID 12875 is not counted as an additional game. Material under the developer folder is not automatically classified as a Zeebo release.
+The 61 game/app IDs represent 68 title packages; they are not 61 retail games. Bundled IMICRO3D component ID 12875 remains part of Action Hero 3D. Files in the developer collection are not automatically identified as Zeebo releases.
 
-The printed guide is undated. The English OpenZeebo readme is dated October 23, 2011. Guide descriptions identify advertised products, rather than authenticating exact executable revisions. No preserved game or utility was run for this catalog.
-
-## Follow the records
+The original inventory matched all 88 catalogued source files to Internet Archive manifest sizes and SHA-1 values. SHA-256 fingerprints and direct-member inventories are retained. No game or developer utility was executed for this catalog. Internal BAR, PAK and GGZ containers were not exhaustively decoded.
 
 | File | Contents |
 | --- | --- |
-| [Catalog CSV](data/catalog.csv) | 81 title/reference records |
-| [Package CSV](data/packages.csv) | 88 source files, including title variants |
-| [Contents CSV](data/contents.csv) | Direct regular archive members, with SHA-256 values |
-| [Complete JSON](data/catalog.json) | Nested catalog and source provenance |
+| [catalog.json](data/catalog.json) | Unchanged original inventory and provenance |
+| [catalog.csv](data/catalog.csv) | 81 original browsing records |
+| [packages.csv](data/packages.csv) | 88 original source files |
+| [contents.csv](data/contents.csv) | Original direct-member inventories and fingerprints |
+| [research.json](data/research.json) | Histories, scoped credits, quotations, sources and image attribution |
+| [credits.csv](data/credits.csv) | Selected personal roles and source links |
 
-Directories are excluded from file counts. Internal BAR, PAK, and GGZ containers were not exhaustively decoded. Content-multiset fingerprints compare file bytes and sizes while ignoring member names and order.
+Game binaries, executable developer tools and full guide scans are not bundled in this website.
 
-## Errors and broken links
+## Updating the site
 
-Report an incorrect detail, missing credit, or broken link through [GitHub Issues](https://github.com/Wakkatobakka/zeebo-archive/issues). Include the title or record ID and a supporting source where possible. Wakka reviews reports and publishes any updates.
+The site is static and works on GitHub Pages without a build step. Upload the extracted website files at the repository root. See [UPLOAD_TO_GITHUB.txt](UPLOAD_TO_GITHUB.txt).
 
-## More from Wakka's archive
+To regenerate pages after editing research, use Python 3.9 or newer:
 
-[Qualcomm BREW](https://wakkatobakka.github.io/qualcomm-brew-archive/) · [Zeebo](https://wakkatobakka.github.io/zeebo-archive/) · [ExEn](https://wakkatobakka.github.io/exen-game-archive/) · [DoJa](https://wakkatobakka.github.io/doja-archive/)
+```sh
+python3 tools/build_site.py
+python3 tools/verify.py
+```
 
----
-Independent catalog by Wakkatobakka. No affiliation with Zeebo, Tectoy, Qualcomm, or original rights holders. Original third-party content retains its respective ownership.
+The builder reads the original inventory and the new research separately. The verifier checks the protected inventory and palette, all generated local links and anchors, citation references, credit exports, image metadata and package/member evidence. See [data/SCHEMA.md](data/SCHEMA.md) for the research format.
+
+Report corrections through [GitHub Issues](https://github.com/Wakkatobakka/zeebo-archive/issues), including the record ID and a supporting source.

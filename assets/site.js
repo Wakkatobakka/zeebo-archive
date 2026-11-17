@@ -12,11 +12,11 @@
     const guide = document.querySelector('#guide-only');
     const count = document.querySelector('#results-count');
     const empty = document.querySelector('#no-results');
-    let kind = 'All';
+    let kind = 'Game';
     function restore() {
       const params = new URLSearchParams(location.search);
       input.value = params.get('q') || '';
-      kind = chips.some(c => c.dataset.type === params.get('type')) ? params.get('type') : 'All';
+      kind = chips.some(c => c.dataset.type === params.get('type')) ? params.get('type') : 'Game';
       collection.value = [...collection.options].some(o => o.value === params.get('set')) ? params.get('set') : 'All';
       guide.checked = params.get('guide') === '1';
     }
@@ -41,7 +41,7 @@
       if (updateUrl) {
         const params = new URLSearchParams();
         if (input.value.trim()) params.set('q', input.value.trim());
-        if (kind !== 'All') params.set('type', kind);
+        if (kind !== 'Game') params.set('type', kind);
         if (collection.value !== 'All') params.set('set', collection.value);
         if (guide.checked) params.set('guide', '1');
         try { history.replaceState(null, '', location.pathname + (params.size ? '?' + params : '') + location.hash); }
@@ -53,7 +53,7 @@
     guide.addEventListener('change', () => run());
     chips.forEach(chip => chip.addEventListener('click', () => { kind = chip.dataset.type; run(); }));
     document.querySelector('#clear-search').addEventListener('click', () => {
-      input.value = ''; kind = 'All'; collection.value = 'All'; guide.checked = false;
+      input.value = ''; kind = 'Game'; collection.value = 'All'; guide.checked = false;
       run(); input.focus();
     });
     document.addEventListener('keydown', event => {
