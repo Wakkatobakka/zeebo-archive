@@ -77,6 +77,23 @@ def render(root):
             wide = ' wide-media' if m['kind'] in ('production', 'guide', 'advertisement') else ''
             result += f'<figure class="archive-figure{wide}"><div class="artifact" data-kind="{h(m["kind"])}"><a class="image-open" href="{h(url)}" data-image="{h(url)}" data-caption="{h(m["caption"])}" aria-label="Enlarge: {h(m["caption"])}"><img src="{h(url)}" alt="{h(m["alt"])}" width="{m["width"]}" height="{m["height"]}" loading="lazy"></a></div><figcaption>{h(m["caption"])}{cites([m["source"]], refs)}<span class="image-credit">{h(m["credit"])}</span></figcaption><a class="enlarge" href="{h(url)}" data-image="{h(url)}" data-caption="{h(m["caption"])}">Enlarge image <span aria-hidden="true">+</span></a></figure>'
         return result
+    def narrative(items, quotes, refs, section):
+        selected = [q for q in quotes if q['section'] == section]
+        if len(selected) == 1 and any(p.get('after_quote') for p in items):
+            before = [p for p in items if not p.get('after_quote')]
+            after = [p for p in items if p.get('after_quote')]
+            return paragraphs(before, refs) + quotations(selected, refs, section) + paragraphs(after, refs)
+        anchored = defaultdict(list)
+        for quote in selected:
+            matches = [i for i, item in enumerate(items) if quote['source'] in item['sources']]
+            anchored[matches[-1] if matches else len(items) - 1].append(quote)
+        content, pending = '', []
+        for i, item in enumerate(items):
+            pending.append(item)
+            if i in anchored:
+                content += paragraphs(pending, refs) + quotations(anchored[i], refs, section)
+                pending = []
+        return content + paragraphs(pending, refs) + (quotations(selected, refs, section) if not items else '')
     def bibliography(refs):
         result = '<section class="entry-section bibliography" id="sources"><h2>Sources</h2><ol>'
         for sid in refs:
@@ -126,9 +143,7 @@ def render(root):
         gallery = [m for m in g.get('media', []) if m.get('placement', 'gallery') == 'gallery']
         title = 'The game' if e['kind'] == 'Game' else 'The application' if e['kind'] == 'Application' else 'The material'
         add('the-game', title, paragraphs(g['overview'], refs) + media(primary, refs))
-        before_quote = [p for p in g['development'] if not p.get('after_quote')]
-        after_quote = [p for p in g['development'] if p.get('after_quote')]
-        add('development', 'Development', paragraphs(before_quote, refs) + quotations(g['quotes'], refs, 'development') + paragraphs(after_quote, refs) + media(production, refs))
+        add('development', 'Development', narrative(g['development'], g['quotes'], refs, 'development') + media(production, refs))
         grouped = defaultdict(list)
         for c in g['credits']:
             grouped[c['name']].append(c)
@@ -151,7 +166,7 @@ def render(root):
             rows = ''.join(f'<li><a href="{studio(s["name"], "../../")}">{h(s["name"])}</a><span>{h(s["role"])}{(" · " + h(s["scope"])) if s["scope"] != "Zeebo" else ""}{cites([s["source"]], refs)}</span></li>' for s in g['studio_roles'])
             peoplebody += f'<div class="studio-block"><h3>Studios and production</h3><ul class="studio-roles">{rows}</ul></div>'
         add('creators', 'People', peoplebody)
-        add('reception', 'Release and reception', paragraphs(g['release'], refs) + quotations(g['quotes'], refs, 'reception'))
+        add('reception', 'Release and reception', narrative(g['release'], g['quotes'], refs, 'reception'))
         add('gallery', 'Gallery', '<div class="archive-gallery">' + media(gallery, refs) + '</div>' if gallery else '')
         packages = ''.join(package_panel(p, i) for i, p in enumerate(e['packages'], 1))
         count = len(e['packages'])
@@ -194,13 +209,13 @@ def render(root):
         save(route(e), e['title'], g['deck'], body, prefix='../../', scripts=('site.js', 'entry.js'))
 
     platform = research['platform']
-    refs = list(dict.fromkeys([s for p in platform for s in p['sources']] + [q['source'] for p in platform for q in p.get('quotes', [])]))
+    refs = list(dict.fromkeys([s for p in platform for s in p['sources']] + [q['source'] for p in platform for q in p.get('quotes', [])] + [m['source'] for p in platform for m in p.get('media', [])]))
     body = '<article class="narrow article platform-history"><div class="eyebrow">ZEEBO / PLATFORM HISTORY</div><h1>Making games for Zeebo</h1><p class="lede">The console, its development environment, and the games made for it.</p>'
     for p in platform:
-        body += f'<section class="entry-section"><h2>{h(p["heading"])}</h2>' + paragraphs([p], refs) + quotations(p.get('quotes', []), refs, 'development') + '</section>'
+        body += f'<section class="entry-section"><h2>{h(p["heading"])}</h2>' + paragraphs([p], refs) + quotations(p.get('quotes', []), refs, 'development') + media(p.get('media', []), refs, '../') + '</section>'
     body += '<nav class="reading-routes" aria-label="Game development accounts">' + ''.join(f'<a href="{route(byid[gid], "../")}">{h(byid[gid]["title"])} ↗</a>' for gid, _ in features) + '</nav>'
-    body += '<nav class="reading-routes" aria-label="Development reference records">' + ''.join(f'<a href="{route(e, "../")}">{h(e["title"])}</a>' for e in entries if e['kind'] in ('Development', 'BREW sample')) + '</nav>' + bibliography(refs) + '</article>'
-    save('history/index.html', 'Platform history', 'Zeebo, its creators, the BREW development environment and digital distribution.', body, prefix='../', active='history')
+    body += '<nav class="reading-routes" aria-label="Development reference records">' + ''.join(f'<a href="{route(e, "../")}">{h(e["title"])}</a>' for e in entries if e['kind'] in ('Development', 'BREW sample')) + '</nav>' + bibliography(refs) + '</article>' + viewer()
+    save('history/index.html', 'Platform history', 'Zeebo, its creators, the BREW development environment and digital distribution.', body, prefix='../', active='history', scripts=('entry.js',))
 
     creatorcards = ''
     for name, work in sorted(people.items(), key=lambda x: slug(x[0])):
@@ -234,7 +249,7 @@ def render(root):
         body += '</ul></section>'
     body += '</div><div class="buttons"><a class="btn btn-secondary" href="../data/research.json" download>Histories &amp; credits JSON ↓</a><a class="btn btn-secondary" href="../data/credits.csv" download>Contributor CSV ↓</a></div></article>'
     save('sources/index.html', 'Sources', 'Sources for Zeebo game histories, interviews, creator credits, images and preserved files.', body, prefix='../', active='sources')
-    body = f'''<article class="narrow article"><div class="eyebrow">ZEEBO / METHODS &amp; CREDITS</div><h1>About the archive</h1><p class="lede">A true archive of the game and its history, not just a file.</p><section class="entry-section"><h2>The collection</h2><p>The original inventory contains 56 games, five applications and 20 tools or reference records. The 61 numeric game/app IDs represent 68 title packages. Variants stay grouped under the existing record URLs.</p><p>All 88 source files, direct-member inventories, source paths and fingerprints are retained. IMICRO3D component ID 12875, bundled with Action Hero 3D, remains part of that package rather than a separate game.</p></section><section class="entry-section"><h2>Game histories</h2><p>Interviews, developer portfolios, credit records, announcements and contemporary coverage are cited alongside each entry. Direct quotations retain the original wording and identify the speaker, publication and translation where relevant.</p><p>Original arcade, console or phone teams are distinguished from Zeebo porting teams. A contributor’s edition is shown with the credit. Historical announcements describe plans at the time; entries distinguish those plans from documented releases.</p></section><section class="entry-section"><h2>Images and original documents</h2><p>Images have captions, source links and contributor or reproduction credits. Emulator captures are labelled as such. The eight included images cover four games. Creator portfolios are linked where production artwork could not be reproduced.</p><p>The undated Zeebo Brasil game guide contains 14 scanned spreads. The existing guide descriptions cover 39 title IDs and retain the exact scan locators. Full-resolution scans remain linked at the original source.</p></section><section class="entry-section"><h2>File records and verification</h2><p>The original research matched all 88 source files to the sizes and SHA-1 values in the Internet Archive manifest. SHA-256 values were measured for source files and direct regular archive members. Those records are unchanged in this edition.</p><p>Internal BAR, PAK and GGZ containers were not exhaustively decoded. Content-multiset fingerprints compare file bytes and sizes while ignoring names and order.</p><p>No game or developer utility was executed for this catalog. File identification and gameplay testing remain separate.</p></section><section class="entry-section"><h2>Preservation credits</h2><p>OpenZeebo’s compilation and ID mapping are dated 23 October 2011. The Internet Archive collection was added on 1 March 2021. Original preservation credits belong to OpenZeebo and the Internet Archive community; the printed guide is credited to Zeebo Brasil S.A.</p><p>Wakka assembled this independent archive. Individual entries identify the developers, artists, interviewers, reviewers and researchers whose work is used.</p></section><section class="entry-section"><h2>Corrections and additions</h2><p><a href="{repo}/issues">Send a correction or source</a> with the title or record ID and a supporting reference. Wakka reviews changes before publication.</p></section><div class="buttons"><a class="btn btn-primary" href="../index.html#catalog">Browse the catalog</a><a class="btn btn-secondary" href="../sources/index.html">Sources</a></div></article>'''
+    body = f'''<article class="narrow article"><div class="eyebrow">ZEEBO / METHODS &amp; CREDITS</div><h1>About the archive</h1><p class="lede">A true archive of the game and its history, not just a file.</p><section class="entry-section"><h2>The collection</h2><p>The original inventory contains 56 games, five applications and 20 tools or reference records. The 61 numeric game/app IDs represent 68 title packages. Variants stay grouped under the existing record URLs.</p><p>All 88 source files, direct-member inventories, source paths and fingerprints are retained. IMICRO3D component ID 12875, bundled with Action Hero 3D, remains part of that package rather than a separate game.</p></section><section class="entry-section"><h2>Game histories</h2><p>Interviews, developer portfolios, credit records, announcements and contemporary coverage are cited alongside each entry. Direct quotations retain the original wording and identify the speaker, publication and translation where relevant.</p><p>Original arcade, console or phone teams are distinguished from Zeebo porting teams. A contributor’s edition is shown with the credit. Historical announcements describe plans at the time; entries distinguish those plans from documented releases.</p></section><section class="entry-section"><h2>Images and original documents</h2><p>Images have captions, source links and contributor or reproduction credits. Emulator captures are labelled as such. The image collection includes creator portfolios, game interfaces, promotional material and later photographs. Captions distinguish released-game images, interface artwork, emulator captures, portraits and conference photographs; they do not imply that these are early prototypes or workplace photographs.</p><p>The undated Zeebo Brasil game guide contains 14 scanned spreads. The existing guide descriptions cover 39 title IDs and retain the exact scan locators. Full-resolution scans remain linked at the original source.</p></section><section class="entry-section"><h2>File records and verification</h2><p>The original research matched all 88 source files to the sizes and SHA-1 values in the Internet Archive manifest. SHA-256 values were measured for source files and direct regular archive members. Those records are unchanged in this edition.</p><p>Internal BAR, PAK and GGZ containers were not exhaustively decoded. Content-multiset fingerprints compare file bytes and sizes while ignoring names and order.</p><p>No game or developer utility was executed for this catalog. File identification and gameplay testing remain separate.</p></section><section class="entry-section"><h2>Preservation credits</h2><p>OpenZeebo’s compilation and ID mapping are dated 23 October 2011. The Internet Archive collection was added on 1 March 2021. Original preservation credits belong to OpenZeebo and the Internet Archive community; the printed guide is credited to Zeebo Brasil S.A.</p><p>Wakka assembled this independent archive. Individual entries identify the developers, artists, interviewers, reviewers and researchers whose work is used.</p></section><section class="entry-section"><h2>Corrections and additions</h2><p><a href="{repo}/issues">Send a correction or source</a> with the title or record ID and a supporting reference. Wakka reviews changes before publication.</p></section><div class="buttons"><a class="btn btn-primary" href="../index.html#catalog">Browse the catalog</a><a class="btn btn-secondary" href="../sources/index.html">Sources</a></div></article>'''
     save('about/index.html', 'Methods and credits', 'Collection scope, source attribution, file verification and preservation credits.', body, prefix='../')
     save('404.html', 'Page not found', 'Find a record in the Zeebo archive.', f'<section class="narrow article"><h1>Page not found</h1><p class="lede">Browse the catalog to find a game or reference record.</p><a class="btn btn-primary" href="{base}">Zeebo catalog →</a></section>', prefix=base)
     with (root / 'data/credits.csv').open('w', encoding='utf-8', newline='') as f:

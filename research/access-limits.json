@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://www.behance.net/gallery/6528343/Zeebo-Turma-da-Monica-Vamos-Brincar",
+    "outcome": "Project HTML 403; identified original CDN assets successfully retrieved through indexed image search. No login or access-control bypass."
+  },
+  {
+    "url": "https://www.behance.net/gallery/1079601/Crash-Bandicoot-Nitro-Kart-3D-%28Zeebo-porting%29?locale=en_US",
+    "outcome": "403; same producer’s own website was accessible and supplied the actual case study and gallery."
+  },
+  {
+    "url": "https://www.behance.net/gallery/1079617/Quake-2-%28Zeebo-porting%29",
+    "outcome": "403; same producer’s own website accessible at https://texpine.com/quake-2-zeebo-porting.html. Only generic Quake II hero image there; no new verified Zeebo capture selected."
+  },
+  {
+    "topic": "Original production sketches and studio development photographs",
+    "outcome": "Named artists and regional terms searched; no verified sketch or 2009–2010 workplace photograph retrieved in this pass. Portfolio interfaces and 2017/2024 portraits/events are labelled accurately. Unfound material is not claimed lost."
+  },
+  {
+    "topic": "Contemporary ZeeboClub linked image captures",
+    "outcome": "Six original screenshot URLs identified by contemporary reviews; web requests returned404 and one exact direct archival retrieval per URL returned503. No retry loop or substitute image."
+  },
+  {
+    "topic": "Major-port general image searches",
+    "outcome": "RE4 query returned a modern-remake mod and Prey query returned unrelated Zuma image; these were rejected. FIFA/NFS returned later database/player captures, not accepted as contemporary promotional evidence."
+  },
+  {
+    "topic": "UOL2014 images",
+    "outcome": "All three inspected images showed console hardware, not portraits; omitted as redundant."
+  }
+]

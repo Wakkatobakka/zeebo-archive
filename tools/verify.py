@@ -50,10 +50,18 @@ for gid, g in games.items():
     check(g['overview'] and g['deck'], 'Missing introduction: ' + gid)
     refs = []
     for section in ('overview', 'development', 'release', 'notes'):
+        texts = [p['text'].strip() for p in g[section]]
+        check(len(texts) == len(set(texts)), 'Repeated paragraph in ' + gid + ': ' + section)
         refs += [sid for p in g[section] for sid in p['sources']]
+    quote_keys = [(q['text'], q['source'], q['speaker'], q['section']) for q in g['quotes']]
+    check(len(quote_keys) == len(set(quote_keys)), 'Repeated quotation: ' + gid)
     for q in g['quotes']:
         check(q['speaker'] and q['attribution'], 'Unattributed quotation: ' + gid)
         quote_words[sources[q['source']]['url']] += len(q['text'].split())
+        if q.get('translation'):
+            translated = re.findall('“([^”]+)”', q['translation'])
+            quote_words[sources[q['source']]['url']] += sum(len(t.split()) for t in translated)
+        check(not q.get('original_text') or q['original_text'] == q['text'], 'Original quotation hidden from the reader: ' + gid)
         refs.append(q['source'])
     for c in g['credits'] + g['studio_roles']:
         check(c['name'] and c['scope'] and c['role'], 'Unscoped credit: ' + gid)
@@ -71,7 +79,17 @@ for p in research['platform']:
     for q in p.get('quotes', []):
         quote_words[sources[q['source']]['url']] += len(q['text'].split())
 check(all(n <= 25 for n in quote_words.values()), 'Quoted source exceeds 25 words: ' + repr(quote_words))
-check(media_count == 8, 'Image count')
+for p in research['platform']:
+    for m in p.get('media', []):
+        check((ROOT / m['path']).is_file() and m['source'] in sources, 'Platform artifact missing')
+        check(m['caption'] and m['credit'] and m['platform_evidence'], 'Platform artifact attribution')
+        media_count += 1
+manifest = json.loads((ROOT / 'research/media-manifest.json').read_text())
+for m in manifest:
+    check(hashlib.sha256((ROOT / m['path']).read_bytes()).hexdigest() == m['sha256'], 'Historical image bytes changed: ' + m['path'])
+check(media_count == len(manifest), 'Image manifest parity')
+coverage = json.loads((ROOT / 'research/coverage.json').read_text())
+check({e['id'] for e in entries if e['id'].isdigit()} == set(coverage), 'Game/app research coverage missing')
 html_files = sorted(ROOT.rglob('*.html'))
 check(len(html_files) == 87, 'HTML page count')
 pages = {p.resolve(): Page(p) for p in html_files}

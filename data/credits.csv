@@ -5,10 +5,15 @@ id,title,person,role,team,scope,source_url
 280386,Alice no País das Maravilhas,Thomas Gomes,Developer,Zeebo Interactive Studios,Zeebo,https://www.mobygames.com/game/49052/alice-in-wonderland-an-adventure-beyond-the-mirror/credits/zeebo/?autoplatform=true
 280386,Alice no País das Maravilhas,Denis Koishi,Musician,Zeebo Interactive Studios,Zeebo,https://www.mobygames.com/game/49052/alice-in-wonderland-an-adventure-beyond-the-mirror/credits/zeebo/?autoplatform=true
 280386,Alice no País das Maravilhas,Wengang Song,Producer,Disney Interactive Studios Beijing,Original mobile edition,https://www.mobygames.com/game/49052/alice-in-wonderland-an-adventure-beyond-the-mirror/credits/zeebo/?autoplatform=true
+280386,Alice no País das Maravilhas,Luiz Gustavo Marquetti,Artist,Zeebo Interactive Studios,Zeebo,https://www.mobygames.com/game/49052/alice-in-wonderland-an-adventure-beyond-the-mirror/credits/zeebo/?autoplatform=true
+280386,Alice no País das Maravilhas,Marcelo Silva,Artist,Zeebo Interactive Studios,Zeebo,https://www.mobygames.com/game/49052/alice-in-wonderland-an-adventure-beyond-the-mirror/credits/zeebo/?autoplatform=true
+280386,Alice no País das Maravilhas,Cacau Pastorello,QA lead,Zeebo Interactive Studios,Zeebo,https://www.mobygames.com/game/49052/alice-in-wonderland-an-adventure-beyond-the-mirror/credits/zeebo/?autoplatform=true
 277083,Bejeweled Twist,Brian Fiete,Original design,PopCap,Original game,https://www.mobygames.com/game/37205/bejeweled-twist/credits/zeebo/
 277083,Bejeweled Twist,Jason Kapalka,Original design,PopCap,Original game,https://www.mobygames.com/game/37205/bejeweled-twist/credits/zeebo/
 277083,Bejeweled Twist,Kurt Pfeifer,Original design,PopCap,Original game,https://www.mobygames.com/game/37205/bejeweled-twist/credits/zeebo/
 277083,Bejeweled Twist,Vincent McCreith,Music,PopCap,Zeebo,https://www.mobygames.com/game/37205/bejeweled-twist/credits/zeebo/
+278986,Caveman Ninja,Miguel Ángel Horna,Emulation development,Zeebo Data East emulation project,Shared Zeebo emulation project; Caveman Ninja named in his account,https://vandal.elespanol.com/noticia-amp/1350759768/miguel-ngel-horna-de-la-emulacion-a-ser-parte-de-larian-studios/
+278986,Caveman Ninja,Miguel Ángel Pastor,Emulation collaboration and Zeebo contact,Zeebo Data East emulation project,Shared Zeebo emulation project; Caveman Ninja named in Horna’s account,https://vandal.elespanol.com/noticia-amp/1350759768/miguel-ngel-horna-de-la-emulacion-a-ser-parte-de-larian-studios/
 274214,Crash Bandicoot Nitro Kart 3D,Tiago Tex Pine,Production,Tectoy Digital,Zeebo,https://www.mobygames.com/game/42785/crash-bandicoot-nitro-kart-3d/
 274214,Crash Bandicoot Nitro Kart 3D,Hugo Faria,Production,Tectoy Digital,Zeebo,https://www.mobygames.com/game/42785/crash-bandicoot-nitro-kart-3d/
 274214,Crash Bandicoot Nitro Kart 3D,Vitor Picanço do Amaral,Programming,Tectoy Digital,Zeebo,https://www.mobygames.com/game/42785/crash-bandicoot-nitro-kart-3d/
@@ -22,10 +27,18 @@ id,title,person,role,team,scope,source_url
 274754,Double Dragon,Hideki Asanaka,Composer,Brizo Interactive,Zeebo,https://www.mobygames.com/game/42651/double-dragon/credits/zeebo/
 274754,Double Dragon,Souta Ichino,Project lead,Brizo Interactive,Zeebo,https://www.mobygames.com/game/42651/double-dragon/credits/zeebo/
 274754,Double Dragon,Ryosuke Jinno,Sub-producer,Brizo Interactive,Zeebo,https://www.mobygames.com/game/42651/double-dragon/credits/zeebo/
-274803,FIFA 09,Krzysztof Jędruczyk,Development lead,Gamelion,Zeebo,https://www.mobygames.com/game/69220/fifa-soccer-09/
-274803,FIFA 09,Hubert Borowy,Producer,Gamelion,Zeebo,https://www.mobygames.com/game/69220/fifa-soccer-09/
-274803,FIFA 09,Sebastian Szczygieł,Producer,Gamelion,Zeebo,https://www.mobygames.com/game/69220/fifa-soccer-09/
-274803,FIFA 09,Wojciech Lekki,3D art,Gamelion,Zeebo,https://www.mobygames.com/game/69220/fifa-soccer-09/
+274803,FIFA 09,Krzysztof Jędruczyk,Development lead,Gamelion,Underlying game (credited in Zeebo edition),https://www.mobygames.com/game/69220/fifa-soccer-09/
+274803,FIFA 09,Hubert Borowy,Producer,Gamelion,Underlying game (credited in Zeebo edition),https://www.mobygames.com/game/69220/fifa-soccer-09/
+274803,FIFA 09,Sebastian Szczygieł,Producer,Gamelion,Underlying game (credited in Zeebo edition),https://www.mobygames.com/game/69220/fifa-soccer-09/
+274803,FIFA 09,Wojciech Lekki,3D art,Gamelion,Underlying game (credited in Zeebo edition),https://www.mobygames.com/game/69220/fifa-soccer-09/
+274803,FIFA 09,Nivaldo Prieto,Portuguese commentary,FIFA licensed commentary,Zeebo,https://web.archive.org/web/20101211142949/http://www.zeeboclub.com/portal/reviews/fifa-2009
+274803,FIFA 09,Curumin,Recording artist — “Magrela Fever” menu music,Licensed recording,Zeebo,https://web.archive.org/web/20101211142949/http://www.zeeboclub.com/portal/reviews/fifa-2009
+274803,FIFA 09,Hugo Faria,Producer,Brazilian adaptation team,Zeebo,https://en.bdjogos.com.br/game.php?id=12248
+274803,FIFA 09,Edgar Vilela Gadbem,Programmer,Brazilian adaptation team,Zeebo,https://en.bdjogos.com.br/game.php?id=12248
+274803,FIFA 09,Henrique Mendes,Programmer,Brazilian adaptation team,Zeebo,https://en.bdjogos.com.br/game.php?id=12248
+274803,FIFA 09,Leonardo Loures Lopes,Programmer,Brazilian adaptation team,Zeebo,https://en.bdjogos.com.br/game.php?id=12248
+274803,FIFA 09,Seigi Sato,Artist,Brazilian adaptation team,Zeebo,https://en.bdjogos.com.br/game.php?id=12248
+274803,FIFA 09,Denis Koishi,Music,Brazilian adaptation team,Zeebo,https://en.bdjogos.com.br/game.php?id=12248
 279889,Heavy Barrel,Koji Akibayashi,Game design,Data East,Original arcade edition (1987),https://www.mobygames.com/game/16060/heavy-barrel/
 279889,Heavy Barrel,Azusa Hara,Music and sound,Data East,Original arcade edition (1987),https://www.mobygames.com/game/16060/heavy-barrel/
 279889,Heavy Barrel,Hiroaki Yoshida,Music and sound,Data East,Original arcade edition (1987),https://www.mobygames.com/game/16060/heavy-barrel/
@@ -46,12 +59,14 @@ id,title,person,role,team,scope,source_url
 276212,Pac-Mania,Tomoyuki Shimizu,Game design; director,Namco,Original arcade edition (1987),https://www.mobygames.com/game/8756/pac-mania/
 276212,Pac-Mania,Toru Iwatani,Director,Namco,Original arcade edition (1987),https://www.mobygames.com/game/8756/pac-mania/
 276212,Pac-Mania,Junko Ozawa,Music and sound,Namco,Original arcade edition (1987),https://www.mobygames.com/game/8756/pac-mania/
+278962,Peggle,Brian Rothstein,Original concept,PopCap,Original game,https://www.mobygames.com/game/38459/peggle/credits/zeebo/
+278962,Peggle,Sukhbir Sidhu,Original concept,PopCap,Original game,https://www.mobygames.com/game/38459/peggle/credits/zeebo/
 280238,Powerboat Challenge,Lars Berger,Lead developer,Fishlabs,Zeebo,https://www.mobygames.com/game/48622/powerboat-challenge/credits/zeebo/
 280238,Powerboat Challenge,Stefan Görlich,Lead developer,Fishlabs,Zeebo,https://www.mobygames.com/game/48622/powerboat-challenge/credits/zeebo/
 280238,Powerboat Challenge,Henning Lubahn,3D and level design,Fishlabs,Zeebo,https://www.mobygames.com/game/48622/powerboat-challenge/credits/zeebo/
 280238,Powerboat Challenge,Gero Goerlich,Music and sound effects,Fishlabs,Zeebo,https://www.mobygames.com/game/48622/powerboat-challenge/credits/zeebo/
 280238,Powerboat Challenge,Jörg Thomaschewski,Producer,Fishlabs,Zeebo,https://www.mobygames.com/game/48622/powerboat-challenge/credits/zeebo/
-276154,Prey Evil,Seth A. Robinson,Lead programmer,Machineworks Northwest,Zeebo,https://www.mobygames.com/game/42796/prey-mobile-3d/credits/zeebo/
+276154,Prey Evil,Seth A. Robinson,Lead programmer,Machineworks Northwest,Zeebo,https://www.rtsoft.com/pages/about.php
 276154,Prey Evil,Andreas Vasen,Producer,Machineworks Northwest,Zeebo,https://www.mobygames.com/game/42796/prey-mobile-3d/credits/zeebo/
 276154,Prey Evil,Scott Miller,Executive producer,3D Realms,Zeebo,https://www.mobygames.com/game/42796/prey-mobile-3d/credits/zeebo/
 276154,Prey Evil,Les Pardew,Art,Prey Evil credited art team,Zeebo,https://www.mobygames.com/game/42796/prey-mobile-3d/credits/zeebo/
@@ -70,6 +85,7 @@ id,title,person,role,team,scope,source_url
 276153,Quake II,Denis Koishi,Sound,Tectoy Digital,Zeebo,https://www.mobygames.com/game/405/quake-ii/credits/zeebo/
 276153,Quake II,Suzana Bueno,Computers voice,Tectoy Digital,Zeebo,https://www.mobygames.com/game/405/quake-ii/credits/zeebo/
 276153,Quake II,Bruno Santos,Radio voice,Tectoy Digital,Zeebo,https://www.mobygames.com/game/405/quake-ii/credits/zeebo/
+276153,Quake II,Felipe Lira,Programmer,Tectoy Digital,Zeebo,https://www.mobygames.com/game/405/quake-ii/credits/zeebo/
 279125,Super BurgerTime,Koji Akibayashi,Game designer,Data East,Original arcade edition (1990),https://www.mobygames.com/game/46084/super-burgertime/
 279125,Super BurgerTime,Mario Watanabe,Graphic designer,Data East,Original arcade edition (1990),https://www.mobygames.com/game/46084/super-burgertime/
 279125,Super BurgerTime,Yoshiyuki Urushibara,Graphic designer,Data East,Original arcade edition (1990),https://www.mobygames.com/game/46084/super-burgertime/
@@ -194,6 +210,7 @@ id,title,person,role,team,scope,source_url
 280647,Zeebo F.C. Super League,Denis Koishi,Sound designer,Zeebo Interactive Studios,Zeebo,https://www.mobygames.com/game/49642/zeebo-fc-super-league/
 280647,Zeebo F.C. Super League,Élcio Faria Ribeiro,Script writer; QA,Zeebo Interactive Studios,Zeebo,https://www.mobygames.com/game/49642/zeebo-fc-super-league/
 280647,Zeebo F.C. Super League,Suzana Bueno,QA lead,Zeebo Interactive Studios,Zeebo,https://www.mobygames.com/game/49642/zeebo-fc-super-league/
+280647,Zeebo F.C. Super League,Felipe Lira,Programmer,Zeebo Interactive Studios,Zeebo,https://www.mobygames.com/game/49642/zeebo-fc-super-league/
 277229,Zeebo Family Pack,Tommy Palm,Producer,Jadestone Group AB,Zeebo,https://www.mobygames.com/game/42797/zeebo-family-pack/credits/zeebo/?autoplatform=true
 277229,Zeebo Family Pack,Henrik Pettersson,Lead illustrator,Jadestone Group AB,Zeebo,https://www.mobygames.com/game/42797/zeebo-family-pack/credits/zeebo/?autoplatform=true
 277229,Zeebo Family Pack,Patrik Lindegren,Developer,Jadestone Group AB,Zeebo,https://www.mobygames.com/game/42797/zeebo-family-pack/credits/zeebo/?autoplatform=true

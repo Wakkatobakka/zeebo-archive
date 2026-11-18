@@ -8,18 +8,20 @@ Created and maintained by **Wakkatobakka**. Read about Zeebo games, the people w
 
 ![Zeebo Archive](assets/social-preview.png)
 
-## This edition
+## This edition — v3.0
 
 - **56 games, 5 applications and 20 tools or reference records**, preserving all 81 existing record URLs.
-- **137 named contributors and 50 studios or organisations**, with 242 selected role credits across 35 entries. Original-game and Zeebo adaptation credits identify their edition.
-- **210 source records**, including developer accounts, interviews, announcements, credit transcriptions, guide references and the original file inventory.
-- **8 historical images across 4 games**. Contemporary interview images and later emulator captures are labelled separately. Production portfolios are linked where artwork could not be reproduced.
+- **145 named contributors and 50 studios or organisations**, with 259 selected role credits across 37 entries. Original-game and Zeebo adaptation credits identify their edition.
+- **294 source records**, including developer accounts, interviews, announcements, credit transcriptions, guide references and the original file inventory.
+- **34 images across 13 game/app entries, plus 3 platform artifacts**. Creator portfolios, interfaces, promotional material, later portraits and emulator captures retain their specific labels and credits.
 - **88 original source-file records**, with package variants, source paths, direct-member inventories and fingerprints retained unchanged.
 - **14 printed-guide scan locators**, with guide coverage for 39 title IDs. Full-resolution scans remain at their source.
 
 Entries use the same reading structure as the revised ExEn archive: the game, development, people, release and reception, gallery, files and sources. Sections appear when supported by research. The existing Zeebo colours are preserved.
 
 Search by game, creator, studio, ID, filename, member path or checksum. Filters cover games, applications, tools, documents, source subset and printed-guide coverage. Contributor profiles link to their games and sources. Images can be enlarged without leaving an entry.
+
+The expanded research includes original Portuguese and Spanish voices with labelled English translations, contemporary regional reviews, firsthand developer accounts and corrected edition-specific credits. Research decisions and unresolved leads travel with the project in [research/STATUS.md](research/STATUS.md). Read [AGENTS.md](AGENTS.md) and [ARCHIVE_STANDARD.md](ARCHIVE_STANDARD.md) before further work.
 
 ## Sources and file records
 

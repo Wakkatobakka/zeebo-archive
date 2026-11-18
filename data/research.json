@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": "3.0",
   "reviewed": "2026-11-15",
   "premise": "A true archive of the game and its history, not just a file.",
   "sources": {
@@ -1682,30 +1682,720 @@
       "published": "2018-11-18",
       "reviewed": "2026-11-15",
       "note": "Unmodified A1 screenshots, dated 18 May 2024. These show emulation, not original-hardware capture."
+    },
+    "deep-a-uol-launch": {
+      "title": "Primeiros jogos do Zeebo não convencem; leia impressões — Claudio Prandoni",
+      "url": "https://www.uol.com.br/start/ultimas-noticias/2009/06/09/primeiros-jogos-do-zeebo-nao-convencem-leia-impressoes.htm",
+      "kind": "Contemporary hands-on report",
+      "published": "2009-06-09",
+      "reviewed": "2026-11-15",
+      "note": "Shared-source allocation: this batch uses fewer than 85 derived words across FIFA and Prey, no quotation; other entries are handled by root."
+    },
+    "deep-a-rizzo-january": {
+      "title": "2009’s Dark Horse Console Launch: The Story Behind Zeebo — Brandon Sheffield",
+      "url": "https://www.gamedeveloper.com/game-platforms/2009-s-dark-horse-console-launch-the-story-behind-zeebo",
+      "kind": "Contemporary executive interview",
+      "published": "2009-01-09",
+      "reviewed": "2026-11-15",
+      "note": "John Rizzo describes work in progress before launch. Timing estimates must not be presented as exact completed production schedules. This batch uses fewer than 50 words across FIFA and Prey."
+    },
+    "deep-a-action-review": {
+      "title": "Action Hero 3D — Zeebo Club review",
+      "url": "https://web.archive.org/web/20101123215606/http://www.zeeboclub.com/portal/reviews/action-hero-3d",
+      "kind": "Archived contemporary review",
+      "published": "2010-03-29",
+      "reviewed": "2026-11-15",
+      "note": "Page byline Daniel (Chrome), with ZeeboBrasil identified as the original source; updated 17 May 2010. Includes the quoted comment by Saulo Albert, 21 April 2010. Writer assumptions about cheap porting costs are not treated as production facts."
+    },
+    "deep-a-action-releases": {
+      "title": "Action Hero 3D: Wild Dog — BREW and Zeebo release records",
+      "url": "https://www.mobygames.com/game/42783/action-hero-3d-wild-dog/releases/",
+      "kind": "Edition release record",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Distinguishes September 2006 South Korean BREW game from May 2009 Zeebo edition; contradicts unsupported claims that the game originated as a Zeebo exclusive."
+    },
+    "deep-a-alice-launch": {
+      "title": "Lançamento: Alice no País das Maravilhas — official Zeebo Blog",
+      "url": "https://archive.is/Imd08",
+      "kind": "Archived official launch post",
+      "published": "2010-11-09",
+      "reviewed": "2026-11-15",
+      "note": "Complete short announcement recovered through search indexing; direct archive request returned 429. It announces availability that afternoon, distinct from September’s partnership plans."
+    },
+    "deep-a-alien-review": {
+      "title": "Alien Breaker — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20100610012051/http://www.zeeboclub.com/portal/reviews/alien-breaker",
+      "kind": "Archived contemporary review",
+      "published": "2010-05-28",
+      "reviewed": "2026-11-15",
+      "note": "Firsthand Zeebo observations, not assumptions imported from the iPhone edition. Includes two-player modes and control details; unsupported guesses about development resolution are excluded."
+    },
+    "deep-a-alpine-mobile-preview": {
+      "title": "Namco’s Alpine Racer coming to iPhone — Stuart Dredge",
+      "url": "https://www.pocketgamer.com/alpine-racer/namcos-alpine-racer-coming-to-iphone/",
+      "kind": "Contemporary mobile preview",
+      "published": "2009-02-23",
+      "reviewed": "2026-11-15",
+      "note": "Context for the mobile release family only. The preview explicitly labels its picture as the earlier phone version, not iPhone. iPhone tilt controls are not attributed to Zeebo."
+    },
+    "deep-a-armageddon-review": {
+      "title": "Armageddon Squadron — Ahtrun, Zeebo Club",
+      "url": "https://web.archive.org/web/20101124172942/http://www.zeeboclub.com/portal/reviews/armageddon-squadron",
+      "kind": "Archived contemporary review",
+      "published": "2010-10-05",
+      "reviewed": "2026-11-15",
+      "note": "Updated 26 October 2010. Firsthand observations of console campaign, wired controller and presentation; the reviewer’s speculation about why the port was made is not production evidence."
+    },
+    "deep-a-bejeweled-review": {
+      "title": "Bejeweled Twist — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20100430193007/http://www.zeeboclub.com/portal/reviews/bejeweled-twist",
+      "kind": "Archived contemporary review and reader response",
+      "published": "2010-04-25",
+      "reviewed": "2026-11-15",
+      "note": "STX describes controller failures and his workaround; Ahtrun’s same-day comment disputes accepting those conditions. These are historical reports, not guaranteed current compatibility instructions."
+    },
+    "deep-a-bejeweled-release": {
+      "title": "Bejeweled: Twist — Zeebo release record",
+      "url": "https://www.mobygames.com/game/37205/bejeweled-twist/releases/",
+      "kind": "Edition release record",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Lists Brazilian release29 September 2009; follows announcement chronology without equating target date with verified date."
+    },
+    "deep-a-fifa-review": {
+      "title": "Fifa2009 — Zeebo Club review",
+      "url": "https://web.archive.org/web/20101211142949/http://www.zeeboclub.com/portal/reviews/fifa-2009",
+      "kind": "Archived contemporary review",
+      "published": "2010-03-29",
+      "reviewed": "2026-11-15",
+      "note": "Zeebo Club byline Daniel(Chrome), with ZeeboBrasil credited as original source. Identifies Prieto commentary and Curumin recording; reviewer opinion is attributed."
+    },
+    "deep-a-heavy-review": {
+      "title": "Heavy Weapon — J.Vila, Zeebo Club",
+      "url": "https://web.archive.org/web/20100808151411/http://www.zeeboclub.com/portal/reviews/review-heavy-weapon",
+      "kind": "Archived contemporary review",
+      "published": "2010-03-30",
+      "reviewed": "2026-11-15",
+      "note": "Updated 17 May 2010. Firsthand description of dual-stick controls and 19-stage structure; does not identify development costs."
+    },
+    "deep-a-iron-review": {
+      "title": "Iron Sight — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20101124173414/http://www.zeeboclub.com/portal/reviews/iron-sight",
+      "kind": "Archived contemporary review",
+      "published": "2010-11-01",
+      "reviewed": "2026-11-15",
+      "note": "Updated 13 November 2010. Author’s actual console test, with aiming/camera criticism; do not repeat his mistaken attribution of all development to publisher Polarbit."
+    },
+    "deep-a-peggle-review": {
+      "title": "Peggle — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20100609150735/http://www.zeeboclub.com/portal/reviews/peggle",
+      "kind": "Archived contemporary review",
+      "published": "2010-05-30",
+      "reviewed": "2026-11-15",
+      "note": "Actual Zeebo review. Excludes GameFAQs/reviews/142022, whose Zeebo tag misleadingly accompanies prose reviewing PS3/PSN."
+    },
+    "deep-a-peggle-credits": {
+      "title": "Peggle — Zeebo credits",
+      "url": "https://www.mobygames.com/game/38459/peggle/credits/zeebo/",
+      "kind": "Transcribed game credits",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Roll explicitly labels Vega Mobile’s Zeebo conversion and credits inherited original concept separately. Selected credits only; the entire roll is not reclassified as a new Zeebo team."
+    },
+    "deep-a-powerboat-review": {
+      "title": "Powerboat Challenge — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20101124173443/http://www.zeeboclub.com/portal/reviews/powerboat-challenge",
+      "kind": "Archived contemporary review",
+      "published": "2010-11-05",
+      "reviewed": "2026-11-15",
+      "note": "Updated 13 November 2010. Distinguishes Z-Pad and Boomerang behaviour, as personally tested. Claims about technical implementation are not inferred from graphical comparisons."
+    },
+    "deep-a-powerboat-launch": {
+      "title": "Lançamento: Powerboat Challenge — official Zeebo Blog",
+      "url": "https://archive.is/uuTNL",
+      "kind": "Archived official launch post",
+      "published": "2010-10-12",
+      "reviewed": "2026-11-15",
+      "note": "Full short launch post recovered from search indexing; direct archive request 429. Confirms release that Tuesday on Brazilian Children’s Day."
+    },
+    "deep-a-prey-overview": {
+      "title": "Prey Mobile 3D — game description and edition family",
+      "url": "https://www.mobygames.com/game/42796/prey-mobile-3d/",
+      "kind": "Edition game description",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Direct request403; indexed full description and platform-labelled screenshot captions establish the mobile/Zeebo adventure, not the PC release."
+    },
+    "deep-a-seth-robinson": {
+      "title": "Robinson Technologies — Seth Robinson’s project history",
+      "url": "https://www.rtsoft.com/pages/about.php",
+      "kind": "Developer project history",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Creator-owned project list explicitly distinguishes Prey Evil(Zeebo, 2009) from Prey Invasion(iPhone, 2009), and earlier MachineWorks BREW projects. Contemporary personal contact details are not reproduced."
+    },
+    "deep-a-rally-review": {
+      "title": "Rally Master Pro — Ahtrun, Zeebo Club",
+      "url": "https://web.archive.org/web/20100610012106/http://www.zeeboclub.com/portal/reviews/rally-master-pro",
+      "kind": "Archived contemporary review",
+      "published": "2010-05-16",
+      "reviewed": "2026-11-15",
+      "note": "Reviewer’s comparison to iPhone is an observation, not proof of source-code lineage; a commenter explicitly questioned which assets were used. Mode, control and sound observations concern Zeebo."
+    },
+    "deep-a-fishlabs-2008": {
+      "title": "Fishlabs talks publishing, pirates, iPhone and N-Gage — Michael Schade interviewed by Stuart Dredge",
+      "url": "https://www.pocketgamer.biz/interview-fishlabs-talks-publishing-pirates-iphone-and-n-gage/",
+      "kind": "Developer interview",
+      "published": "2008-08-26",
+      "reviewed": "2026-11-15",
+      "note": "Original phone-game business experiment before the Zeebo release. Virtual track credits here are Fishlabs’ mobile system, not Zeebo’s Z-Credits; the two must not be conflated."
+    },
+    "deep-a-reckless-portfolio": {
+      "title": "Reckless Racing — Pixelbite studio portfolio",
+      "url": "https://www.pixelbite.se/more-games/reckless-racing/",
+      "kind": "Developer portfolio",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Studio account calls it their third game and first project that was not work-for-hire. Broad portfolio multiplayer features are not assumed to survive in Zeebo."
+    },
+    "deep-a-reckless-launch": {
+      "title": "Lançamento—Reckless Racing — official Zeebo Blog",
+      "url": "https://archive.is/T8ec7",
+      "kind": "Archived official launch post",
+      "published": "2010-11-03",
+      "reviewed": "2026-11-15",
+      "note": "Complete short announcement recovered through search indexing; direct archive request 429. Explicitly requires the wired controller and contrasts Polarbit’s console release with EA’s iOS release."
+    },
+    "deep-a-re4-review": {
+      "title": "Resident Evil 4 — Mig64, Zeebo Club",
+      "url": "https://web.archive.org/web/20101123211512/http://www.zeeboclub.com/portal/reviews/teste",
+      "kind": "Archived contemporary review",
+      "published": "2010-03-26",
+      "reviewed": "2026-11-15",
+      "note": "Updated 5 August 2010. Actual Zeebo modes and divided reception, not cross-platform GameFAQs reviews dated before the Zeebo existed. Original source’s offensive joke and inaccurate claims about genre/story are omitted."
+    },
+    "deep-a-re4-ridge-launch": {
+      "title": "ZeeboNet ganha Resident Evil 4eRidge Racer — Cido Coelho, NoReset",
+      "url": "https://noreset.wordpress.com/2009/08/14/zeebonet-ganha-resident-evil-4-e-ridge-racer/",
+      "kind": "Contemporary launch report",
+      "published": "2009-08-14",
+      "reviewed": "2026-11-15",
+      "note": "Confirms contemporary prices 2490 Z-Credits for RE4 and 1990 for Ridge Racer. Its claim that Ridge was the PlayStation original is not adopted; this archive distinguishes the mobile redesign."
+    },
+    "deep-a-ridge-owner-reaction": {
+      "title": "12 de agosto de 2009 — O dia em que desisti do Zeebo — Bruno Oz, reproduced by GameVicio",
+      "url": "https://www.gamevicio.com/noticias/2009/08/12-de-agosto-de-2009-o-dia-em-que-desisti-do-zeebo/",
+      "kind": "Contemporary owner reaction(reproduced)",
+      "published": "2009-08-25",
+      "reviewed": "2026-11-15",
+      "note": "Article’s title refers to12 Augustbut the surviving page dates publication 25 August. It credits Bruno Oz. His blanket assignment of blame to Tectoy Digital is not used as a development credit."
+    },
+    "deep-a-ridge-release": {
+      "title": "Ridge Racer — edition releases",
+      "url": "https://www.mobygames.com/game/42782/ridge-racer/releases/",
+      "kind": "Edition release record",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Names Namco Limited as developer, Namco Bandai Games as publisher and Tectoy as distributor of the 11 August 2009Zeebo release."
+    },
+    "deep-a-zenonia-review": {
+      "title": "Zenonia — Lucas Mousinho, Zeebo Club",
+      "url": "https://web.archive.org/web/20100609163739/http://www.zeeboclub.com/portal/reviews/review-zenonia",
+      "kind": "Archived contemporary review",
+      "published": "2010-03-30",
+      "reviewed": "2026-11-15",
+      "note": "Updated 17 May 2010. Firsthand controls and play; comments from December 2009andApril 2010 mention bugs and a months-long recall. Original Tecblog436/486 notices remain unavailable in this pass."
+    },
+    "deep-a-zenonia-chronology": {
+      "title": "Zenonia — Portuguese chronology and original Tecblog references",
+      "url": "https://pt.wikipedia.org/wiki/Zenonia",
+      "kind": "Secondary chronology with unresolved primary references",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Read for original notice URLs and reported chronology; original436/486 notices not recovered. Exact dates and complete-fix claims are not treated as newly verified primary facts."
+    },
+    "deep-a-zuma-review": {
+      "title": "Zuma’s Revenge — Ahtrun, Zeebo Club",
+      "url": "https://web.archive.org/web/20101124173509/http://www.zeeboclub.com/portal/reviews/zumas-revenge",
+      "kind": "Archived contemporary review",
+      "published": "2010-07-17",
+      "reviewed": "2026-11-15",
+      "note": "Updated 19 July 2010. Establishes released Zeebo gameplay and contemporary response; reflects a personally played version, not current emulator behaviour."
+    },
+    "deep-a-fifa-brazil-credits": {
+      "title": "FIFA Soccer 09 — Brazilian Zeebo credits",
+      "url": "https://en.bdjogos.com.br/game.php?id=12248",
+      "kind": "Transcribed edition credits",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Brazilian adaptation staff are distinct from the Gamelion section visible in MobyGames. Full Moby credit page returned 403; its indexed overview corroborates the Gamelion credit section."
+    },
+    "deep-a-nfs-review": {
+      "title": "Need for Speed Carbon — Zeebo Club review",
+      "url": "https://web.archive.org/web/20101210054013/http://www.zeeboclub.com/portal/reviews/need-for-speed-carbon",
+      "kind": "Archived contemporary review and reader response",
+      "published": "2010-03-29",
+      "reviewed": "2026-11-15",
+      "note": "Daniel(Chrome) byline; original source ZeeboBrasil, updated 17 May 2010. Two paragraphs visibly describing Nitro Kart are excluded as apparent copy/paste contamination. Other NFS-specific observations and Saulo Albert’s21 April comment are used."
+    },
+    "deep-a-nfs-launch-bundle": {
+      "title": "Zeebo — launch bundle and later regional changes",
+      "url": "https://www.mobygames.com/game/42803/zeebo-included-games/",
+      "kind": "Edition compilation record",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Brazil’s original embedded lineup includes FIFA, Need for Speed and Treino Cerebral. This source is not the separate player-review page used elsewhere."
+    },
+    "deep-b-rolima-review": {
+      "title": "Zeebo Extreme Rolimã — RssV / Blog Zeebo Brasil, preserved by Kito Games",
+      "url": "https://www.kitogames.com.br/analises/zeebo/zeebo_extreme_rolima.html",
+      "kind": "Contemporary review mirror",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Undated mirror credited to RssV / Blog Zeebo Brasil. Full indexed text retrieved; direct page fetch had an encoding error and an HTTP 406. Review tested only the Z-Pad; it is not evidence of Boomerang performance."
+    },
+    "deep-b-suzana-interview": {
+      "title": "Suzana Bueno, Analista de qualidade da Tectoy Digital fala ao Zeeblog — reproduced interview",
+      "url": "https://br.advfn.com/forum/toyb3/141713/916",
+      "kind": "Reproduced developer interview",
+      "published": "2009-09-10",
+      "reviewed": "2026-11-15",
+      "note": "Original Zeeblog interview reproduced in a dated September 2009 forum post, with original URL http://www.zeeblog.com.br/2009/09/suzana-bueno-analista-de-qualidade-da.html. Keep combined derived text across Rolimã and Corrida Aérea below 170 words, leaving budget for other uses. Monthly cadence is Bueno’s contemporary recollection; Pine later described a two-month target."
+    },
+    "deep-b-air-review": {
+      "title": "Zeebo Extreme Corrida Aérea — J.Vila, Zeebo Club",
+      "url": "https://web.archive.org/web/20101130080704/http://www.zeeboclub.com/portal/reviews/zeebo-extreme-corrida-aerea",
+      "kind": "Contemporary review",
+      "published": "2010-03-29",
+      "reviewed": "2026-11-15",
+      "note": "Page date is 29 March 2010; same article also survives in an undated Kito Games mirror. Discusses the original release before later series entries. Do not count the mirror as an independent review."
+    },
+    "deep-b-jetboard-review": {
+      "title": "Zeebo Extreme Jetboard — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20100610012111/http://www.zeeboclub.com/portal/reviews/zeebo-extremes-jetboards",
+      "kind": "Contemporary review",
+      "published": "2010-05-12",
+      "reviewed": "2026-11-15",
+      "note": "Archived June 2010; revised 20 May 2010. Observations concern the released Zeebo game with Z-Pad and Boomerang."
+    },
+    "deep-b-peteca-review": {
+      "title": "Boomerang Sports Peteca — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20100610012056/http://www.zeeboclub.com/portal/reviews/boomerang-sports-peteca",
+      "kind": "Contemporary review",
+      "published": "2010-05-25",
+      "reviewed": "2026-11-15",
+      "note": "Review predates the Z-Pad relaunch. Its controller observations concern the Boomerang edition."
+    },
+    "deep-b-queimada-review": {
+      "title": "Boomerang Sports: Queimada — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20100430192905/http://www.zeeboclub.com/portal/reviews/boomerang-sports-queimada",
+      "kind": "Contemporary review",
+      "published": "2010-04-19",
+      "reviewed": "2026-11-15",
+      "note": "Review of the original motion-controller edition; do not transfer its input observations unqualified to the later Z-Pad version."
+    },
+    "deep-b-tenis-review": {
+      "title": "Boomerang Sport Tênis — J.Vila, Zeebo Club",
+      "url": "https://web.archive.org/web/20101130080615/http://www.zeeboclub.com/portal/reviews/boomerang-sport-tenis",
+      "kind": "Contemporary review",
+      "published": "2010-03-29",
+      "reviewed": "2026-11-15",
+      "note": "Published page date 29 March 2010; text discusses Vôlei as forthcoming and may preserve an earlier version. Treat precise original writing date as uncertain. Updated 17 May 2010."
+    },
+    "deep-b-family-review": {
+      "title": "Zeebo Family Pack — J.Vila, Zeebo Club",
+      "url": "https://web.archive.org/web/20101123215637/http://www.zeeboclub.com/portal/reviews/zeebo-family-pack",
+      "kind": "Contemporary review",
+      "published": "2010-03-29",
+      "reviewed": "2026-11-15",
+      "note": "Dated 29 March 2010 on the surviving site, updated 17 May 2010. Earlier September 2009 Zeeblog references suggest the article may predate this migrated page date."
+    },
+    "deep-b-ovos-review": {
+      "title": "Um jogo de Ovos — Ahtrun, Zeebo Club",
+      "url": "https://web.archive.org/web/20101124173448/http://www.zeeboclub.com/portal/reviews/um-jogo-de-ovos",
+      "kind": "Contemporary review",
+      "published": "2010-08-27",
+      "reviewed": "2026-11-15",
+      "note": "Brazilian release review; updated 31 August 2010. Read as the reviewer’s assessment, not consensus or a technical production document."
+    },
+    "deep-b-footcamp-review": {
+      "title": "Zeebo F.C Foot Camp — Mig64, Zeebo Club",
+      "url": "https://web.archive.org/web/20101123215741/http://www.zeeboclub.com/portal/reviews/zeebo-fc-foot-camp",
+      "kind": "Contemporary review",
+      "published": "2010-06-15",
+      "reviewed": "2026-11-15",
+      "note": "Updated 17 June 2010. Comments include conflicting reports of motion-controller behaviour; no universal compatibility conclusion is drawn from them."
+    },
+    "deep-b-footcamp-report": {
+      "title": "Zeebo F.C. Foot Camp é jogo brasileiro de futebol para console popular — David de Oliveira Lemes",
+      "url": "https://www.gamereporter.com.br/zeebo-f-c-foot-camp-e-jogo-brasileiro-de-futebol-para-console-popular/",
+      "kind": "Contemporary developer-contact report",
+      "published": "2010-05-26",
+      "reviewed": "2026-11-15",
+      "note": "GameReporter explicitly says producer Tiago Tex Pine contacted the author about his project. Describes the World Cup promotional price and planned SuperLiga links."
+    },
+    "deep-b-lira-interview": {
+      "title": "Brasileiro na Unity 3D Dinamarca: Entrevista com Felipe Lira — Jonathan Maia",
+      "url": "https://www.eunati.com.br/2017/07/brasileiro-na-unity-3d-dinamarca-entrevista-com-felipe-lira.html",
+      "kind": "Developer interview",
+      "published": "2017-07-12",
+      "reviewed": "2026-11-15",
+      "note": "Lira recalls roughly a year of work on a humorous football game; accompanying caption identifies Zeebo F.C.Super League. His words concern his experience rather than an exact full-project schedule."
+    },
+    "deep-b-boia-player-review": {
+      "title": "Zeebo extreme: Bóia Cross — rodrigo, Rei dos Games",
+      "url": "https://www.reidosgames.com/2019/06/zeebo-extreme-boia-cross.html",
+      "kind": "Later owner review",
+      "published": "2019-06-25",
+      "reviewed": "2026-11-15",
+      "note": "Writer says he still plays his original console. His review is a 2019 personal retrospective, not launch-era coverage; unrelated platform chronology in its introduction is not relied upon."
+    },
+    "deep-b-extreme-announcement": {
+      "title": "Tectoy Digital libera vídeo de “Zeebo Extreme”; assista — UOL Jogos",
+      "url": "https://tecnologia.uol.com.br/ultnot/2009/02/27/ult530u6705.jhtm",
+      "kind": "Contemporary preview",
+      "published": "2009-02-27",
+      "reviewed": "2026-11-15",
+      "note": "An early production plan: three disciplines initially and three more planned later, including Baja and wakeboard. Plans must not be represented as six completed releases. Shared across series entries."
+    },
+    "deep-b-sbgames-tennis": {
+      "title": "Lançamento nacional do Zeebo é adiado — reproduced UOL SBGames report",
+      "url": "https://revolutionarena.forumeiros.com/t443-lancamento-nacional-do-zeebo-e-adiado",
+      "kind": "Reproduced contemporary conference report",
+      "published": "2009-10-10",
+      "reviewed": "2026-11-15",
+      "note": "Forum copy credits UOL Jogos and reports comments from André Penha and Bruno Evangelista at SBGames 2009. Polygon figures are Evangelista’s stated comparison, not independent measurements."
+    },
+    "deep-b-pettersson-career": {
+      "title": "Minecraft Developer Adds One To Deliberately Small Staff Count — Frank Cifaldi",
+      "url": "https://www.gamedeveloper.com/business/-em-minecraft-em-developer-adds-one-to-deliberately-small-staff-count",
+      "kind": "Contemporary creator-career report",
+      "published": "2011-08-08",
+      "reviewed": "2026-11-15",
+      "note": "Reports Henrik Pettersson’s move from Fabrication to Mojang, citing his and MarkusPersson’s public announcements. Names UnJuegoDeHuevos among prior work; later role concerns Scrolls, not a claim he created Minecraft."
+    },
+    "deep-b-zwheel-preservation": {
+      "title": "Z-Wheel - Gerenciador — Triple Oxygen / O3 Labs",
+      "url": "https://www.tripleoxygen.net/wiki/console/zeebo/z-wheel_manager",
+      "kind": "Firsthand hardware and software research",
+      "published": "2023-06-26",
+      "reviewed": "2026-11-15",
+      "note": "Preservation utility author documents the final Brazilian launcher and end-of-life UI configuration. This is later research, not original Zeebo development credits."
+    },
+    "deep-b-brain-ipod": {
+      "title": "Brain Challenge Game Comes to iPods — Rick DeMott, Animation World Network",
+      "url": "https://www.awn.com/news/brain-challenge-game-comes-ipods",
+      "kind": "Contemporary company-announcement report",
+      "published": "2007-12-11",
+      "reviewed": "2026-11-15",
+      "note": "Full indexed article text retrieved through search; direct page returns 403. Describes the pre-Zeebo iPod edition. It is not evidence of Zeebo implementation or a code-port lineage."
+    },
+    "deep-c-horna-interview": {
+      "title": "Miguel Ángel Horna, de la emulación a ser parte de Larian Studios",
+      "url": "https://vandal.elespanol.com/noticia-amp/1350759768/miguel-ngel-horna-de-la-emulacion-a-ser-parte-de-larian-studios/",
+      "kind": "Developer interview",
+      "published": "2023-02-04",
+      "reviewed": "2026-11-15",
+      "note": "Sara Borondo interviews the emulator programmer. Zeebo/Data East work appears in the account of his collaboration with Miguel Ángel Pastor; this does not provide a title-by-title staffing list."
+    },
+    "deep-c-review-bad-dudes": {
+      "title": "Bad Dudes Vs. Dragonninja — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20101124172951/http://www.zeeboclub.com/portal/reviews/bad-dudes-vs-dragonninja",
+      "kind": "Contemporary player review",
+      "published": "2010-08-25",
+      "reviewed": "2026-11-15",
+      "note": "Contemporary firsthand review of the Zeebo edition, preserved by the Wayback Machine. The displayed publication date is distinguished from the later capture date."
+    },
+    "deep-c-review-caveman": {
+      "title": "Caveman Ninja — Lucas Mousinho, Zeebo Club",
+      "url": "https://web.archive.org/web/20100501035322/http://www.zeeboclub.com/portal/reviews/caveman-ninja",
+      "kind": "Contemporary player review",
+      "published": "2010-04-17",
+      "reviewed": "2026-11-15",
+      "note": "Contemporary firsthand review of the Zeebo edition, preserved by the Wayback Machine. The displayed publication date is distinguished from the later capture date."
+    },
+    "deep-c-review-heavy-barrel": {
+      "title": "Heavy Barrel — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20101124173410/http://www.zeeboclub.com/portal/reviews/heavy-barrel",
+      "kind": "Contemporary player review",
+      "published": "2010-09-29",
+      "reviewed": "2026-11-15",
+      "note": "Contemporary firsthand review of the Zeebo edition, preserved by the Wayback Machine. The displayed publication date is distinguished from the later capture date."
+    },
+    "deep-c-review-karnov": {
+      "title": "Karnov’s Revenge — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20100501035337/http://www.zeeboclub.com/portal/reviews/karnovs-revenge",
+      "kind": "Contemporary player review",
+      "published": "2010-04-18",
+      "reviewed": "2026-11-15",
+      "note": "Contemporary firsthand review of the Zeebo edition, preserved by the Wayback Machine. The displayed publication date is distinguished from the later capture date."
+    },
+    "deep-c-review-magical-drop": {
+      "title": "Magical Drop III — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20100610012101/http://www.zeeboclub.com/portal/reviews/magicaldrop-iii",
+      "kind": "Contemporary player review",
+      "published": "2010-04-29",
+      "reviewed": "2026-11-15",
+      "note": "Contemporary firsthand review of the Zeebo edition, preserved by the Wayback Machine. The displayed publication date is distinguished from the later capture date."
+    },
+    "deep-c-review-pac-mania": {
+      "title": "Pac-Mania (3D) — Mig64, Zeebo Club",
+      "url": "https://web.archive.org/web/20100430193013/http://www.zeeboclub.com/portal/reviews/pac-mania-3d",
+      "kind": "Contemporary player review",
+      "published": "2010-04-24",
+      "reviewed": "2026-11-15",
+      "note": "Contemporary firsthand review of the Zeebo edition, preserved by the Wayback Machine. The displayed publication date is distinguished from the later capture date."
+    },
+    "deep-c-review-spin-master": {
+      "title": "Spin Master — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20100430192910/http://www.zeeboclub.com/portal/reviews/spin-master",
+      "kind": "Contemporary player review",
+      "published": "2010-04-26",
+      "reviewed": "2026-11-15",
+      "note": "Contemporary firsthand review of the Zeebo edition, preserved by the Wayback Machine. The displayed publication date is distinguished from the later capture date."
+    },
+    "deep-c-review-street-hoop": {
+      "title": "Street Hoop — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20100429082622/http://www.zeeboclub.com/portal/reviews/street-hoop",
+      "kind": "Contemporary player review",
+      "published": "2010-04-22",
+      "reviewed": "2026-11-15",
+      "note": "Contemporary firsthand review of the Zeebo edition, preserved by the Wayback Machine. The displayed publication date is distinguished from the later capture date."
+    },
+    "deep-c-review-burger": {
+      "title": "Super Burger Time — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20101124212700/http://www.zeeboclub.com/portal/reviews/super-burger-time",
+      "kind": "Contemporary player review",
+      "published": "2010-04-30",
+      "reviewed": "2026-11-15",
+      "note": "Contemporary firsthand review of the Zeebo edition, preserved by the Wayback Machine. The displayed publication date is distinguished from the later capture date."
+    },
+    "deep-c-review-tekken": {
+      "title": "Tekken 2 — Mig64, Zeebo Club",
+      "url": "https://web.archive.org/web/20100430192915/http://www.zeeboclub.com/portal/reviews/tekken_2",
+      "kind": "Contemporary player review",
+      "published": "2010-04-26",
+      "reviewed": "2026-11-15",
+      "note": "Contemporary firsthand review of the Zeebo edition, preserved by the Wayback Machine. The displayed publication date is distinguished from the later capture date."
+    },
+    "deep-c-review-toy-raid": {
+      "title": "Toy Raid — STX, Zeebo Club",
+      "url": "https://web.archive.org/web/20100609150740/http://www.zeeboclub.com/portal/reviews/toy-raid",
+      "kind": "Contemporary player review",
+      "published": "2010-05-03",
+      "reviewed": "2026-11-15",
+      "note": "Contemporary firsthand review of the Zeebo edition, preserved by the Wayback Machine. The displayed publication date is distinguished from the later capture date."
+    },
+    "deep-c-review-chess": {
+      "title": "Superscape Ultimate Chess 3D — Mig64, Zeebo Club",
+      "url": "https://web.archive.org/web/20100630222253/http://www.zeeboclub.com/portal/reviews/superscape-ultimate-chess-3d",
+      "kind": "Contemporary player review",
+      "published": "2010-04-27",
+      "reviewed": "2026-11-15",
+      "note": "Contemporary firsthand review of the Zeebo edition, preserved by the Wayback Machine. The displayed publication date is distinguished from the later capture date."
+    },
+    "deep-c-review-wizard": {
+      "title": "Wizard Fire — Ahtrun, Zeebo Club",
+      "url": "https://web.archive.org/web/20100501035219/http://www.zeeboclub.com/portal/reviews/wizard-fire",
+      "kind": "Contemporary player review",
+      "published": "2010-04-17",
+      "reviewed": "2026-11-15",
+      "note": "Contemporary firsthand review of the Zeebo edition, preserved by the Wayback Machine. The displayed publication date is distinguished from the later capture date."
+    },
+    "deep-c-review-double-dragon": {
+      "title": "Double Dragon — ZeeboBrasil review reproduced at Zeebo Club",
+      "url": "https://web.archive.org/web/20101123215615/http://www.zeeboclub.com/portal/reviews/double-dragon",
+      "kind": "Reproduced contemporary review",
+      "published": "2010-03-29",
+      "reviewed": "2026-11-15",
+      "note": "Posted by Daniel (Chrome), but the article credits zeebobrasil.com as its source. Its mistaken Tectoy developer attribution is not adopted; Brizo/Million credits remain separately sourced."
+    },
+    "deep-c-dark-seal-history": {
+      "title": "Dark Seal — Hardcore Gaming 101",
+      "url": "https://www.hardcoregaming101.net/dark-seal/",
+      "kind": "Retrospective game analysis",
+      "published": "2017-10-03",
+      "reviewed": "2026-11-15",
+      "note": "Kurt Kalata examines the original arcade design and reproduces original English/Japanese flyers. This is not presented as a contemporary Zeebo review."
+    },
+    "deep-c-tekken-owner": {
+      "title": "Especial Zeebo — Tekken 2, QG Master (syndicated copy)",
+      "url": "https://retroinvaders.com/index.php/it/110247/especial-zeebo-tekken-2",
+      "kind": "Retrospective player review",
+      "published": "2019-08-06",
+      "reviewed": "2026-11-15",
+      "note": "Douglas Deiró’s firsthand owner review, syndicated from QG Master. Direct access to the original article returned429; authorship/date were confirmed on the original blog’s Zeebo index."
+    },
+    "deep-c-qgmaster-index": {
+      "title": "QG Master — Zeebo article index",
+      "url": "https://qgmaster.blogspot.com/search/label/Zeebo",
+      "kind": "Original publication index",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Confirms Douglas Deiró’s authorship and the 6August2019 Tekken2 publication. Used for attribution, not independent gameplay evidence."
+    },
+    "deep-c-vega-originals-report": {
+      "title": "Vega Mobile: a desenvolvedora que apostou no Zeebo — Saulo Albert",
+      "url": "https://br.advfn.com/forum/toyb4/67679/772",
+      "kind": "Reproduced contemporary report",
+      "published": "2010-04-30",
+      "reviewed": "2026-11-15",
+      "note": "Reproduces Zeebo Club’s article and identifies the screenshot trio XGT Racer, Code Devil and Ice and Rock. The writer’s speculative explanation of Vega’s business motives is not adopted."
+    },
+    "deep-c-tork-launch": {
+      "title": "Lançamento — Tork and Kral, Zeebo Blog",
+      "url": "https://archive.is/VaTdO",
+      "kind": "Archived official announcement",
+      "published": "2010-11-16",
+      "reviewed": "2026-11-15",
+      "note": "Original Zeebo Brasil blog announcement. Full indexed text was available; direct archived-page access returned TooManyRequests. Announces one/two-player play with wired controllers."
+    },
+    "deep-c-double-dragon-dojo": {
+      "title": "Double Dragon Zeebo version review — Rockman, Double Dragon Dojo",
+      "url": "https://doubledragon.kontek.net/games/dd/rddzeebo.html",
+      "kind": "Firsthand player review",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Undated review of a real Zeebo system imported from Brazil with the game installed. Includes original screenshots and detailed move/mode observations. Speculation about developer intentions is not adopted."
+    },
+    "deep-root-crash-pine": {
+      "title": "Tiago Tex Pine: Crash Bandicoot Nitro Kart 3D (Zeebo Porting)",
+      "url": "https://texpine.com/crash-bandicoot-nitro-kart-3d-zeebo-porting.html",
+      "kind": "Developer portfolio",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Full project account read from the creator’s HTML. Timeline 2008–2009; page updated 5 October 2025. Project staffing is the creator’s recollection, not an exhaustive credit transcription."
+    },
+    "deep-root-quake2-pine": {
+      "title": "Tiago Tex Pine: Quake II (Zeebo Porting)",
+      "url": "https://texpine.com/quake-2-zeebo-porting.html",
+      "kind": "Developer portfolio",
+      "published": null,
+      "reviewed": "2026-11-15",
+      "note": "Full project account read from the creator’s HTML. Timeline 2008–2009; page updated 5 October 2025. Controls/camera tuning, memory-management problems, team size, localisation and voice contribution."
+    },
+    "deep-root-crash-review": {
+      "title": "Daniel (Chrome): Crash Bandicoot Nitro Kart 3D",
+      "url": "https://web.archive.org/web/20101123215610/http://www.zeeboclub.com/portal/reviews/crash-bandicoot-nitro-kart-3d",
+      "kind": "Archived contemporary review",
+      "published": "2010-03-29",
+      "reviewed": "2026-11-15",
+      "note": "Zeebo Club review, updated 17 May 2010; also contains dated reader comments. Its frame-rate figure is a reviewer’s estimate, not instrumented testing."
+    },
+    "deep-root-quake2-review": {
+      "title": "Daniel (Chrome): Quake 2",
+      "url": "https://web.archive.org/web/20100808144536/http://www.zeeboclub.com/portal/reviews/quake-2",
+      "kind": "Archived contemporary review",
+      "published": "2010-03-29",
+      "reviewed": "2026-11-15",
+      "note": "Zeebo Club review, updated 17 May 2010. Preserves observations of Portuguese speech, control options and launch availability problems."
+    },
+    "deep-root-gof-review": {
+      "title": "gui: Review — Galaxy on Fire",
+      "url": "https://web.archive.org/web/20101125051520/http://www.zeeboclub.com/portal/reviews/review-galaxy-on-fire",
+      "kind": "Archived contemporary review",
+      "published": "2009-10-31",
+      "reviewed": "2026-11-15",
+      "note": "Zeebo Club’s console-specific review, with dated player comments; updated 17 May 2010. Distinct from reviews of later Galaxy on Fire games or phone editions."
+    },
+    "deep-root-gof-announcement": {
+      "title": "Spanner Spencer: Galaxy on Fire makes the jump to Zeebo console",
+      "url": "https://www.pocketgamer.com/galaxy-on-fire/galaxy-on-fire-makes-the-jump-to-zeebo-console/",
+      "kind": "Contemporary release coverage",
+      "published": "2009-09-29",
+      "reviewed": "2026-11-15",
+      "note": "Reports the conversion announcement and its advertised changes. These are announcement claims, not a review or a claim that every feature was unique to Zeebo."
+    },
+    "deep-root-delist": {
+      "title": "Mudança no catálogo de jogos — Zeebo Blog statement reproduced on ADVFN",
+      "url": "https://br.advfn.com/forum/toyb3/744655/106",
+      "kind": "Reproduced official announcement",
+      "published": "2010-06-17",
+      "reviewed": "2026-11-15",
+      "note": "A forum post reproduces the Zeebo Blog statement by title and date. The original blog page was not recovered in this pass; use as an attributed reproduction."
+    },
+    "deep-root-uol-history": {
+      "title": "Théo Azevedo: 5 anos de Zeebo — conheça os bastidores do videogame brasileiro",
+      "url": "https://www.uol.com.br/start/ultimas-noticias/2014/05/27/5-anos-de-zeebo-conheca-os-bastidores-do-videogame-brasileiro.htm",
+      "kind": "Retrospective creator interviews",
+      "published": "2014-05-27",
+      "reviewed": "2026-11-15",
+      "note": "Interviews Reinaldo Normand, André Penha and Stefano Arnhold. Their retrospective assessments are attributed; unsupported platform-origin generalisations in the surrounding article are not adopted."
+    },
+    "deep-root-closure": {
+      "title": "Zeebo’s closure statement, reproduced by Nintendo Blast",
+      "url": "https://www.nintendoblast.com.br/2011/05/enquanto-isso-agora-e-oficial-o-zeebo.html",
+      "kind": "Reproduced official announcement",
+      "published": "2011-05-31",
+      "reviewed": "2026-11-15",
+      "note": "Contains the company’s full statement: Brazilian operations discontinued, online shop open through 30 September 2011, acquired content retained. Article says statement issued 30 May."
+    },
+    "deep-root-preservation": {
+      "title": "John Szczepaniak: The Quest To Preserve And Document Tectoy’s Zeebo Console",
+      "url": "https://www.timeextension.com/features/the-quest-to-preserve-and-document-tectoys-zeebo-console",
+      "kind": "Firsthand conference reporting",
+      "published": "2024-06-17",
+      "reviewed": "2026-11-15",
+      "note": "Reports Bruno de Paula’s History of Games 2024 talk and subsequent conversation. The author explicitly labels later reconstructed dialogue as paraphrased; no such dialogue is presented here as a verbatim quotation."
+    },
+    "deep-root-carol": {
+      "title": "Carol Gomes: Zeebo!",
+      "url": "https://carolgomes.wordpress.com/2008/11/16/zeebo/",
+      "kind": "Contemporary programmer account",
+      "published": "2008-11-16",
+      "reviewed": "2026-11-15",
+      "note": "The author describes multiplayer work during her Tectoy internship but does not name either game. This is not used to infer a specific FIFA or Need for Speed credit."
+    },
+    "deep-media-insert": {
+      "title": "Zeebo Console (BR) Insert Scans",
+      "url": "https://vgvisualvault.blogspot.com/2019/10/zeebo-console-br-insert-scans.html",
+      "kind": "Scanned original promotional insert",
+      "published": "2019-10-06",
+      "reviewed": "2026-11-15",
+      "note": "VG Visual Vault reproduces both sides of a Portuguese Zeebo console insert. The scan-post date is known; the insert itself is undated."
     }
   },
   "games": {
     "274259": {
-      "deck": "A martial-arts champion fights an alien invasion.",
+      "deck": "Wolf wins a television contest, then has to become a real hero.",
       "overview": [
         {
-          "text": "Winning a television competition is only the start of Wild Dog’s trouble. He has to defend the planet in a 3D brawler, gaining new abilities as he defeats enemies.",
+          "text": "Wolf enters a television contest for money and fame. Winning sends him into a parallel world, where Tina, the Witch of Dimensions, asks him to stop Dr. J. When she is kidnapped, rescuing her becomes his only way home. The fighting uses polygonal characters but largely follows a left-and-right path; the camera changes angle as Wolf moves through the stages.",
           "sources": [
-            "guide-2"
+            "deep-a-action-review"
           ]
         }
       ],
       "development": [
         {
-          "text": "Com2uS developed and published the Zeebo edition.",
+          "text": "Com2uS brought an existing phone game to Zeebo. The South Korean BREW release dates to September 2006, almost three years before the Brazilian console edition.",
           "sources": [
-            "a-action"
+            "deep-a-action-releases"
           ]
         }
       ],
-      "release": [],
+      "release": [
+        {
+          "text": "Action Hero 3D joined the Brazilian launch lineup on 25 May 2009. At 990 Z-Credits, it was the cheapest game in ZeeboNet when the reproduced ZeeboBrasil review assessed it. The reviewer found the camera could make distances hard to judge but considered the simple fighting accessible, particularly for younger players.",
+          "sources": [
+            "deep-a-action-releases",
+            "deep-a-action-review"
+          ]
+        }
+      ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "Meu primeiro jogo do zeebo.",
+          "original_text": "Meu primeiro jogo do zeebo.",
+          "speaker": "Saulo Albert, player",
+          "attribution": "Comment on the Zeebo Club review, 21 April 2010",
+          "translation": "English translation by the archive: “My first game on Zeebo.”",
+          "section": "reception",
+          "source": "deep-a-action-review"
+        }
+      ],
       "credits": [],
       "studio_roles": [
         {
@@ -1729,7 +2419,7 @@
       ],
       "development": [
         {
-          "text": "Disney Interactive Studios Beijing developed the film tie-in. Zeebo Interactive Studios handled the console adaptation, led by Danny Caldas with producer Hugo Faria. The credits also name Olímpio MacLouly and Thomas Gomes as developers, and Denis Koishi as musician.",
+          "text": "Disney Interactive Studios Beijing made the original mobile game; Zeebo Interactive Studios adapted it for the console. The credits separate the two teams. Danny Caldas led development and also worked on art, alongside artists Luiz Gustavo Marquetti and Marcelo Silva. Olímpio MacLouly and Thomas Gomes are named as developers, Hugo Faria as producer, Denis Koishi as musician and Cacau Pastorello as QA lead.",
           "sources": [
             "a-alice-credits"
           ]
@@ -1737,10 +2427,10 @@
       ],
       "release": [
         {
-          "text": "Alice was part of the Disney Mobile lineup announced for Zeebo in September 2010. The game also appeared under the English title Alice in Wonderland: An Adventure Beyond the Mirror.",
+          "text": "Disney Mobile announced the Zeebo partnership on 1 September 2010. Alice reached the Brazilian service on 9 November, when the official blog invited owners to download it that afternoon. The launch description tied the puzzles to Tim Burton’s film and highlighted hidden objects collected in Alice’s journal.",
           "sources": [
             "a-disney",
-            "a-alice"
+            "deep-a-alice-launch"
           ]
         }
       ],
@@ -1788,6 +2478,27 @@
           "team": "Disney Interactive Studios Beijing",
           "scope": "Original mobile edition",
           "source": "a-alice-credits"
+        },
+        {
+          "name": "Luiz Gustavo Marquetti",
+          "role": "Artist",
+          "team": "Zeebo Interactive Studios",
+          "scope": "Zeebo",
+          "source": "a-alice-credits"
+        },
+        {
+          "name": "Marcelo Silva",
+          "role": "Artist",
+          "team": "Zeebo Interactive Studios",
+          "scope": "Zeebo",
+          "source": "a-alice-credits"
+        },
+        {
+          "name": "Cacau Pastorello",
+          "role": "QA lead",
+          "team": "Zeebo Interactive Studios",
+          "scope": "Zeebo",
+          "source": "a-alice-credits"
         }
       ],
       "studio_roles": [
@@ -1822,9 +2533,23 @@
           "sources": [
             "a-alpine"
           ]
+        },
+        {
+          "text": "This release family was already moving between mobile platforms before Zeebo launched. In February 2009, Stuart Dredge saw Apple demonstrate Namco’s iPhone version, with both skiing and snowboarding. His preview explicitly warned that its illustration came from the earlier handset game. The Zeebo release followed in May, using a television and Z-Pad rather than the iPhone’s touch-and-tilt setup.",
+          "sources": [
+            "deep-a-alpine-mobile-preview",
+            "a-alpine"
+          ]
         }
       ],
-      "release": [],
+      "release": [
+        {
+          "text": "Alpine Racer was available at the Brazilian console launch on 25 May 2009.",
+          "sources": [
+            "a-alpine"
+          ]
+        }
+      ],
       "notes": [],
       "quotes": [],
       "credits": [],
@@ -1858,6 +2583,12 @@
           "sources": [
             "a-armageddon"
           ]
+        },
+        {
+          "text": "The campaign contains 12 missions, sending aircraft against land, sea and air targets with machine guns, bombs, rockets and torpedoes. An arcade mode lets players set up their own challenges.",
+          "sources": [
+            "deep-a-armageddon-review"
+          ]
         }
       ],
       "development": [
@@ -1867,6 +2598,13 @@
             "a-armageddon-release",
             "a-polarbit"
           ]
+        },
+        {
+          "text": "The agreement formed part of Polarbit’s move from handheld devices into home set-top systems. Founder Mitri Bautista-Wiberg said the Zeebo deal could reach customers the studio normally could not. Armageddon Squadron and Iron Sight shipped first; the two racing games followed later.",
+          "sources": [
+            "a-polarbit",
+            "a-polarbit-launch"
+          ]
         }
       ],
       "release": [
@@ -1874,6 +2612,12 @@
           "text": "The Zeebo release reached Brazil in September 2010, distributed by Zeebo Brasil.",
           "sources": [
             "a-armageddon-release"
+          ]
+        },
+        {
+          "text": "Ahtrun’s 5 October 2010 review was disappointed by the result. The campaign and custom missions supplied content, but the reviewer criticised stretched-looking graphics, static water and sky, weak engine sounds and the lack of music during missions. No multiplayer mode was available.",
+          "sources": [
+            "deep-a-armageddon-review"
           ]
         }
       ],
@@ -1904,6 +2648,12 @@
           "sources": [
             "guide-10"
           ]
+        },
+        {
+          "text": "The Classic mode introduces locked gems and counters that must be cleared before they expire. Zen offers a gentler alternative. Larger matches create special gems that can clear more of the board.",
+          "sources": [
+            "deep-a-bejeweled-review"
+          ]
         }
       ],
       "development": [
@@ -1916,14 +2666,31 @@
       ],
       "release": [
         {
-          "text": "By March 2010, Bejeweled Twist was already available on Zeebo in Brazil and Mexico.",
+          "text": "Bejeweled Twist reached Brazil on 29 September 2009, becoming PopCap’s first Zeebo game.",
           "sources": [
-            "a-popcap"
+            "deep-a-bejeweled-release",
+            "deep-a-bejeweled-review"
+          ]
+        },
+        {
+          "text": "STX’s April 2010 review liked the music and puzzle challenge, but described unreliable D-pad input. His workaround was to use the right analogue stick, start Bejeweled first after powering on and avoid long pauses. A reader, Ahtrun, objected that accepting a workaround did not make the controls satisfactory:",
+          "sources": [
+            "deep-a-bejeweled-review"
           ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "ambos analogico e digital deveriam funcionar perfeitamente",
+          "original_text": "ambos analogico e digital deveriam funcionar perfeitamente",
+          "speaker": "Ahtrun,reader",
+          "attribution": "Comment on STX’s Zeebo Club review, 25 April 2010",
+          "translation": "English translation by the archive: “Both the analogue stick and D-pad should work perfectly.”",
+          "section": "reception",
+          "source": "deep-a-bejeweled-review"
+        }
+      ],
       "credits": [
         {
           "name": "Brian Fiete",
@@ -1961,21 +2728,53 @@
       "deck": "Crash and his rivals race karts and attack each other with collected items.",
       "overview": [
         {
-          "text": "Crash Bandicoot Nitro Kart 3D puts the series’ characters into item-filled kart races. The Zeebo guide advertises courses that run from underwater environments to space.",
+          "text": "Crash, Coco, Cortex and their rivals race through three cups of four courses. Drifting helps with tight corners, jumps clear obstacles, and collected weapons interrupt the other racers. Quick Race gets straight to a starting grid; the main menu also offers a tutorial, story events and time trials.",
           "sources": [
-            "guide-4"
+            "deep-root-crash-review"
+          ]
+        },
+        {
+          "text": "The courses move through different environments, including the underwater and space settings advertised in the Zeebo guide. Shortcuts and speed strips offer ways to regain a place after an attack.",
+          "sources": [
+            "guide-4",
+            "deep-root-crash-review"
           ]
         }
       ],
       "development": [
         {
-          "text": "Polarbit made the original mobile game using its Fuse technology. Tectoy Digital adapted it for Zeebo. Tiago Tex Pine and Hugo Faria handled production; the programming credits name Vitor Picanço do Amaral, Tiago Monteiro Fernandes, Leonardo Loures Lopes and Bruno Evangelista.",
+          "text": "Tectoy Digital adapted Polarbit’s iPhone game for Zeebo. Producer Tiago Tex Pine dates the work to 2008–2009 and recalls a small programming group working for a couple of months. The C/C++ game used Polarbit’s engine; the adaptation also required interface assets and new screens for the console.",
+          "sources": [
+            "deep-root-crash-pine"
+          ]
+        },
+        {
+          "text": "The work changed how the game was played. Touch-screen interactions had to be retuned for a physical controller, and the port supported the Boomerang motion accessory. Pine describes reviewing and testing the build in Scrum cycles, managing its budget and staffing, and adding Brazilian Portuguese localisation. His project summary also records Spanish localisation.",
+          "sources": [
+            "deep-root-crash-pine"
+          ]
+        },
+        {
+          "text": "The published credits name Tiago Tex Pine and Hugo Faria in production, and Vitor Picanço do Amaral, Tiago Monteiro Fernandes, Leonardo Loures Lopes and Bruno Evangelista in programming.",
           "sources": [
             "a-crash"
           ]
         }
       ],
-      "release": [],
+      "release": [
+        {
+          "text": "Crash was one of the games used to demonstrate Zeebo before release. Reviewing the console edition in March 2010, Daniel (Chrome) noted its colourful scenery and busy races, but also slowdown when many racers and items filled the screen. He found that an earlier demonstration’s delayed music start had been fixed in the finished version.",
+          "sources": [
+            "deep-root-crash-review"
+          ]
+        },
+        {
+          "text": "The lack of split-screen racing disappointed the reviewer. Boomerang support produced a different response: in a later comment beneath the review, Daniel said motion control made the game more exciting than using the Z-Pad.",
+          "sources": [
+            "deep-root-crash-review"
+          ]
+        }
+      ],
       "notes": [],
       "quotes": [],
       "credits": [
@@ -2050,7 +2849,8 @@
           "platform": "Zeebo",
           "platform_evidence": "Infuse’s Zeebo screenshot gallery, A1 release.",
           "path": "assets/archive/infuse-macos_cnk2_2.png",
-          "placement": "game"
+          "placement": "gallery",
+          "sha256": "e0b534832d7f431b4887d87f09058cd7a66b34f94595c6b6e4a1a16694f950b8"
         },
         {
           "alt": "Crash races towards a rainbow ramp.",
@@ -2064,7 +2864,40 @@
           "platform": "Zeebo",
           "platform_evidence": "Infuse’s Zeebo screenshot gallery, A1 release.",
           "path": "assets/archive/infuse-macos_cnk2_4.png",
-          "placement": "gallery"
+          "placement": "gallery",
+          "sha256": "37567cc2a395614bfd5cc5bb5ea8c00b8adb7e9379d4cfc4ba69d518d546647b"
+        },
+        {
+          "alt": "Crash races behind a black kart on a bright green course.",
+          "caption": "Zeebo-port image reproduced in Tiago Tex Pine’s project portfolio.",
+          "source": "deep-root-crash-pine",
+          "original_url": "https://texpine.com/media/posts/9/gallery/8658c67228253.56028ef62e000.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 331,
+          "height": 252,
+          "platform": "Zeebo",
+          "platform_evidence": "4:3 image inside producer’s Zeebo-port project gallery, matching console HUD and lacking the phone touch-pause overlay shown in separate 3:2 gallery images.",
+          "placement": "game",
+          "sha256": "c5a587a09ff6bbcc28986e064bab5a02c01a9865e618a1fbc5778b2bdbf16825",
+          "capture_date": null,
+          "path": "assets/archive/crash-zeebo-producer-gallery.jpg"
+        },
+        {
+          "alt": "Crash approaches a turn behind two other karts.",
+          "caption": "Zeebo-port image reproduced in Tiago Tex Pine’s project portfolio.",
+          "source": "deep-root-crash-pine",
+          "original_url": "https://texpine.com/media/posts/9/gallery/a406937228255.56028f42818d1.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 331,
+          "height": 252,
+          "platform": "Zeebo",
+          "platform_evidence": "4:3 image inside producer’s Zeebo-port project gallery, matching console HUD and lacking the phone touch-pause overlay shown in separate 3:2 gallery images.",
+          "placement": "gallery",
+          "sha256": "5265d67fe8e5803822d6840189c8717521d4fc56dc9b6108eac93606c021e5e4",
+          "capture_date": null,
+          "path": "assets/archive/crash-zeebo-producer-gallery-turn.jpg"
         }
       ]
     },
@@ -2081,13 +2914,20 @@
       "development": [],
       "release": [
         {
-          "text": "Disney Mobile announced the Zeebo edition on 1 September 2010, with a target launch date of 21 September.",
+          "text": "Disney Mobile and Zeebo announced their partnership on 1 September 2010, targeting Disney All Star Cards for 21 September. Alice in Wonderland and Jelly Car 2 were also named in the proposed lineup, alongside two unnamed titles. The deal was meant to bring Disney’s mobile catalog into Brazilian and Mexican living rooms.",
           "sources": [
             "a-disney"
           ]
         }
       ],
-      "notes": [],
+      "notes": [
+        {
+          "text": "A contemporary ZeeboTangerina launch report and a dedicated promotional microsite were located as leads, but the original blog URL could not be retrieved in this pass. The 1 September press release is a plan, not by itself proof of the actual release day.",
+          "sources": [
+            "a-disney"
+          ]
+        }
+      ],
       "quotes": [],
       "credits": [],
       "studio_roles": [
@@ -2114,6 +2954,12 @@
           "sources": [
             "a-double-dragon"
           ]
+        },
+        {
+          "text": "The controller supports both single-button moves and some combined-button commands. Weapons can be dropped deliberately, while dashing and launch attacks can be linked into mid-air combinations. Rockman’s detailed Zeebo review made those juggling attacks a particular attraction.",
+          "sources": [
+            "deep-c-double-dragon-dojo"
+          ]
         }
       ],
       "development": [
@@ -2131,9 +2977,38 @@
           ]
         }
       ],
-      "release": [],
-      "notes": [],
-      "quotes": [],
+      "release": [
+        {
+          "text": "Access itself became part of the game’s history. Double Dragon Dojo contributor Rockman described buying a Brazilian Zeebo through an auction site, using Google Translate, and finding one with Double Dragon already installed. He praised its fighting options, enemy roster and unlockable Extra mode.",
+          "sources": [
+            "deep-c-double-dragon-dojo"
+          ]
+        },
+        {
+          "text": "A review reproduced at Zeebo Club in March 2010 was more reserved about the fighting. It praised the redrawn sprites but described attack sequences that could not be cancelled, leaving a fighter exposed when punches missed. The writer considered the result enjoyable, with less fluid combat than it could have had.",
+          "sources": [
+            "deep-c-review-double-dragon"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Ryosuke Jinno’s 2011 interview concerns the later iPhone remake. Its fifteen-person team and ten-month schedule must not be assigned to the Zeebo production.",
+          "sources": [
+            "a-double-dragon-interview"
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "The juggling aspect of this game really drives it forward.",
+          "speaker": "Rockman",
+          "attribution": "Double Dragon Dojo, undated firsthand Zeebo review",
+          "translation": null,
+          "section": "reception",
+          "source": "deep-c-double-dragon-dojo"
+        }
+      ],
       "credits": [
         {
           "name": "Hiroto Ikuta",
@@ -2213,7 +3088,8 @@
           "platform": "Zeebo",
           "platform_evidence": "Infuse’s Zeebo screenshot gallery, A1 release.",
           "path": "assets/archive/infuse-macos_ddragon_2.png",
-          "placement": "game"
+          "placement": "game",
+          "sha256": "18da8ac3d62e16c4f1cbc4082e4d63a9fef61d917dc9f220a2975bcd4de5f64d"
         },
         {
           "alt": "A winged fighter outside a brick building.",
@@ -2227,7 +3103,8 @@
           "platform": "Zeebo",
           "platform_evidence": "Infuse’s Zeebo screenshot gallery, A1 release.",
           "path": "assets/archive/infuse-macos_ddragon_4.png",
-          "placement": "gallery"
+          "placement": "gallery",
+          "sha256": "5cab1fb06435218ae2c5a2baec560534fca0545a80071200f83a1b2ceb22d1f7"
         }
       ]
     },
@@ -2243,50 +3120,140 @@
       ],
       "development": [
         {
-          "text": "Gamelion developed this edition for Electronic Arts. Its credits name Krzysztof Jędruczyk as development lead and Hubert Borowy and Sebastian Szczygieł as producers. Wojciech Lekki handled 3D art.",
+          "text": "The credits retain Gamelion’s team, led by Krzysztof Jędruczyk, with producers Hubert Borowy and Sebastian Szczygieł. The Brazilian adaptation team included producer Hugo Faria; programmers Edgar Vilela Gadbem, Henrique Mendes and Leonardo Loures Lopes; artists Carina Cheng, Seigi Sato and Suellen Salgado; and musician Denis Koishi.",
           "sources": [
-            "a-fifa"
+            "a-fifa",
+            "deep-a-fifa-brazil-credits"
+          ]
+        },
+        {
+          "text": "John Rizzo described FIFA as a hybrid: part of the game came from mobile content, while the voiceovers came from PC.",
+          "sources": [
+            "deep-a-rizzo-january"
+          ]
+        },
+        {
+          "text": "That included Portuguese commentary by Nivaldo Prieto. The reproduced ZeeboBrasil review also identified Curumin’s recording “Magrela Fever” in the menus. The commentary and licensed music brought familiar elements from the larger FIFA releases into a much smaller game.",
+          "sources": [
+            "deep-a-fifa-review"
           ]
         }
       ],
-      "release": [],
-      "notes": [],
+      "release": [
+        {
+          "text": "FIFA 09 was installed on the first Brazilian retail consoles. Claudio Prandoni’s June 2009 UOL report criticised its slow response and rudimentary presentation while noting that the promised Portuguese commentary was present.",
+          "sources": [
+            "deep-a-uol-launch"
+          ]
+        },
+        {
+          "text": "The ZeeboBrasil review preserved by Zeebo Club was similarly mixed: licensed teams, Brazilian clubs and several competition modes were welcome, but player movement and defensive behaviour felt crude. The writer specifically noted that tackling was semi-automatic, with no dedicated tackle button.",
+          "sources": [
+            "deep-a-fifa-review"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "The Polish Gamelion credits and Brazilian adaptation credits are retained as separate teams. MobyGames’ full credit URL returned 403; its indexed game page and BDJogos’ Brazilian roll were available.",
+          "sources": [
+            "a-fifa",
+            "deep-a-fifa-brazil-credits"
+          ]
+        }
+      ],
       "quotes": [],
       "credits": [
         {
           "name": "Krzysztof Jędruczyk",
           "role": "Development lead",
           "team": "Gamelion",
-          "scope": "Zeebo",
+          "scope": "Underlying game (credited in Zeebo edition)",
           "source": "a-fifa"
         },
         {
           "name": "Hubert Borowy",
           "role": "Producer",
           "team": "Gamelion",
-          "scope": "Zeebo",
+          "scope": "Underlying game (credited in Zeebo edition)",
           "source": "a-fifa"
         },
         {
           "name": "Sebastian Szczygieł",
           "role": "Producer",
           "team": "Gamelion",
-          "scope": "Zeebo",
+          "scope": "Underlying game (credited in Zeebo edition)",
           "source": "a-fifa"
         },
         {
           "name": "Wojciech Lekki",
           "role": "3D art",
           "team": "Gamelion",
-          "scope": "Zeebo",
+          "scope": "Underlying game (credited in Zeebo edition)",
           "source": "a-fifa"
+        },
+        {
+          "name": "Nivaldo Prieto",
+          "role": "Portuguese commentary",
+          "team": "FIFA licensed commentary",
+          "scope": "Zeebo",
+          "source": "deep-a-fifa-review"
+        },
+        {
+          "name": "Curumin",
+          "role": "Recording artist — “Magrela Fever” menu music",
+          "team": "Licensed recording",
+          "scope": "Zeebo",
+          "source": "deep-a-fifa-review"
+        },
+        {
+          "name": "Hugo Faria",
+          "role": "Producer",
+          "team": "Brazilian adaptation team",
+          "scope": "Zeebo",
+          "source": "deep-a-fifa-brazil-credits"
+        },
+        {
+          "name": "Edgar Vilela Gadbem",
+          "role": "Programmer",
+          "team": "Brazilian adaptation team",
+          "scope": "Zeebo",
+          "source": "deep-a-fifa-brazil-credits"
+        },
+        {
+          "name": "Henrique Mendes",
+          "role": "Programmer",
+          "team": "Brazilian adaptation team",
+          "scope": "Zeebo",
+          "source": "deep-a-fifa-brazil-credits"
+        },
+        {
+          "name": "Leonardo Loures Lopes",
+          "role": "Programmer",
+          "team": "Brazilian adaptation team",
+          "scope": "Zeebo",
+          "source": "deep-a-fifa-brazil-credits"
+        },
+        {
+          "name": "Seigi Sato",
+          "role": "Artist",
+          "team": "Brazilian adaptation team",
+          "scope": "Zeebo",
+          "source": "deep-a-fifa-brazil-credits"
+        },
+        {
+          "name": "Denis Koishi",
+          "role": "Music",
+          "team": "Brazilian adaptation team",
+          "scope": "Zeebo",
+          "source": "deep-a-fifa-brazil-credits"
         }
       ],
       "studio_roles": [
         {
           "name": "Gamelion",
-          "role": "Zeebo developer",
-          "scope": "Zeebo",
+          "role": "Underlying game developer",
+          "scope": "Underlying game",
           "source": "a-fifa"
         },
         {
@@ -2294,6 +3261,12 @@
           "role": "Publisher",
           "scope": "Zeebo",
           "source": "a-fifa"
+        },
+        {
+          "name": "Tectoy Digital / Zeebo Interactive Studios",
+          "role": "Brazilian adaptation team",
+          "scope": "Zeebo",
+          "source": "deep-a-fifa-brazil-credits"
         }
       ],
       "year": 2009
@@ -2302,13 +3275,25 @@
       "deck": "A Terran mercenary takes contracts in the war against the Vossk.",
       "overview": [
         {
-          "text": "Galaxy on Fire puts the player in a spacecraft as a Terran mercenary fighting the Vossk.",
+          "text": "A Terran mercenary takes combat, capture and escort contracts during the war against the Vossk. After the opening missions, the map opens up: the player can choose destinations and jobs, move between planets and space stations, and earn money towards a better ship.",
           "sources": [
-            "guide-3"
+            "deep-root-gof-review"
+          ]
+        },
+        {
+          "text": "Stations with trading facilities sell ships, weapons and shields. Cargo recovered during missions, including medicines and electronics, can be sold to finance the next upgrade. Difficulty, aiming, inverted controls and language settings are adjustable; the Zeebo edition offers English, Spanish and Portuguese.",
+          "sources": [
+            "deep-root-gof-review"
           ]
         }
       ],
       "development": [
+        {
+          "text": "Galaxy on Fire began on Java phones, including the Sony Ericsson K700 with its 176 × 220 display. Fishlabs already knew Qualcomm’s Mike Yuen through its BREW games. Michael Schade contacted him before GDC 2009, and the resulting meeting led to Fishlabs’ first console release.",
+          "sources": [
+            "a-galaxy-interview"
+          ]
+        },
         {
           "text": "Fishlabs adapted Galaxy on Fire using its ABYSS engine. Michael Schade explained which versions supplied the code and artwork:",
           "sources": [
@@ -2328,9 +3313,29 @@
             "a-galaxy-interview"
           ],
           "after_quote": true
+        },
+        {
+          "text": "Schade said the analogue controller was the adaptation’s most important difference from the phone editions. Reaching a first playable version was quick with the existing ABYSS engine and C code; getting the performance and television output right took further work.",
+          "sources": [
+            "a-galaxy-interview"
+          ],
+          "after_quote": true
         }
       ],
-      "release": [],
+      "release": [
+        {
+          "text": "The September 2009 announcement highlighted survival play, revised AI and interface work, and updated sound and music. These were advertised changes accompanying the move from phones to the television.",
+          "sources": [
+            "deep-root-gof-announcement"
+          ]
+        },
+        {
+          "text": "Writing for Zeebo Club in October, gui welcomed the larger adventure and the Z-Pad controls, but missed Boomerang support. The review recommended the game while acknowledging that long sessions could become tiring; readers beneath it also disagreed about how quickly its mission loop became repetitive.",
+          "sources": [
+            "deep-root-gof-review"
+          ]
+        }
+      ],
       "notes": [],
       "quotes": [
         {
@@ -2365,7 +3370,8 @@
           "platform": "Zeebo",
           "platform_evidence": "Inline image in an interview specifically about the Zeebo conversion.",
           "path": "assets/archive/galaxy-on-fire-zeebo-003.jpg",
-          "placement": "game"
+          "placement": "game",
+          "sha256": "3ce33f07decd22dd66e2e94d48bd709b4cf21abbc181519d8ba9a9cae24d0b8d"
         },
         {
           "alt": "A ship fires at a bright explosion in space.",
@@ -2379,7 +3385,8 @@
           "platform": "Zeebo",
           "platform_evidence": "Inline image in an interview specifically about the Zeebo conversion.",
           "path": "assets/archive/galaxy-on-fire-zeebo-004.jpg",
-          "placement": "gallery"
+          "placement": "gallery",
+          "sha256": "3d0e3eb310130983718529e623cb4c396434b3c6850a93076dc76c6864d8ad6f"
         }
       ]
     },
@@ -2390,6 +3397,12 @@
           "text": "Heavy Weapon is a side-scrolling tank shooter with enemies attacking from land, sea and air. Equipment upgrades are available between stages.",
           "sources": [
             "guide-3"
+          ]
+        },
+        {
+          "text": "The two analogue sticks have different jobs: the left moves the tank and the right aims its gun. The campaign revisits nine areas before a nineteenth, final stage, increasing the difficulty as the player returns through them.",
+          "sources": [
+            "deep-a-heavy-review"
           ]
         }
       ],
@@ -2407,10 +3420,26 @@
           "sources": [
             "a-popcap"
           ]
+        },
+        {
+          "text": "J.Vila’s review described a game that arrived without the expectations surrounding Resident Evil 4 and proved more enjoyable than its modest presentation suggested. The reviewer criticised repetitive aircraft designs and music but praised the rising difficulty and effective controls, awarding 7/10.",
+          "sources": [
+            "deep-a-heavy-review"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "bons títulos não necessitam necessariamente de investimentos milionários",
+          "original_text": "bons títulos não necessitam necessariamente de investimentos milionários",
+          "speaker": "J.Vila",
+          "attribution": "Zeebo Club review, 30 March 2010",
+          "translation": "English translation by the archive: “good titles don’t necessarily need million-dollar investments”",
+          "section": "reception",
+          "source": "deep-a-heavy-review"
+        }
+      ],
       "credits": [
         {
           "name": "Viktorya Hollings",
@@ -2452,6 +3481,12 @@
           "sources": [
             "a-iron"
           ]
+        },
+        {
+          "text": "The Zeebo campaign contains eight levels with different terrain and enemy positions. A multiplayer mode offers another way to play.",
+          "sources": [
+            "deep-a-iron-review"
+          ]
         }
       ],
       "development": [
@@ -2459,6 +3494,12 @@
           "text": "The Zeebo credits name Deion Mobile as the developer and list five authors: Tomek Wagner, Raymond Leung, Bartek Tajer, Vyach Imalkovski and Justin Wasack.",
           "sources": [
             "a-iron-credits"
+          ]
+        },
+        {
+          "text": "Polarbit’s Zeebo agreement covered four titles, with Iron Sight and Armageddon Squadron forming the first wave. By 30 September 2010 both were available in Brazil and Mexico.",
+          "sources": [
+            "a-polarbit-launch"
           ]
         }
       ],
@@ -2468,10 +3509,26 @@
           "sources": [
             "a-polarbit-launch"
           ]
+        },
+        {
+          "text": "STX’s November 2010 review found responsive movement but troublesome aiming: the player could adjust trajectory and force, yet the fixed view made depth difficult to judge. The review also noted that music heard in the menu disappeared during battle. Despite those complaints, its campaign and multiplayer could still hold the attention of a player who liked turn-based combat.",
+          "sources": [
+            "deep-a-iron-review"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "Feio, quase mudo, de jogabilidade ruim, mas divertido!",
+          "original_text": "Feio, quase mudo, de jogabilidade ruim, mas divertido!",
+          "speaker": "STX",
+          "attribution": "Zeebo Club review, 1 November 2010",
+          "translation": "English translation by the archive: “Ugly, almost silent, poor gameplay, but fun!”",
+          "section": "reception",
+          "source": "deep-a-iron-review"
+        }
+      ],
       "credits": [
         {
           "name": "Tomek Wagner",
@@ -2541,11 +3598,40 @@
           "sources": [
             "a-nfs"
           ]
+        },
+        {
+          "text": "The credit roll separates the earlier game’s team from a section headed “Zeebo Version Developed by Tectoy Digital”. That Brazilian team also included acting producer André Nogueira, QA lead Cacau Pastorello and artists Carina Cheng, Luiz Gustavo Marquetti, Marcelo Silva, Pedro Hamaya, Suellen Salgado and Wilson Hideki Akamine.",
+          "sources": [
+            "a-nfs"
+          ]
         }
       ],
-      "release": [],
+      "release": [
+        {
+          "text": "Need for Speed was one of three games embedded in the original Brazilian retail console, alongside FIFA 09 and Treino Cerebral.",
+          "sources": [
+            "deep-a-nfs-launch-bundle"
+          ]
+        },
+        {
+          "text": "The ZeeboBrasil review reproduced by Zeebo Club liked the Portuguese dialogue, translated interface and substantial soundtrack. It was much less forgiving of the races: slow acceleration, a weak sense of speed, sparse traffic and dark, repetitive scenery. The review awarded 4.5/10. Reader Saulo Albert pushed back against the verdict, adding that the game had been included free:",
+          "sources": [
+            "deep-a-nfs-review"
+          ]
+        }
+      ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "Apesar de todas as críticas o considero um bom jogo.",
+          "original_text": "Apesar de todas as críticas o considero um bom jogo.",
+          "speaker": "Saulo Albert, player",
+          "attribution": "Comment on the Zeebo Club review, 21 April 2010",
+          "translation": "English translation by the archive: “Despite all the criticism, I consider it a good game.”",
+          "section": "reception",
+          "source": "deep-a-nfs-review"
+        }
+      ],
       "credits": [
         {
           "name": "Hugo Faria",
@@ -2610,24 +3696,68 @@
           ]
         }
       ],
-      "development": [],
+      "development": [
+        {
+          "text": "Vega Mobile handled the Zeebo conversion. Its credit roll preserves Brian Rothstein and Sukhbir Sidhu’s original concept separately from the production, engineering and art roles, then explicitly identifies Vega as the console-version studio. This was part of the same PopCap adaptation work that brought Heavy Weapon to Zeebo.",
+          "sources": [
+            "deep-a-peggle-credits"
+          ]
+        }
+      ],
       "release": [
         {
           "text": "Peggle was available on Zeebo by 9 March 2010. PopCap’s announcement lists 55 main levels, ten unlockable masters, Quick Play, Duel, and a further 55 Challenge levels.",
           "sources": [
             "a-popcap"
           ]
+        },
+        {
+          "text": "STX’s May 2010 review found a cheerful game with more tactical appeal than its appearance initially suggested. Both the D-pad and analogue stick could aim, although the analogue movement sometimes became excessively fast. Large chains of hits could also cause slowdown. The turn-taking Duel mode was a particular attraction for local play.",
+          "sources": [
+            "deep-a-peggle-review"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
-      "credits": [],
+      "quotes": [
+        {
+          "text": "o analógico as vezes deixa a mira extremamente rápida",
+          "original_text": "o analógico as vezes deixa a mira extremamente rápida",
+          "speaker": "STX",
+          "attribution": "Zeebo Club review, 30 May 2010",
+          "translation": "English translation by the archive: “the analogue stick sometimes makes the aiming extremely fast”",
+          "section": "reception",
+          "source": "deep-a-peggle-review"
+        }
+      ],
+      "credits": [
+        {
+          "name": "Brian Rothstein",
+          "role": "Original concept",
+          "team": "PopCap",
+          "scope": "Original game",
+          "source": "deep-a-peggle-credits"
+        },
+        {
+          "name": "Sukhbir Sidhu",
+          "role": "Original concept",
+          "team": "PopCap",
+          "scope": "Original game",
+          "source": "deep-a-peggle-credits"
+        }
+      ],
       "studio_roles": [
         {
           "name": "PopCap",
           "role": "Zeebo publisher",
           "scope": "Zeebo",
           "source": "a-popcap"
+        },
+        {
+          "name": "Vega Mobile",
+          "role": "Zeebo conversion",
+          "scope": "Zeebo",
+          "source": "deep-a-peggle-credits"
         }
       ],
       "year": 2010
@@ -2640,6 +3770,12 @@
           "sources": [
             "a-powerboat-screens"
           ]
+        },
+        {
+          "text": "Money earned from events buys improvements for the boat, while medals unlock island championships. Passing close to the correct side of a buoy replenishes turbo; missing a gate costs speed and can eventually disqualify the racer.",
+          "sources": [
+            "deep-a-powerboat-review"
+          ]
         }
       ],
       "development": [
@@ -2648,11 +3784,40 @@
           "sources": [
             "a-powerboat-credits"
           ]
+        },
+        {
+          "text": "The Zeebo edition supported the Boomerang as well as the Z-Pad. STX found that motion-control play used automatic acceleration, with the Boomerang’s directional buttons handling braking and turbo. The Z-Pad offered more precise control, while the Boomerang changed the feel of steering.",
+          "sources": [
+            "deep-a-powerboat-review"
+          ]
         }
       ],
-      "release": [],
+      "release": [
+        {
+          "text": "Powerboat Challenge launched on 12 October 2010, Brazilian Children’s Day. The official post encouraged players to earn money and customise their boats.",
+          "sources": [
+            "deep-a-powerboat-launch"
+          ]
+        },
+        {
+          "text": "STX’s November review praised the environments and Boomerang support, but found occasional stutters and a conspicuous lack of engine noise. The race music was a rock-and-drum-and-bass mixture rather than an engine soundtrack. Local multiplayer was absent.",
+          "sources": [
+            "deep-a-powerboat-review"
+          ]
+        }
+      ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "jogar com o Z-pad é muito mais preciso",
+          "original_text": "jogar com o Z-pad é muito mais preciso",
+          "speaker": "STX",
+          "attribution": "Zeebo Club review, 5 November 2010",
+          "translation": "English translation by the archive: “Playing with the Z-pad is much more precise.”",
+          "section": "reception",
+          "source": "deep-a-powerboat-review"
+        }
+      ],
       "credits": [
         {
           "name": "Lars Berger",
@@ -2701,12 +3866,12 @@
       "year": 2010
     },
     "276154": {
-      "deck": "The mobile Prey adaptation, brought to Zeebo as Prey Evil.",
+      "deck": "Tommy searches for Jenny through an alien spacecraft, with weapons and Spirit Walk.",
       "overview": [
         {
-          "text": "Prey Evil belongs to the mobile branch of Prey. Machineworks Northwest developed it using QSound’s Ripp3D renderer.",
+          "text": "Prey Evil belongs to the mobile retelling of Prey. Tommy searches for his missing girlfriend Jenny, fighting with a wrench, rifle and organic grenades. The adventure is divided into chapters and discrete levels. Spirit Walk lets him leave his body to solve obstacles; defeat can send him into a spirit realm to recover health and power.",
           "sources": [
-            "a-prey-newsletter"
+            "deep-a-prey-overview"
           ]
         }
       ],
@@ -2716,6 +3881,24 @@
           "sources": [
             "a-prey-credits"
           ]
+        },
+        {
+          "text": "Seth A. Robinson had already programmed MachineWorks’ BREW games, including Duke Nukem Mobile 3D and Rocky Balboa 3D. His project history lists Prey Evil for Zeebo and Prey Invasion for iPhone as separate 2009 assignments.",
+          "sources": [
+            "deep-a-seth-robinson"
+          ]
+        },
+        {
+          "text": "Before launch, John Rizzo estimated that the Zeebo adaptation was taking roughly seven months.",
+          "sources": [
+            "deep-a-rizzo-january"
+          ]
+        },
+        {
+          "text": "QSound’s June 2009 financial statement confirms that Prey Evil licensed its Ripp3D graphics engine. The free-download arrangement paid QSound a royalty for every console sold in Brazil; the company also discussed additional games as future plans.",
+          "sources": [
+            "a-prey-qsound"
+          ]
         }
       ],
       "release": [
@@ -2723,6 +3906,12 @@
           "text": "In June 2009, QSound said Zeebo purchasers were entitled to download Prey Evil free of charge.",
           "sources": [
             "a-prey-qsound"
+          ]
+        },
+        {
+          "text": "Claudio Prandoni’s launch report judged Prey’s movement and actions unusually responsive among the first Zeebo games. He also found some levels little more than straight corridors with a few enemies.",
+          "sources": [
+            "deep-a-uol-launch"
           ]
         }
       ],
@@ -2734,7 +3923,7 @@
           "role": "Lead programmer",
           "team": "Machineworks Northwest",
           "scope": "Zeebo",
-          "source": "a-prey-credits"
+          "source": "deep-a-seth-robinson"
         },
         {
           "name": "Andreas Vasen",
@@ -2794,6 +3983,12 @@
       ],
       "development": [
         {
+          "text": "Quake came from id Software’s PC game. Before Zeebo launched, CEO John Rizzo explained how long that conversion had taken:",
+          "sources": [
+            "deep-a-rizzo-january"
+          ]
+        },
+        {
           "text": "The Zeebo adaptation retains credits for the original id Software team alongside a separate console production and programming group.",
           "sources": [
             "a-quake-credits"
@@ -2808,14 +4003,37 @@
       ],
       "release": [
         {
-          "text": "Quake and Quake II were removed from ZeeboNet in June 2010. The free-download offer switched to Zeebo Extreme Rolimã and Jetboard.",
+          "text": "Claudio Prandoni tested a retail Zeebo for UOL in June 2009. Quake was one of the machine’s stronger demonstrations: he found it smooth and noted that the earlier English build had been localised into Portuguese.",
           "sources": [
-            "a-quake-trivia"
+            "deep-a-uol-launch"
+          ]
+        },
+        {
+          "text": "A Zeebo Blog statement dated 17 June 2010, reproduced in a contemporary forum post, confirmed that Quake and Quake II had been permanently removed from the store. Existing downloads would keep working if owners did not delete them. New buyers would instead receive Extreme Rolimã and Jetboard.",
+          "sources": [
+            "deep-root-delist"
           ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "Quake, which was strictly a port from the PC, took about six months.",
+          "speaker": "John Rizzo, Zeebo CEO",
+          "attribution": "Interview with Brandon Sheffield, Gamasutra, 9 January 2009",
+          "translation": null,
+          "section": "development",
+          "source": "deep-a-rizzo-january"
+        },
+        {
+          "text": "rodando de forma suave, sem engasgar",
+          "speaker": "Claudio Prandoni",
+          "attribution": "UOL Jogos, 9 June 2009",
+          "translation": "English translation by the archive: “running smoothly, without stuttering.”",
+          "section": "reception",
+          "source": "deep-a-uol-launch"
+        }
+      ],
       "credits": [
         {
           "name": "Rafael Nanya",
@@ -2895,14 +4113,19 @@
       ],
       "development": [
         {
-          "text": "Tectoy Digital ported and localised Quake II for Zeebo. Its team appears in a separate section alongside the original id Software credits.",
+          "text": "Adapting Quake II meant bringing the original C game into an ARM/BREW environment. Producer Tiago Tex Pine recalls that the PC game’s memory-allocation approach did not fit the console’s operating system. Performance and rendering needed substantial attention rather than a straightforward recompile.",
           "sources": [
-            "a-quake2-release",
-            "a-quake2-credits"
+            "deep-root-quake2-pine"
           ]
         },
         {
-          "text": "Tiago Tex Pine produced the adaptation. Its programmers include Edgar Vilela Gadbem, Gustavo Galembeck, Vitor Picanço do Amaral and Henrique Mendes. Denis Koishi handled sound. The Portuguese voices include Suzana Bueno as the computers and Bruno Santos on the radio; members of the programming team voiced prisoners.",
+          "text": "Pine led a seven-person group of developers and QA staff. He tested and tuned the controls and camera for the Zeebo hardware, managed the project, and supplied some voices himself. The work included Portuguese and Spanish text and voice localisation.",
+          "sources": [
+            "deep-root-quake2-pine"
+          ]
+        },
+        {
+          "text": "The adaptation’s credits identify the programmers and the Portuguese voice cast separately from id Software’s original team. Suzana Bueno voices the computers and Bruno Santos the radio; members of the programming team also voiced prisoners.",
           "sources": [
             "a-quake2-credits"
           ]
@@ -2910,15 +4133,41 @@
       ],
       "release": [
         {
-          "text": "The Brazilian Zeebo edition dates to 2009. It was removed from ZeeboNet with Quake in June 2010.",
+          "text": "Quake II’s early availability was uneven. UOL could not test it in June 2009 because, according to Tectoy’s press office, problems had caused its removal from the download servers.",
           "sources": [
-            "a-quake2-release",
-            "a-quake-trivia"
+            "deep-a-uol-launch"
+          ]
+        },
+        {
+          "text": "By March 2010, Daniel (Chrome) could review the game for Zeebo Club. He praised the Portuguese voice work and the full sequence of PC levels, while noting reduced lighting, missing introductory video and no multiplayer. He also recorded reports of downloads appearing on some consoles but not others, and crashes when new areas loaded.",
+          "sources": [
+            "deep-root-quake2-review"
+          ]
+        },
+        {
+          "text": "The console offered two control presets. Casual added automatic aiming; Expert used one analogue stick to move and the other to look. Aim sensitivity could be adjusted. Daniel found the Z-Pad’s small sticks took practice, but welcomed hearing Brazilian Portuguese radio chatter during the opening mission.",
+          "sources": [
+            "deep-root-quake2-review"
+          ]
+        },
+        {
+          "text": "Quake II was later removed from sale alongside Quake. The company’s June 2010 statement said existing downloaded copies could still be played, provided they had not been deleted.",
+          "sources": [
+            "deep-root-delist"
           ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "uma boa dublagem, diga-se",
+          "speaker": "Daniel (Chrome)",
+          "attribution": "Zeebo Club review, 29 March 2010; discussing the Portuguese radio voices",
+          "translation": "English translation by the archive: “good voice acting, at that.”",
+          "section": "reception",
+          "source": "deep-root-quake2-review"
+        }
+      ],
       "credits": [
         {
           "name": "Tiago Tex Pine",
@@ -2968,6 +4217,13 @@
           "team": "Tectoy Digital",
           "scope": "Zeebo",
           "source": "a-quake2-credits"
+        },
+        {
+          "name": "Felipe Lira",
+          "role": "Programmer",
+          "team": "Tectoy Digital",
+          "scope": "Zeebo",
+          "source": "a-quake2-credits"
         }
       ],
       "studio_roles": [
@@ -2990,31 +4246,40 @@
       "deck": "An arcade street racer from Polarbit’s Zeebo lineup.",
       "overview": [
         {
-          "text": "Raging Thunder 2 is an arcade street-racing game. Polarbit announced it for Zeebo alongside Armageddon Squadron, Iron Sight and Deliverace.",
+          "text": "Raging Thunder 2 is a street racer built around buying and upgrading cars. Its routes pass through beaches, snowy mountains, temple ruins and the Great Wall. Pixelbite’s portfolio describes five single-player modes, including Survival and Time Attack.",
           "sources": [
-            "a-polarbit"
+            "a-raging-pixelbite"
           ]
         }
       ],
       "development": [
         {
-          "text": "Pixelbite includes Raging Thunder 2 in its own game portfolio. GameFAQs credits Pixelbite as developer of the Zeebo edition and Polarbit as publisher; Polarbit’s contemporary announcement confirms the console release.",
+          "text": "Pixelbite includes the game in its own portfolio, and the Zeebo release record credits Pixelbite as developer with Polarbit publishing. It formed part of Polarbit’s four-game agreement for the console, announced in April 2010. The first two games arrived in September; the racing games were held for the holiday lineup.",
           "sources": [
             "a-raging-pixelbite",
             "a-raging",
-            "a-polarbit"
+            "a-polarbit",
+            "a-polarbit-launch"
           ]
         }
       ],
       "release": [
         {
-          "text": "The Zeebo version arrived in December 2010.",
+          "text": "The Zeebo edition was released on 7 December 2010, completing Polarbit’s announced holiday lineup after the September launches of Armageddon Squadron and Iron Sight.",
           "sources": [
-            "a-raging"
+            "a-raging",
+            "a-polarbit-launch"
           ]
         }
       ],
-      "notes": [],
+      "notes": [
+        {
+          "text": "Pixelbite’s current portfolio advertises online and cross-platform multiplayer for the broader mobile release. Those features have not been independently established for this preserved Zeebo package.",
+          "sources": [
+            "a-raging-pixelbite"
+          ]
+        }
+      ],
       "quotes": [],
       "credits": [],
       "studio_roles": [
@@ -3041,6 +4306,12 @@
           "sources": [
             "guide-9"
           ]
+        },
+        {
+          "text": "Career opens the other modes as the player progresses. Adrenaline allows a choice of course and weather, and repair minigames interrupt the racing to fix vehicle damage. The Zeebo review praised changes in handling between surfaces and weather conditions.",
+          "sources": [
+            "deep-a-rally-review"
+          ]
         }
       ],
       "development": [
@@ -3049,11 +4320,40 @@
           "sources": [
             "a-rally"
           ]
+        },
+        {
+          "text": "Before the console conversion, Fishlabs used the original phone game to test a different distribution model. In 2008, Michael Schade described releasing a free client through pirate sites and charging virtual credits to unlock more tracks. The company wanted to measure repeat play and demand without relying entirely on mobile-operator storefronts. That experiment concerned the phone edition, not ZeeboNet.",
+          "sources": [
+            "deep-a-fishlabs-2008"
+          ]
         }
       ],
-      "release": [],
+      "release": [
+        {
+          "text": "The Brazilian Zeebo release followed on 21 December 2009.",
+          "sources": [
+            "a-rally"
+          ]
+        },
+        {
+          "text": "Ahtrun’s May 2010 review praised immediate controls, a steady frame rate and the repair minigames. The omissions were as noticeable: no multiplayer and only four car models, without player choice or customisation. Occasional sound faults and the difficulty of the highest setting also drew criticism.",
+          "sources": [
+            "deep-a-rally-review"
+          ]
+        }
+      ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "Jogabilidade perfeita sem atraso nos controles",
+          "original_text": "Jogabilidade perfeita sem atraso nos controles",
+          "speaker": "Ahtrun",
+          "attribution": "Zeebo Club review, 16 May 2010",
+          "translation": "English translation by the archive: “Perfect gameplay with no delay in the controls.”",
+          "section": "reception",
+          "source": "deep-a-rally-review"
+        }
+      ],
       "credits": [],
       "studio_roles": [
         {
@@ -3081,13 +4381,26 @@
           ]
         }
       ],
-      "development": [],
-      "release": [
+      "development": [
         {
-          "text": "The game appeared in Zeebo’s announced Polarbit lineup under its earlier name, Deliverace. The Zeebo edition followed in 2010.",
+          "text": "Reckless Racing was Pixelbite’s third game and its first project that was not work-for-hire. The studio had wanted to make an old-fashioned top-down racer with the detail and feel of a console game. Its portfolio credits Instant Remedy’s banjo soundtrack, alongside the bumps, slides and vehicle differences that made the racing distinctive.",
+          "sources": [
+            "deep-a-reckless-portfolio"
+          ]
+        },
+        {
+          "text": "It first appeared in the announced Zeebo lineup as Deliverace. By the November launch, the name had changed to Reckless Racing. Polarbit published the console version, while EA handled the contemporary iPhone and iPad release.",
           "sources": [
             "a-polarbit",
-            "a-reckless"
+            "deep-a-reckless-launch"
+          ]
+        }
+      ],
+      "release": [
+        {
+          "text": "The official Zeebo blog announced availability on 3 November 2010, less than two weeks after the iPhone/iPad launch. It specifically told owners to use the wired controller. That instruction distinguishes the console controls from the tilt and touchscreen options promoted on phones.",
+          "sources": [
+            "deep-a-reckless-launch"
           ]
         }
       ],
@@ -3118,6 +4431,12 @@
           "sources": [
             "a-re4"
           ]
+        },
+        {
+          "text": "Alongside its story, the console edition offers 24 Mercenary missions, unlocked two at a time through the twelve story missions, to earn money for equipment. Completing the story unlocks Professional mode; starting a new round retains money and weapons while resetting mission progress.",
+          "sources": [
+            "deep-a-re4-review"
+          ]
         }
       ],
       "development": [
@@ -3127,18 +4446,40 @@
             "a-re4-release",
             "a-re4-hi"
           ]
+        },
+        {
+          "text": "The result is a chapter-based adaptation rather than the continuous console adventure. On-screen action prompts handle interactions such as placing ladders, kicking stunned enemies and evading boss attacks. The twelve-mission story and extra money-earning challenges change the rhythm of progression.",
+          "sources": [
+            "deep-a-re4-review"
+          ]
         }
       ],
       "release": [
         {
-          "text": "The Zeebo edition was released in Brazil in August 2009.",
+          "text": "Resident Evil 4 and Ridge Racer appeared in the Brazilian catalog in August 2009. Cido Coelho’s contemporary report priced RE4 at 2490 Z-Credits, or R$24.90.",
           "sources": [
-            "a-re4-release"
+            "deep-a-re4-ridge-launch"
+          ]
+        },
+        {
+          "text": "Mig64’s March 2010 review tried to assess the Zeebo release separately from the expectations attached to its name. The writer found the movement smooth and some boss fights demanding, but criticised the subdued sound, bright presentation and short or static missions. The conspicuous blue Ganados became part of the argument about the adaptation.",
+          "sources": [
+            "deep-a-re4-review"
           ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "Port do celular? Sim, mas jogado no console, é o que importa.",
+          "original_text": "Port do celular? Sim, mas jogado no console, é o que importa.",
+          "speaker": "Mig64",
+          "attribution": "Zeebo Club review, 26 March 2010",
+          "translation": "English translation by the archive: “Mobile port? Yes, but played on the console—that’s what matters.”",
+          "section": "reception",
+          "source": "deep-a-re4-review"
+        }
+      ],
       "credits": [],
       "studio_roles": [
         {
@@ -3180,15 +4521,39 @@
       ],
       "development": [
         {
-          "text": "The Zeebo game comes from the redesigned mobile edition of Ridge Racer. That version is catalogued separately from the original arcade and PlayStation games.",
+          "text": "Ridge Racer’s route to Zeebo began with the mobile redesign released in 2005. Namco developed the game, with Namco Bandai publishing the console edition and Tectoy distributing it in Brazil.",
           "sources": [
-            "a-ridge"
+            "a-ridge",
+            "deep-a-ridge-release"
           ]
         }
       ],
-      "release": [],
+      "release": [
+        {
+          "text": "Ridge Racer arrived alongside Resident Evil 4 in August 2009 at 1990 Z-Credits, equivalent to R$19.90. That price was a prominent part of the contemporary response.",
+          "sources": [
+            "deep-a-re4-ridge-launch"
+          ]
+        },
+        {
+          "text": "Bruno Oz’s reaction, reproduced by GameVicio, described buying Ridge Racer and losing confidence in the console project. He thought parts of it looked worse than the phone version and objected to paying a home-console price for the conversion. This was one owner’s response, rather than a consensus score or an account from the development team.",
+          "sources": [
+            "deep-a-ridge-owner-reaction"
+          ]
+        }
+      ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "Me sinto roubado em pagar R$20 por um jogo de celular capado.",
+          "original_text": "Me sinto roubado em pagar R$20 por um jogo de celular capado.",
+          "speaker": "Bruno Oz",
+          "attribution": "Owner reaction, reproduced by GameVicio, 25 August 2009",
+          "translation": "English translation by the archive: “I feel robbed paying R$20 for a cut-down mobile game.”",
+          "section": "reception",
+          "source": "deep-a-ridge-owner-reaction"
+        }
+      ],
       "credits": [],
       "studio_roles": [],
       "year": 2009
@@ -3201,19 +4566,55 @@
           "sources": [
             "guide-4"
           ]
+        },
+        {
+          "text": "Players choose a paladin, warrior or assassin. Quests lead out from towns into real-time fights, while weight limits and a hunger/energy system require attention to supplies as well as equipment. Side quests offer more money and experience beyond the main route.",
+          "sources": [
+            "deep-a-zenonia-review"
+          ]
         }
       ],
       "development": [
         {
-          "text": "GAMEVIL brought its mobile action RPG to Zeebo. The company announced the console release in November 2009.",
+          "text": "Zeebo was GAMEVIL’s first console release. Its November 2009 announcement emphasised localisation into Portuguese and Spanish, with the company treating Brazil and Mexico as a new audience for its existing RPG. The Mexican console launched on 4 November with Zenonia already installed, while Brazilian owners downloaded it.",
           "sources": [
             "a-zenonia"
           ]
         }
       ],
-      "release": [],
-      "notes": [],
-      "quotes": [],
+      "release": [
+        {
+          "text": "The first months were troubled. In a December 2009 comment, a Zeebo Club reader complained that the game was full of bugs; another comment in April 2010 referred to a recall lasting months before owners could enjoy it again.",
+          "sources": [
+            "deep-a-zenonia-review"
+          ]
+        },
+        {
+          "text": "Lucas Mousinho’s review praised the 2D art and recommended the game to action-RPG players, while noting low apparent resolution, occasional slowdown and an automatic obstacle-avoidance behaviour he disliked. The controls used the D-pad, with separate buttons for attacks, menus, saving and the map.",
+          "sources": [
+            "deep-a-zenonia-review"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Portuguese Wikipedia links Tectoy’s official withdrawal notice (tecblog/?p=436) and return announcement (tecblog/?p=486). Both original URLs returned 404 and year-based Wayback lookups could not be retrieved in this pass. The precise withdrawal/refund/reissue chronology remains a follow-up rather than being reconstructed as verified fact.",
+          "sources": [
+            "deep-a-zenonia-chronology"
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "o melhor jogo do Zeebo no momento",
+          "original_text": "o melhor jogo do Zeebo no momento",
+          "speaker": "Lucas Mousinho",
+          "attribution": "Zeebo Club review, 30 March 2010",
+          "translation": "English translation by the archive: “the best game on Zeebo at the moment”",
+          "section": "reception",
+          "source": "deep-a-zenonia-review"
+        }
+      ],
       "credits": [],
       "studio_roles": [
         {
@@ -3233,6 +4634,12 @@
           "sources": [
             "guide-11"
           ]
+        },
+        {
+          "text": "The Zeebo edition has 60 levels and an additional challenge mode. Advancing chains leave little time to line up groups of three matching balls, and special shots can help stop the board from filling.",
+          "sources": [
+            "deep-a-zuma-review"
+          ]
         }
       ],
       "development": [
@@ -3249,10 +4656,26 @@
           "sources": [
             "a-zuma-release"
           ]
+        },
+        {
+          "text": "Ahtrun’s review appeared on 17 July 2010. It praised the long campaign, demanding stages and musical atmosphere, while finding the graphics comparatively lifeless and noting occasional sound interruptions and delayed controls. The review awarded 8/10. Its comments also show disagreement among owners: some welcomed the challenge while others wanted a wider variety of releases.",
+          "sources": [
+            "deep-a-zuma-review"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "um dos jogos mais desafiantes do Zeebo",
+          "original_text": "um dos jogos mais desafiantes do Zeebo",
+          "speaker": "Ahtrun",
+          "attribution": "Zeebo Club review, 17 July 2010",
+          "translation": "English translation by the archive: “one of the most challenging games on Zeebo”",
+          "section": "reception",
+          "source": "deep-a-zuma-review"
+        }
+      ],
       "credits": [],
       "studio_roles": [
         {
@@ -3288,6 +4711,13 @@
         }
       ],
       "development": [
+        {
+          "text": "Brain Challenge already existed on click-wheel iPods in 2007. Gameloft’s announcement described twenty short exercises across memory, visual tasks, logic, mathematics and focus, with speed-and-accuracy scores and charts for daily progress. The Zeebo release brought that established brain-training format to a television and controller.",
+          "sources": [
+            "deep-b-brain-ipod",
+            "b-moby-brain"
+          ]
+        },
         {
           "text": "Gameloft’s Zeebo team was led by producer Alan Olvera and lead programmers Carlos Zarate and Favio Medrano. Enrique Nevarez handled 2D art, while Henri-Pierre Pellegrin worked on sound and music.",
           "sources": [
@@ -3415,6 +4845,12 @@
           "sources": [
             "b-nacari-monica"
           ]
+        },
+        {
+          "text": "The planned partnership was broader than this one activity collection: four activity centres, four learning games and another Mônica game. The November announcement described a roughly 50-person Campinas studio working across programming, art, music, design and QA.",
+          "sources": [
+            "b-zeebo-monica-partnership"
+          ]
         }
       ],
       "release": [
@@ -3424,9 +4860,23 @@
             "b-moby-monica",
             "inventory-280634"
           ]
+        },
+        {
+          "text": "The partnership announcement initially targeted the first title for late November 2010 and a second for Christmas. The surviving release record places Vamos Brincar nº 1 in December.",
+          "sources": [
+            "b-zeebo-monica-partnership",
+            "b-moby-monica"
+          ]
         }
       ],
-      "notes": [],
+      "notes": [
+        {
+          "text": "The nine-title licensing announcement describes planned work. It is not evidence that nine completed Mônica games reached Zeebo owners.",
+          "sources": [
+            "b-zeebo-monica-partnership"
+          ]
+        }
+      ],
       "quotes": [],
       "credits": [
         {
@@ -3541,7 +4991,73 @@
           "source": "b-moby-monica"
         }
       ],
-      "year": 2010
+      "year": 2010,
+      "media": [
+        {
+          "alt": "Mônica and her friends stand around a colourful activity-selection landscape.",
+          "caption": "Activity-selection screen shown in Alexandre Nacari’s January 2013 portfolio.",
+          "source": "b-nacari-monica",
+          "original_url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8a3d7650550503.56088b699b801.PNG",
+          "credit": "Zeebo Interactive Studios / Mauricio de Sousa Produções; reproduced in Alexandre Nacari’s project portfolio.",
+          "kind": "production",
+          "width": 640,
+          "height": 480,
+          "platform": "Zeebo",
+          "platform_evidence": "Artist’s project explicitly identifies Zeebo console and 2010 Zeebo Brasil production; this image is an indexed original project-module image.",
+          "placement": "development",
+          "sha256": "cb54cb60b2c3c075f471ee48528828c1b90d3c63b51ee1a55493c780064b50a9",
+          "capture_date": null,
+          "path": "assets/archive/monica-activity-map.png"
+        },
+        {
+          "alt": "Bidu rides a skateboard on a painting canvas above coloured paint pots.",
+          "caption": "Painting interface shown in Alexandre Nacari’s January 2013 portfolio.",
+          "source": "b-nacari-monica",
+          "original_url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/61083850550507.560889050c1cc.PNG",
+          "credit": "Zeebo Interactive Studios / Mauricio de Sousa Produções; reproduced in Alexandre Nacari’s project portfolio.",
+          "kind": "production",
+          "width": 640,
+          "height": 480,
+          "platform": "Zeebo",
+          "platform_evidence": "Artist’s project explicitly identifies Zeebo console and 2010 Zeebo Brasil production; this image is an indexed original project-module image.",
+          "placement": "development",
+          "sha256": "1e925fa218cfefa622c920cfaf7e06d6e54fc789b2bf2740aa349753584ef6d8",
+          "capture_date": null,
+          "path": "assets/archive/monica-painting-interface.webp"
+        },
+        {
+          "alt": "Mônica stands inside a yellow hedge maze.",
+          "caption": "Maze activity shown in Alexandre Nacari’s portfolio.",
+          "source": "b-nacari-monica",
+          "original_url": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/b3212750550499.56088b6ad6d8f.PNG",
+          "credit": "Zeebo Interactive Studios / Mauricio de Sousa Produções; reproduced in Alexandre Nacari’s project portfolio.",
+          "kind": "screenshot",
+          "width": 600,
+          "height": 450,
+          "platform": "Zeebo",
+          "platform_evidence": "Artist’s project explicitly identifies Zeebo console and 2010 Zeebo Brasil production; this image is an indexed original project-module image.",
+          "placement": "gallery",
+          "sha256": "0d89818c1f2f17ad5031a113a5431546f671c655d31b428add3f3a3775867ae0",
+          "capture_date": null,
+          "path": "assets/archive/monica-maze.png"
+        },
+        {
+          "alt": "Mônica and Cascão cross water on a wooden raft.",
+          "caption": "River-crossing activity shown in Alexandre Nacari’s portfolio.",
+          "source": "b-nacari-monica",
+          "original_url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/1a1cf150550509.56088b6ae6d40.PNG",
+          "credit": "Zeebo Interactive Studios / Mauricio de Sousa Produções; reproduced in Alexandre Nacari’s project portfolio.",
+          "kind": "screenshot",
+          "width": 640,
+          "height": 480,
+          "platform": "Zeebo",
+          "platform_evidence": "Artist’s project explicitly identifies Zeebo console and 2010 Zeebo Brasil production; this image is an indexed original project-module image.",
+          "placement": "game",
+          "sha256": "e3a0c886c8194e815051906ad5dcf2c675e60732c658e5cb3c129b5cb424deff",
+          "capture_date": null,
+          "path": "assets/archive/monica-river.webp"
+        }
+      ]
     },
     "279036": {
       "deck": "Toto and Willy’s platform adventure from the Mexican film Una Película de Huevos.",
@@ -3571,6 +5087,13 @@
           "sources": [
             "b-moby-ovos-releases"
           ]
+        },
+        {
+          "text": "The production brought together a Swedish game team and Mexican animation characters. The Zeebo credits separate Fabrication’s game design, levels and artwork from Huevocartoon’s direction, screenplay and animation. The lead artist, Henrik Pettersson, later joined Mojang to work on 2D art for Scrolls, a move reported by Frank Cifaldi in August 2011.",
+          "sources": [
+            "b-moby-ovos-credits",
+            "deep-b-pettersson-career"
+          ]
         }
       ],
       "release": [
@@ -3578,6 +5101,18 @@
           "text": "Un Juego de Huevos launched in Mexico on 19 April 2010. Brazil received it as Um Jogo de Ovos on 24 August 2010.",
           "sources": [
             "b-moby-ovos-releases"
+          ]
+        },
+        {
+          "text": "Zeebo promoted the Mexican launch for Children’s Day at 220 pesos. The 12 April announcement described the licence as a way to bring locally familiar characters to the console; its promised 19 April availability should be distinguished from the announcement’s own date.",
+          "sources": [
+            "b-zeebo-huevos-launch"
+          ]
+        },
+        {
+          "text": "Brazilian reviewer Ahtrun rated it 8.5/10 on 27 August 2010. He enjoyed the Spanish dialogue and the cooperative and competitive modes, while criticising repetitive backgrounds, monotonous music and a slight slide when Toto stopped moving. Multiplayer received his highest category score, 10/10.",
+          "sources": [
+            "deep-b-ovos-review"
           ]
         }
       ],
@@ -3704,13 +5239,19 @@
           "sources": [
             "b-o3-zwheel"
           ]
+        },
+        {
+          "text": "The menu also displayed promotional slides and exposed services beyond launching games. Later preservation work documents how the final Brazilian software’s end-of-life setting disabled the main buttons except Play and Help when the 3G services ended.",
+          "sources": [
+            "deep-b-zwheel-preservation"
+          ]
         }
       ],
       "development": [
         {
-          "text": "O3 Labs documents several Brazilian software versions, including 1.0.368 and 1.0.727, alongside a Mexican 1.0.696.5 build.",
+          "text": "O3 Labs’ later Z-Wheel Manager documents several launcher versions and supports conversion to the final Brazilian 1.0.727 release. Its author distinguishes configurable settings from executable patches, and describes replacing the now-unused browsing button with a local application manager. These are preservation modifications, not features of the original shop service.",
           "sources": [
-            "b-o3-zwheel"
+            "deep-b-zwheel-preservation"
           ]
         }
       ],
@@ -3761,6 +5302,12 @@
       "development": [
         {
           "text": "Opera Software adapted Opera Mini for Zeebo. The browser compressed web content before delivery over the mobile connection, while the console displayed pages on the television.",
+          "sources": [
+            "b-opera-zeebo"
+          ]
+        },
+        {
+          "text": "Opera described this as its first Opera Mini release for a home consumer-electronics device built on mobile technology. The stated aim was home web access for people otherwise using Internet cafés. Its compression reduced network traffic before pages reached the television; the companies’ speed and cost claims were marketing comparisons, not independent tests.",
           "sources": [
             "b-opera-zeebo"
           ]
@@ -3854,6 +5401,13 @@
           "text": "The team grew to 23 while making the series during 2009, working towards a schedule of one finished game every two months.",
           "sources": [
             "b-pine-extreme"
+          ],
+          "after_quote": true
+        },
+        {
+          "text": "Baja was already part of the studio’s public plans in February 2009, alongside wakeboard racing. At that stage the announcement described Extreme as a growing set of disciplines, rather than five separate finished games.",
+          "sources": [
+            "deep-b-extreme-announcement"
           ],
           "after_quote": true
         }
@@ -3957,7 +5511,41 @@
           "source": "b-moby-baja"
         }
       ],
-      "year": 2009
+      "year": 2009,
+      "media": [
+        {
+          "alt": "A yellow off-road buggy races along a dirt course.",
+          "caption": "Baja: dirt-track racing.",
+          "source": "b-pine-extreme",
+          "original_url": "https://texpine.com/media/posts/6/gallery/28bda07228535.56028f559cc35.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 331,
+          "height": 248,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "game",
+          "sha256": "23a030dfee852f77dfcfd0daaa5b6782be7c76e131c6ba91d87104a98d936563",
+          "capture_date": null,
+          "path": "assets/archive/baja-dirt-track.jpg"
+        },
+        {
+          "alt": "The course-selection screen shows Camboriú and three difficulty choices.",
+          "caption": "Baja: Camboriú selection.",
+          "source": "b-pine-extreme",
+          "original_url": "https://texpine.com/media/posts/6/gallery/ca34967228529.56028f6a9ded8.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 331,
+          "height": 248,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "gallery",
+          "sha256": "a1cbc5ad62209fc1a0465c04074ec480a6ca5718aead6b374a413ba84737e870",
+          "capture_date": null,
+          "path": "assets/archive/baja-camboriu-track.jpg"
+        }
+      ]
     },
     "278285": {
       "deck": "Inner-tube races down Brazilian rapids.",
@@ -3984,10 +5572,25 @@
           "sources": [
             "b-moby-boia"
           ]
+        },
+        {
+          "text": "Writing in 2019, original-console owner rodrigo found Bóia Cross enjoyable in short sessions, but soon repetitive alone. His criticism was concrete: after finishing a race, there was little beyond repeating the three courses and improving records. He had not tested two-player play because he owned only one controller.",
+          "sources": [
+            "deep-b-boia-player-review"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "É jogar e pronto.",
+          "speaker": "rodrigo",
+          "attribution": "Rei dos Games, 25 June 2019; later review of his original Zeebo.",
+          "translation": "English translation by this archive: “You play, and that’s it.”",
+          "section": "reception",
+          "source": "deep-b-boia-player-review"
+        }
+      ],
       "credits": [
         {
           "name": "André Penha",
@@ -4068,7 +5671,41 @@
           "source": "b-moby-boia"
         }
       ],
-      "year": 2009
+      "year": 2009,
+      "media": [
+        {
+          "alt": "Four inner-tube riders wait beneath the starting banner.",
+          "caption": "Bóia Cross: starting line.",
+          "source": "b-pine-extreme",
+          "original_url": "https://texpine.com/media/posts/6/gallery/5ba2c97228545.56028dd987c1b.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 331,
+          "height": 248,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "game",
+          "sha256": "fb2fdafbe9719182544f7a2ac034d649629c31cd4c9c08b90ef38f51606303c4",
+          "capture_date": null,
+          "path": "assets/archive/boia-cross-start.jpg"
+        },
+        {
+          "alt": "Course selection shows Caverna do Diabo and three difficulty choices.",
+          "caption": "Bóia Cross: Caverna do Diabo.",
+          "source": "b-pine-extreme",
+          "original_url": "https://texpine.com/media/posts/6/gallery/e29cf77228541.56028dd7bccc5.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 331,
+          "height": 248,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "gallery",
+          "sha256": "60770e2bb54bc330b8c6b4ca2772a21a335e1061e8f064b945ffa56a85176ebe",
+          "capture_date": null,
+          "path": "assets/archive/boia-cross-caverna.jpg"
+        }
+      ]
     },
     "277285": {
       "deck": "Aeroplane races through canyons, caves and tunnels.",
@@ -4087,6 +5724,13 @@
           "sources": [
             "b-pine-extreme"
           ]
+        },
+        {
+          "text": "Suzana Bueno named Marcel Ziul as the musician behind Corrida Aérea’s soundtrack, pointing to his live performances when praising it. The game’s credit transcription separately lists Marcel Ziul and MZ Trio for music, alongside Denis Koishi for audio.",
+          "sources": [
+            "deep-b-suzana-interview",
+            "b-moby-air"
+          ]
         }
       ],
       "release": [
@@ -4094,6 +5738,12 @@
           "text": "Corrida Aérea was released for Zeebo on 29 September 2009.",
           "sources": [
             "b-moby-air"
+          ]
+        },
+        {
+          "text": "J.Vila’s Zeebo Club review praised the sung soundtrack but struggled with the motion steering. Holding the Boomerang upright like a flight stick required a balance: small tilts could do too little, while larger movements swung the aircraft too sharply. He also wanted more modes beyond the three circuits, awarding 6.5/10.",
+          "sources": [
+            "deep-b-air-review"
           ]
         }
       ],
@@ -4179,7 +5829,41 @@
           "source": "b-moby-air"
         }
       ],
-      "year": 2009
+      "year": 2009,
+      "media": [
+        {
+          "alt": "A green aircraft approaches a ring above a reddish canyon.",
+          "caption": "Corrida Aérea: canyon course.",
+          "source": "b-pine-extreme",
+          "original_url": "https://texpine.com/media/posts/6/gallery/403f347228527.56028ef841be2.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 331,
+          "height": 248,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "game",
+          "sha256": "c25557bfc18e1c1a111f55051299f5d5de30ff96832dde29d0b10cf7f24f5268",
+          "capture_date": null,
+          "path": "assets/archive/corrida-aerea-canyon.jpg"
+        },
+        {
+          "alt": "Two planes race through canyon rings in a split-screen view.",
+          "caption": "Corrida Aérea: split-screen racing.",
+          "source": "b-pine-extreme",
+          "original_url": "https://texpine.com/media/posts/6/gallery/41b6277228525.56028dd6854fe.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 331,
+          "height": 248,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "gallery",
+          "sha256": "ab1bfc43afa1c1b37af34b39706e7d92d827e05c8564711248b39d73afbe2890",
+          "capture_date": null,
+          "path": "assets/archive/corrida-aerea-splitscreen.jpg"
+        }
+      ]
     },
     "278283": {
       "deck": "Wakeboard racing with jetpacks, slalom gates and aerial tricks.",
@@ -4205,6 +5889,12 @@
             "b-pine-extreme",
             "b-moby-jetboard"
           ]
+        },
+        {
+          "text": "The credits list Vitor Picanço do Amaral as lead programmer, with Olímpio MacLouly, Henrique Nakashima, Felipe Lira and Ariel Madril on programming. Art came from the internal team and Animar Estúdio.",
+          "sources": [
+            "b-moby-jetboard"
+          ]
         }
       ],
       "release": [
@@ -4213,10 +5903,25 @@
           "sources": [
             "b-moby-jetboard"
           ]
+        },
+        {
+          "text": "STX’s 12 May 2010 Zeebo Club review praised the brighter graphics and more consistent frame rate, and found the Boomerang more entertaining even though the Z-Pad was easier. He thought the slalom rules and tricks made this the series’ most demanding game, but could discourage inexperienced friends. The final score was 7.4/10.",
+          "sources": [
+            "deep-b-jetboard-review"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "não tem modo campeonato e possui apenas 03 pistas",
+          "speaker": "STX",
+          "attribution": "Zeebo Club review, 12 May 2010; updated 20 May 2010.",
+          "translation": "English translation by this archive: “there is no championship mode and only three courses.”",
+          "section": "reception",
+          "source": "deep-b-jetboard-review"
+        }
+      ],
       "credits": [
         {
           "name": "André Penha",
@@ -4310,7 +6015,41 @@
           "source": "b-moby-jetboard"
         }
       ],
-      "year": 2009
+      "year": 2009,
+      "media": [
+        {
+          "alt": "Two jetboard riders race across water in a split-screen view.",
+          "caption": "Jetboard: split-screen racing.",
+          "source": "b-pine-extreme",
+          "original_url": "https://texpine.com/media/posts/6/gallery/8df84e7228559.56028f55981d4.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 331,
+          "height": 248,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "game",
+          "sha256": "16d9364d9c8824740646d25099588ca210a7854468ab2aa6851ee8374b6d38af",
+          "capture_date": null,
+          "path": "assets/archive/jetboard-splitscreen.jpg"
+        },
+        {
+          "alt": "The course-selection screen shows Fernando de Noronha.",
+          "caption": "Jetboard: Fernando de Noronha.",
+          "source": "b-pine-extreme",
+          "original_url": "https://texpine.com/media/posts/6/gallery/858cf67228551.56028f579deb7.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 331,
+          "height": 248,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "gallery",
+          "sha256": "496e31bb742bdfd4bd1a2eee82f9c094aa5d8e0fd4c6727cbf663052d3bb029f",
+          "capture_date": null,
+          "path": "assets/archive/jetboard-noronha.jpg"
+        }
+      ]
     },
     "276809": {
       "deck": "Downhill racing in a carrinho de rolimã.",
@@ -4330,6 +6069,25 @@
             "b-moby-rolima",
             "b-pine-extreme"
           ]
+        },
+        {
+          "text": "For Tectoy Digital, the Extreme games were original productions rather than conversions. A February 2009 preview described an initial package of rolimã, inner-tube racing and aircraft races, with more disciplines planned later. The released series instead arrived as separate games.",
+          "sources": [
+            "deep-b-extreme-announcement"
+          ]
+        },
+        {
+          "text": "QA analyst Suzana Bueno described a deliberate balance: the carts should feel a little beyond the driver’s control, while leaving room to become skilled. Her account also places QA within the creative work, from the engine’s creation to adjusting cameras.",
+          "sources": [
+            "deep-b-suzana-interview"
+          ]
+        },
+        {
+          "text": "Bueno singled out the Liberdade arches, Avenida Paulista’s flower beds and triangular FIESP building, a roadside cheese shop in Petrópolis, and Ouro Preto’s churches at sunset. She described these details as reflections of the people making the game.",
+          "sources": [
+            "deep-b-suzana-interview"
+          ],
+          "after_quote": true
         }
       ],
       "release": [
@@ -4338,10 +6096,25 @@
           "sources": [
             "b-moby-rolima"
           ]
+        },
+        {
+          "text": "RssV’s review for Blog Zeebo Brasil, preserved by Kito Games, tested the Z-Pad version. It praised responsive braking and drifting and a stable sense of speed, while finding the computer opponents easy to beat. Three courses and the absence of a tournament or career left local two-player racing as the main reason to return. The reviewer awarded 8/10.",
+          "sources": [
+            "deep-b-rolima-review"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "fácil de jogar, mas difícil de ser realmente bom",
+          "speaker": "Suzana Bueno",
+          "attribution": "QA analyst, interview with Zeeblog, 10 September 2009; preserved in a contemporaneous forum copy.",
+          "translation": "English translation by this archive: “easy to play, but difficult to get really good.”",
+          "section": "development",
+          "source": "deep-b-suzana-interview"
+        }
+      ],
       "credits": [
         {
           "name": "André Penha",
@@ -4415,7 +6188,41 @@
           "source": "b-moby-rolima"
         }
       ],
-      "year": 2009
+      "year": 2009,
+      "media": [
+        {
+          "alt": "A soapbox cart races along a walled city street.",
+          "caption": "Rolimã: downhill racing.",
+          "source": "b-pine-extreme",
+          "original_url": "https://texpine.com/media/posts/6/gallery/8fb3927228515.56028ea109499.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 431,
+          "height": 248,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "game",
+          "sha256": "753d693c9be7337a665ce3865e541a7b9ef5f7a32b5345521f92e86055b4c652",
+          "capture_date": null,
+          "path": "assets/archive/rolima-city-course.jpg"
+        },
+        {
+          "alt": "A game diagram labels the Z-Pad buttons and Boomerang steering gestures.",
+          "caption": "Rolimã: controller instructions.",
+          "source": "b-pine-extreme",
+          "original_url": "https://texpine.com/media/posts/6/gallery/4d75e57228513.56028ea052021.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "guide",
+          "width": 331,
+          "height": 248,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "gallery",
+          "sha256": "80b86a3a38d9da7dcba194d27073e5621f1e406e2b521d82bd552dc65bb06237",
+          "capture_date": null,
+          "path": "assets/archive/rolima-controller-guide.jpg"
+        }
+      ]
     },
     "279380": {
       "deck": "Four football challenges starring the player’s Zeeboid.",
@@ -4439,6 +6246,13 @@
           "sources": [
             "b-pine-footcamp"
           ]
+        },
+        {
+          "text": "The original plan paired a low-priced Foot Camp with a free Zeeboids application, using friends’ visits to introduce more people to the console. Pine’s work included pitching to Zeebo, documenting the design and testing its balance; the avatar system and the game were meant to reinforce each other.",
+          "sources": [
+            "b-pine-footcamp"
+          ],
+          "after_quote": true
         }
       ],
       "release": [
@@ -4446,6 +6260,18 @@
           "text": "Zeebo announced Foot Camp and Zeeboids together on 3 June 2010 for Brazil and Mexico. Zeebo Interactive Studios in Brazil created both. The announcement described groups of up to eight taking turns.",
           "sources": [
             "b-zeebo-footcamp-launch"
+          ]
+        },
+        {
+          "text": "The Brazilian launch campaign was tied to the 2010 World Cup. GameReporter’s David de Oliveira Lemes, contacted directly by producer Tiago Tex Pine, reported a 1,490 Z-Credit introductory price while Brazil remained in the tournament, followed by 1,690 Z-Credits. The report also described skill levels and unlocks intended to carry forward to Super Liga.",
+          "sources": [
+            "deep-b-footcamp-report"
+          ]
+        },
+        {
+          "text": "Mig64’s 15 June 2010 Zeebo Club review found the presentation simple and the four-event collection limited, but praised the variety of controls and its progression. Challenges, improving the avatar’s skills and competing for online rankings gave reasons to keep playing; the review scored it 6.75/10.",
+          "sources": [
+            "deep-b-footcamp-review"
           ]
         }
       ],
@@ -4546,7 +6372,57 @@
           "source": "b-zeebo-footcamp-launch"
         }
       ],
-      "year": 2010
+      "year": 2010,
+      "media": [
+        {
+          "alt": "A Zeeboid performs keep-ups as a button prompt appears.",
+          "caption": "Foot Camp: keep-ups.",
+          "source": "b-pine-footcamp",
+          "original_url": "https://texpine.com/media/posts/12/gallery/4ad9707229017.56028ddd3b179.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 640,
+          "height": 480,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "game",
+          "sha256": "224d5f31ddadf8703ec1584f970771ae2c64e7388546645ba578a004baaa967a",
+          "capture_date": null,
+          "path": "assets/archive/foot-camp-keepups.jpg"
+        },
+        {
+          "alt": "A participant screen lists eight players and guests.",
+          "caption": "Foot Camp: eight-player setup.",
+          "source": "b-pine-footcamp",
+          "original_url": "https://texpine.com/media/posts/12/gallery/e4aeee7229019.56028ea69097b.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 640,
+          "height": 480,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "gallery",
+          "sha256": "3461399d52e51fe2efe05cd9d4266e04403e22f234cb69a53cc47dcffa5d0bd3",
+          "capture_date": null,
+          "path": "assets/archive/foot-camp-participants.jpg"
+        },
+        {
+          "alt": "Four Zeeboid footballers surround the Foot Camp logo.",
+          "caption": "Foot Camp promotional artwork.",
+          "source": "b-pine-footcamp",
+          "original_url": "https://texpine.com/media/posts/12/gallery/Zeebo_F_C_Foot_Camp.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "advertisement",
+          "width": 213,
+          "height": 298,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "gallery",
+          "sha256": "164567f14385e00f737aa1d978749fe95b8d2691c41212b8fbc2dd0e5c440f02",
+          "capture_date": null,
+          "path": "assets/archive/foot-camp-promotional-art.jpg"
+        }
+      ]
     },
     "280647": {
       "deck": "Football with superpowers, custom teams and a career mode.",
@@ -4571,6 +6447,13 @@
           "sources": [
             "b-moby-superleague"
           ]
+        },
+        {
+          "text": "Programmer Felipe Lira spent roughly a year on Super League. Asked in 2017 about his most gratifying experience, he recalled what happened after the game was finished:",
+          "sources": [
+            "deep-b-lira-interview"
+          ],
+          "after_quote": true
         }
       ],
       "release": [
@@ -4591,6 +6474,14 @@
           "translation": null,
           "section": "development",
           "source": "b-pine-superleague"
+        },
+        {
+          "text": "depois de lançarmos, a equipe sentou pra jogá-lo.",
+          "speaker": "Felipe Lira",
+          "attribution": "Interview with Jonathan Maia, Eu na TI, 12 July 2017; the accompanying image identifies Super League.",
+          "translation": "English translation by the archive: “after we released it, the team sat down to play it.”",
+          "section": "development",
+          "source": "deep-b-lira-interview"
         }
       ],
       "credits": [
@@ -4670,6 +6561,13 @@
           "team": "Zeebo Interactive Studios",
           "scope": "Zeebo",
           "source": "b-moby-superleague"
+        },
+        {
+          "name": "Felipe Lira",
+          "role": "Programmer",
+          "team": "Zeebo Interactive Studios",
+          "scope": "Zeebo",
+          "source": "b-moby-superleague"
         }
       ],
       "studio_roles": [
@@ -4680,7 +6578,73 @@
           "source": "b-moby-superleague"
         }
       ],
-      "year": 2010
+      "year": 2010,
+      "media": [
+        {
+          "alt": "An enlarged Zeeboid stands near the centre circle during a match.",
+          "caption": "Super League screenshot published with Felipe Lira’s July 2017 interview.",
+          "source": "deep-b-lira-interview",
+          "original_url": "https://www.eunati.com.br/wp-content/uploads/2017/07/Felipe-Zeebo-FC.jpg",
+          "credit": "Zeebo Interactive Studios; reproduced by Jonathan Maia / Eu na TI.",
+          "kind": "screenshot",
+          "width": 640,
+          "height": 480,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "game",
+          "sha256": "c1919c6a8c4538b59ffa72c6238d2f1265e66b8bd000593813c4a637773b5e2c",
+          "capture_date": null,
+          "path": "assets/archive/super-league-giant-power.jpg"
+        },
+        {
+          "alt": "A colourful island map displays areas and locked team emblems.",
+          "caption": "Super League: career map.",
+          "source": "b-pine-superleague",
+          "original_url": "https://texpine.com/media/posts/18/gallery/d3629b7229149.56028f5e63e75.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 637,
+          "height": 477,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "gallery",
+          "sha256": "74750a20ba5665e66f442f61fb40fe5804e689ee33af001c3f8cd641cce37605",
+          "capture_date": null,
+          "path": "assets/archive/super-league-world-map.jpg"
+        },
+        {
+          "alt": "Players compete in a black-and-pink neon football arena.",
+          "caption": "Super League: neon arena.",
+          "source": "b-pine-superleague",
+          "original_url": "https://texpine.com/media/posts/18/gallery/d632cf7229143.56028f7193070.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 638,
+          "height": 470,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "gallery",
+          "sha256": "83a9943a0fa1b474c3c183b089f5cb434f41397c84bd75f99e6d8a419a4068b8",
+          "capture_date": null,
+          "path": "assets/archive/super-league-neon-arena.jpg"
+        },
+        {
+          "alt": "Portrait of Felipe Lira outdoors.",
+          "caption": "Felipe Lira, pictured with his July 2017 interview.",
+          "source": "deep-b-lira-interview",
+          "original_url": "https://www.eunati.com.br/wp-content/uploads/2017/07/Felipe-Lira-300x300.jpg",
+          "credit": "Felipe Lira / Eu na TI; portrait published by Jonathan Maia.",
+          "kind": "production",
+          "width": 300,
+          "height": 300,
+          "platform": "Zeebo",
+          "platform_evidence": "The interview labels the portrait Felipe Lira and discusses his work on Zeebo F.C. Super League.",
+          "placement": "development",
+          "sha256": "6bb58b8a130c1c638b2251a428a1fb5d209d8415275ff397a8b8fa0e5f3ffeae",
+          "capture_date": null,
+          "path": "assets/archive/felipe-lira-2017.jpg"
+        }
+      ]
     },
     "277229": {
       "deck": "Seven minigames for one or two players.",
@@ -4690,6 +6654,12 @@
           "sources": [
             "b-moby-familypack",
             "guide-10"
+          ]
+        },
+        {
+          "text": "The games cover several kinds of short competition. Formula 0.01 uses a single acceleration button, asking players to slow before corners or leave the track. Dirtbike is a side-view obstacle race, Cannonball and Score are target games, 8ball supplies pool, and Long John Silver and Zap are puzzles.",
+          "sources": [
+            "deep-b-family-review"
           ]
         }
       ],
@@ -4707,10 +6677,25 @@
           "sources": [
             "b-moby-familypack"
           ]
+        },
+        {
+          "text": "J.Vila’s review on Zeebo Club liked the varied controls and fitting sound, but found the static presentation reminiscent of web games and regretted the absence of Boomerang support. At 1,990 Z-Credits he considered it a purchase mainly for families and friends wanting simple activities. His final score was 5/10.",
+          "sources": [
+            "deep-b-family-review"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "Sempre jogo o 'Zap'. os demais, só com amigos!",
+          "speaker": "STX",
+          "attribution": "Comment on J.Vila’s Zeebo Club review, 17 April 2010.",
+          "translation": "English translation by this archive: “I always play Zap; the others, only with friends.”",
+          "section": "reception",
+          "source": "deep-b-family-review"
+        }
+      ],
       "credits": [
         {
           "name": "Tommy Palm",
@@ -4777,7 +6762,8 @@
           "platform": "Zeebo",
           "platform_evidence": "Infuse’s Zeebo screenshot gallery, A1 release.",
           "path": "assets/archive/infuse-macos_game_2.png",
-          "placement": "game"
+          "placement": "game",
+          "sha256": "856a32ae7270e8d886791a2c1a8ee8975661d0c5a15267944a19005f4fcd897c"
         },
         {
           "alt": "Family Pack motorcycle race across a dirt track.",
@@ -4791,7 +6777,8 @@
           "platform": "Zeebo",
           "platform_evidence": "Infuse’s Zeebo screenshot gallery, A1 release.",
           "path": "assets/archive/infuse-macos_game_4.png",
-          "placement": "gallery"
+          "placement": "gallery",
+          "sha256": "5765eb721277551f19cba6f6c51b2975bf45badbe3f1583564d9fe920ab0c8d4"
         }
       ]
     },
@@ -4803,6 +6790,12 @@
           "sources": [
             "b-moby-peteca",
             "guide-5"
+          ]
+        },
+        {
+          "text": "Rallies accelerate as a meter beneath each player fills. Green and red court markings can further change the pace, so a return can be chosen to slow the opponent rather than merely keep the shuttlecock in play. Peteca’s two-player mode is competitive rather than cooperative.",
+          "sources": [
+            "deep-b-peteca-review"
           ]
         }
       ],
@@ -4821,10 +6814,25 @@
             "b-moby-peteca",
             "b-zeebo-sports-relaunch"
           ]
+        },
+        {
+          "text": "STX’s 25 May 2010 Zeebo Club review rated Peteca 8.3/10. He thought its motion recognition the strongest in the series and found more to enjoy alone than in the earlier games, although the fixed camera disadvantaged one player in versus matches. Owning the other Sports games, with matching online-ranking names, could unlock their courts here.",
+          "sources": [
+            "deep-b-peteca-review"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "nenhum jogo tem a jogabilidade tão boa como o Peteca",
+          "speaker": "STX",
+          "attribution": "Zeebo Club review, 25 May 2010, testing the original Boomerang edition.",
+          "translation": "English translation by this archive: “no game plays as well as Peteca.”",
+          "section": "reception",
+          "source": "deep-b-peteca-review"
+        }
+      ],
       "credits": [
         {
           "name": "André Penha",
@@ -4922,6 +6930,12 @@
           "sources": [
             "guide-6"
           ]
+        },
+        {
+          "text": "Passing and feinting are central to attacks. In the original Boomerang version, button 1 lets a player fake a throw, while button 2 passes to a teammate. Without the ball those buttons taunt and attempt a catch; a motion upward dodges. Two camera views offer a different look at the court.",
+          "sources": [
+            "deep-b-queimada-review"
+          ]
         }
       ],
       "development": [
@@ -4938,6 +6952,12 @@
           "sources": [
             "b-moby-queimada",
             "b-zeebo-sports-relaunch"
+          ]
+        },
+        {
+          "text": "STX’s 19 April 2010 Zeebo Club review found the instructions more intimidating than the controls turned out to be. He praised the growing challenge and local multiplayer, but thought the street noises and lack of music became monotonous. It received 7/10, with the reviewer explicitly recommending it to Boomerang owners.",
+          "sources": [
+            "deep-b-queimada-review"
           ]
         }
       ],
@@ -5042,6 +7062,12 @@
           "sources": [
             "b-moby-tenis-credits"
           ]
+        },
+        {
+          "text": "At SBGames 2009, Bruno Evangelista used Tênis to illustrate the studio’s progress: a contemporaneous report quotes him comparing 10,000 triangles per scene in Tênis with 6,000 in Rolimã. These were the lead programmer’s stated figures, rather than an independent benchmark.",
+          "sources": [
+            "deep-b-sbgames-tennis"
+          ]
         }
       ],
       "release": [
@@ -5050,6 +7076,12 @@
           "sources": [
             "b-moby-tenis",
             "b-zeebo-sports-relaunch"
+          ]
+        },
+        {
+          "text": "J.Vila’s Zeebo Club review praised the eccentric cast and unlockable rackets, but noticed a slight delay between a swing and the game’s response. He found one court and no career mode restrictive; the daily online-ranking update helped sustain competition. He awarded 7.5/10. This review concerns the original Boomerang release.",
+          "sources": [
+            "deep-b-tenis-review"
           ]
         }
       ],
@@ -5146,11 +7178,23 @@
             "guide-6",
             "b-moby-volei"
           ]
+        },
+        {
+          "text": "The Boomerang’s directional pad changes the camera; its buttons handle jumping and blocking.",
+          "sources": [
+            "b-moby-volei"
+          ]
         }
       ],
       "development": [
         {
           "text": "Hugo Faria produced Vôlei. Bruno Evangelista and Tiago Monteiro Fernandes led programming; Seigi Sato led art, with Paula Carneiro Amin, Pedro Hamaya and Carina Cheng among the artists.",
+          "sources": [
+            "b-moby-volei"
+          ]
+        },
+        {
+          "text": "Its voice cast included Rafael Marques, Cacau Pastorello, Danny Caldas, Suellen Carollo and Carina Cheng, alongside Denis Koishi’s music.",
           "sources": [
             "b-moby-volei"
           ]
@@ -5162,6 +7206,13 @@
           "sources": [
             "b-moby-volei",
             "b-zeebo-sports-relaunch"
+          ]
+        },
+        {
+          "text": "The later games prompted comparisons with Vôlei. In his April 2010 Queimada review, STX preferred Vôlei’s music to the newer game’s street ambience. His May Peteca review described a related motion-control approach, with the difference that a timed swing could make the Peteca player jump without an extra button press.",
+          "sources": [
+            "deep-b-queimada-review",
+            "deep-b-peteca-review"
           ]
         }
       ],
@@ -5279,6 +7330,12 @@
           "sources": [
             "b-pine-zeeboids"
           ]
+        },
+        {
+          "text": "Pine’s original intention was an avatar system native to the console, with Zeeboids initially free on the store. The characters would be reused in other games, rather than staying inside a standalone editor.",
+          "sources": [
+            "b-pine-zeeboids"
+          ]
         }
       ],
       "release": [
@@ -5286,6 +7343,13 @@
           "text": "Zeebo announced Zeeboids alongside Foot Camp in June 2010. Both were developed by Zeebo Interactive Studios in Brazil.",
           "sources": [
             "b-zeebo-footcamp-launch"
+          ]
+        },
+        {
+          "text": "Launch-era Brazilian reporting listed Zeeboids separately at 290 Z-Credits, alongside Foot Camp’s promotional price. That differs from the original free-distribution intention Pine recalls in his portfolio. The same report presented the avatars as a continuing part of later games in the football series.",
+          "sources": [
+            "deep-b-footcamp-report",
+            "b-pine-zeeboids"
           ]
         }
       ],
@@ -5308,7 +7372,57 @@
           "source": "b-zeebo-footcamp-launch"
         }
       ],
-      "year": 2010
+      "year": 2010,
+      "media": [
+        {
+          "alt": "The Zeeboids editor shows a glasses-wearing avatar and hairstyle choices.",
+          "caption": "Zeeboids: hairstyle editor.",
+          "source": "b-pine-zeeboids",
+          "original_url": "https://texpine.com/media/posts/11/gallery/4482c87228739.56028ddb3a64b.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 640,
+          "height": 480,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "game",
+          "sha256": "856609294466b36fc10c0cd2c61cc1c8ea89a5807e83fdecc88d6a98d2a88c21",
+          "capture_date": null,
+          "path": "assets/archive/zeeboids-hair-editor.jpg"
+        },
+        {
+          "alt": "A synchronisation dialogue displays a connecting message.",
+          "caption": "Zeeboids: online synchronisation.",
+          "source": "b-pine-zeeboids",
+          "original_url": "https://texpine.com/media/posts/11/gallery/1239157228745.56028f6eaca97.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 331,
+          "height": 250,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "gallery",
+          "sha256": "72e5d3f607d48882b9660aa3628716438c100f23601e2646b6824261562d6838",
+          "capture_date": null,
+          "path": "assets/archive/zeeboids-synchronisation.jpg"
+        },
+        {
+          "alt": "The avatar editor displays moustache options beside a character.",
+          "caption": "Zeeboids: facial-hair editor.",
+          "source": "b-pine-zeeboids",
+          "original_url": "https://texpine.com/media/posts/11/gallery/a1fea07228737.56028f5864b06.jpg",
+          "credit": "Tectoy / Zeebo Interactive Studios; reproduced in Tiago Tex Pine’s project portfolio.",
+          "kind": "screenshot",
+          "width": 640,
+          "height": 480,
+          "platform": "Zeebo",
+          "platform_evidence": "Identified game in a creator’s explicit Zeebo project gallery; pixel content inspected.",
+          "placement": "gallery",
+          "sha256": "de164556cc8832f07706dcdaf2b6f1083fad8794b7e981d8bd88290acc7bc025",
+          "capture_date": null,
+          "path": "assets/archive/zeeboids-moustache-editor.jpg"
+        }
+      ]
     },
     "279369": {
       "deck": "Bounce a ball through alien formations and collect paddle upgrades.",
@@ -5328,9 +7442,9 @@
       ],
       "development": [
         {
-          "text": "Vega Mobile expanded its earlier iPhone game for Zeebo, adding a new storyline and doubling the number of levels.",
+          "text": "The Zeebo version followed Vega Mobile’s work on PopCap’s catalog. Its own arcade campaign doubled the iPhone game’s 50 stages to 100. STX’s contemporary review distinguished that expansion from a simple unchanged conversion and tested the new edition’s controls and multiplayer modes.",
           "sources": [
-            "c-overview-alien"
+            "deep-a-alien-review"
           ]
         }
       ],
@@ -5340,10 +7454,26 @@
           "sources": [
             "c-overview-alien"
           ]
+        },
+        {
+          "text": "In a 28 May 2010 review, STX praised the bright 2D art and the response of both the D-pad and left analogue stick. The main complaint was sound: after the title-screen music, play continued with effects and an English-speaking item announcer rather than a musical backing. The reviewer particularly recommended playing with another person on the same screen.",
+          "sources": [
+            "deep-a-alien-review"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "joga-lo com um amigo na mesma tela é uma experiência magnífica!",
+          "original_text": "joga-lo com um amigo na mesma tela é uma experiência magnífica!",
+          "speaker": "STX",
+          "attribution": "Zeebo Club review, 28 May 2010",
+          "translation": "English translation by the archive: “Playing with a friend on the same screen is a magnificent experience!”",
+          "section": "reception",
+          "source": "deep-a-alien-review"
+        }
+      ],
       "credits": [],
       "studio_roles": [
         {
@@ -5363,6 +7493,12 @@
           "sources": [
             "c-overview-bad-dudes"
           ]
+        },
+        {
+          "text": "Enemies usually fall after a single hit, while bosses can take more punishment. Knives, nunchucks and other dropped weapons extend the fighters’ limited moves. Two players can fight together.",
+          "sources": [
+            "deep-c-review-bad-dudes"
+          ]
         }
       ],
       "development": [
@@ -5370,6 +7506,12 @@
           "text": "Data East created the original game. Onan Games handled the Zeebo port, published by G-Mode.",
           "sources": [
             "c-release-bad-dudes"
+          ]
+        },
+        {
+          "text": "The Zeebo Data East releases used emulation.",
+          "sources": [
+            "deep-c-horna-interview"
           ]
         }
       ],
@@ -5380,10 +7522,25 @@
             "c-release-bad-dudes",
             "c-release-heavy-barrel"
           ]
+        },
+        {
+          "text": "STX’s August 2010 review gave it 3.7/10. The dark graphics and harsh enemy voices drew particular criticism. Analog movement was a welcome addition after earlier Data East releases had relied on the Z-Pad’s D-pad, but STX still found the jumps and attacks awkward.",
+          "sources": [
+            "deep-c-review-bad-dudes"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "Jogar com o analógico é melhor do que com o digital",
+          "speaker": "STX",
+          "attribution": "Zeebo Club review, 25 August 2010",
+          "translation": "English translation by the archive: “Playing with analog is better than with the D-pad”",
+          "section": "reception",
+          "source": "deep-c-review-bad-dudes"
+        }
+      ],
       "credits": [],
       "studio_roles": [
         {
@@ -5416,28 +7573,78 @@
             "guide-7",
             "c-overview-caveman"
           ]
+        },
+        {
+          "text": "Food matters as well as weapons: the caveman’s energy drains with hunger. Enemies leave food to replenish it. Some stages offer a choice of routes, although those paths lead to the same boss.",
+          "sources": [
+            "deep-c-review-caveman"
+          ]
         }
       ],
       "development": [
         {
-          "text": "Onan Games adapted Data East’s game for Zeebo. G-Mode announced Caveman Ninja with Spinmaster and Street Slam in March 2010.",
+          "text": "Onan Games adapted Data East’s arcade game for G-Mode’s Zeebo lineup.",
           "sources": [
-            "c-release-caveman",
-            "c-data-east-announcement"
+            "c-release-caveman"
+          ]
+        },
+        {
+          "text": "Emulator programmer Miguel Ángel Horna recalled how the project began. He was collaborating with Miguel Ángel Pastor on the Dreamcast emulator Chankast when Zeebo approached Pastor. Zeebo had licensed Data East games, including Caveman Ninja, but the pair still had to implement the emulator needed to run them.",
+          "sources": [
+            "deep-c-horna-interview"
           ]
         }
       ],
       "release": [
         {
-          "text": "Release records date the Mexican edition to 31 March 2010 and the Brazilian edition to 16 April.",
+          "text": "The Mexican edition is recorded on 31 March 2010. In Brazil, Lucas Mousinho reported on 17 April that the game had appeared on ZeeboNet the previous day, one day ahead of its announced schedule. It cost 1,290 Z-Credits.",
           "sources": [
-            "c-release-caveman"
+            "c-release-caveman",
+            "deep-c-review-caveman"
+          ]
+        },
+        {
+          "text": "Mousinho welcomed its weapons, branching routes and two-player adventure, placing it among his favourite Zeebo games at that point.",
+          "sources": [
+            "deep-c-review-caveman"
           ]
         }
       ],
       "notes": [],
-      "quotes": [],
-      "credits": [],
+      "quotes": [
+        {
+          "text": "Ese emulador no lo teníamos hecho pero lo implementamos",
+          "speaker": "Miguel Ángel Horna",
+          "attribution": "Interview with Sara Borondo, Vandal, 4 February 2023",
+          "translation": "English translation by the archive: “We hadn’t made that emulator, but we implemented it.”",
+          "section": "development",
+          "source": "deep-c-horna-interview"
+        },
+        {
+          "text": "pessoalmente considero um dos melhores jogos do Zeebo até então.",
+          "speaker": "Lucas Mousinho",
+          "attribution": "Zeebo Club review, 17 April 2010",
+          "translation": "English translation by the archive: “I personally consider it one of the best Zeebo games so far.”",
+          "section": "reception",
+          "source": "deep-c-review-caveman"
+        }
+      ],
+      "credits": [
+        {
+          "name": "Miguel Ángel Horna",
+          "role": "Emulation development",
+          "team": "Zeebo Data East emulation project",
+          "scope": "Shared Zeebo emulation project; Caveman Ninja named in his account",
+          "source": "deep-c-horna-interview"
+        },
+        {
+          "name": "Miguel Ángel Pastor",
+          "role": "Emulation collaboration and Zeebo contact",
+          "team": "Zeebo Data East emulation project",
+          "scope": "Shared Zeebo emulation project; Caveman Ninja named in Horna’s account",
+          "source": "deep-c-horna-interview"
+        }
+      ],
       "studio_roles": [
         {
           "name": "Data East Corporation",
@@ -5468,6 +7675,12 @@
           "sources": [
             "guide-7"
           ]
+        },
+        {
+          "text": "The isometric view allows movement in eight directions. Killing enemies fills a magic meter while a book cycles through available spells. Casting at the right moment transforms the character, with forms including a tornado, a Medusa head and a giant rat accompanied by smaller rats. Treasure can temporarily improve speed, strength or defence.",
+          "sources": [
+            "deep-c-dark-seal-history"
+          ]
         }
       ],
       "development": [
@@ -5476,6 +7689,12 @@
           "sources": [
             "c-release-dark-seal"
           ]
+        },
+        {
+          "text": "The Zeebo Data East releases used emulation.",
+          "sources": [
+            "deep-c-horna-interview"
+          ]
         }
       ],
       "release": [
@@ -5483,6 +7702,12 @@
           "text": "The Brazilian Zeebo release is dated 4 May 2010. International records also list the game as Gate of Doom.",
           "sources": [
             "c-release-dark-seal"
+          ]
+        },
+        {
+          "text": "A contemporary comparison survives in STX’s Heavy Barrel review. He described Dark Seal and Wizard Fire as earlier Data East releases limited to the Z-Pad’s D-pad, contrasting them with the later analog-enabled Heavy Barrel and Bad Dudes.",
+          "sources": [
+            "deep-c-review-heavy-barrel"
           ]
         }
       ],
@@ -5519,6 +7744,12 @@
           "sources": [
             "c-overview-heavy-barrel"
           ]
+        },
+        {
+          "text": "Movement and firing direction are independent. STX described using the analog stick to move and the ZL/ZR shoulder buttons to rotate the soldier’s aim. A player has to turn the gun towards an approaching enemy rather than assuming that walking towards it will also aim the weapon.",
+          "sources": [
+            "deep-c-review-heavy-barrel"
+          ]
         }
       ],
       "development": [
@@ -5528,6 +7759,12 @@
             "c-overview-heavy-barrel",
             "c-release-heavy-barrel"
           ]
+        },
+        {
+          "text": "The Zeebo Data East releases used emulation.",
+          "sources": [
+            "deep-c-horna-interview"
+          ]
         }
       ],
       "release": [
@@ -5536,10 +7773,25 @@
           "sources": [
             "c-release-heavy-barrel"
           ]
+        },
+        {
+          "text": "Reviewing the Zeebo edition in September 2010, STX welcomed analog support after the earlier D-pad-only releases. He found the graphics and sound dated, but the one-hit deaths and limited continues supplied a substantial challenge. His final score was 5/10; two-player play was one of its stronger attractions.",
+          "sources": [
+            "deep-c-review-heavy-barrel"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "não há continues infinitos",
+          "speaker": "STX",
+          "attribution": "Zeebo Club review, 29 September 2010",
+          "translation": "English translation by the archive: “there are no infinite continues”",
+          "section": "reception",
+          "source": "deep-c-review-heavy-barrel"
+        }
+      ],
       "credits": [
         {
           "name": "Koji Akibayashi",
@@ -5593,6 +7845,12 @@
           "sources": [
             "guide-7"
           ]
+        },
+        {
+          "text": "The Zeebo version uses the D-pad rather than analog movement. Its pause-menu help lists the fighters’ moves, so players can check a command during a match. STX pointed readers towards that built-in list when requests for a separate move guide appeared beneath his review.",
+          "sources": [
+            "deep-c-review-karnov"
+          ]
         }
       ],
       "development": [
@@ -5602,6 +7860,12 @@
             "c-release-karnov",
             "c-data-east-announcement"
           ]
+        },
+        {
+          "text": "The Zeebo Data East releases used emulation.",
+          "sources": [
+            "deep-c-horna-interview"
+          ]
         }
       ],
       "release": [
@@ -5610,10 +7874,25 @@
           "sources": [
             "c-release-karnov"
           ]
+        },
+        {
+          "text": "STX reviewed it two days after the recorded Brazilian release, while players were still waiting for the promised Street Fighter Alpha. He criticised the Z-Pad’s D-pad and uneven animation, but enjoyed returning to its difficult arcade fights. He awarded 7.5/10 for veteran players and 7/10 for newcomers.",
+          "sources": [
+            "deep-c-review-karnov"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "Particularmente é mais facil querer jogar Karnov's do que Tekken 2",
+          "speaker": "STX",
+          "attribution": "Zeebo Club review, 18 April 2010",
+          "translation": "English translation by the archive: “Personally, I find myself wanting to play Karnov’s more than Tekken 2.”",
+          "section": "reception",
+          "source": "deep-c-review-karnov"
+        }
+      ],
       "credits": [],
       "studio_roles": [
         {
@@ -5641,9 +7920,15 @@
       "deck": "Match colored balls before the descending pile fills the playfield.",
       "overview": [
         {
-          "text": "Magical Drop III is a fast matching puzzle game built around colored balls. The Zeebo guide lists Survival, Challenge and Magical Journey as its three modes.",
+          "text": "Magical Drop III puts the player beneath a descending field of coloured balls. Pull down balls of one colour, move sideways and throw them back to complete matches. The Zeebo controls use button 1 to collect balls, button 2 to return them and button 3 to bring the ball field down.",
           "sources": [
-            "guide-8"
+            "deep-c-review-magical-drop"
+          ]
+        },
+        {
+          "text": "Survival lasts as long as the player can keep up. Challenge pits a chosen character against successive opponents. Magical Journey adds a board-game route with separate challenges, items and bosses. Two players can compete directly.",
+          "sources": [
+            "deep-c-review-magical-drop"
           ]
         }
       ],
@@ -5654,6 +7939,12 @@
             "c-release-magical-drop",
             "c-data-east-announcement"
           ]
+        },
+        {
+          "text": "The Zeebo Data East releases used emulation.",
+          "sources": [
+            "deep-c-horna-interview"
+          ]
         }
       ],
       "release": [
@@ -5662,10 +7953,25 @@
           "sources": [
             "c-release-magical-drop"
           ]
+        },
+        {
+          "text": "STX’s April 2010 review awarded 8.5/10, praising the animation, presentation and responsive controls. The pace distinguished it from the more relaxed Bejeweled Twist: there was little time to plan while the balls kept descending. Repeated character voices were one of his reservations.",
+          "sources": [
+            "deep-c-review-magical-drop"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "É pressão que não acaba mais!",
+          "speaker": "STX",
+          "attribution": "Zeebo Club review, 29 April 2010",
+          "translation": "English translation by the archive: “It’s pressure that never lets up!”",
+          "section": "reception",
+          "source": "deep-c-review-magical-drop"
+        }
+      ],
       "credits": [],
       "studio_roles": [
         {
@@ -5698,6 +8004,12 @@
             "guide-9",
             "c-overview-pac-mania"
           ]
+        },
+        {
+          "text": "The Z-Pad’s D-pad or analog stick moves Pac-Man, while button 1 jumps. The Zeebo store description reproduced in Mig64’s review advertised 256 levels. Different ghost behaviour and changing maze layouts supply the variations as play continues.",
+          "sources": [
+            "deep-c-review-pac-mania"
+          ]
         }
       ],
       "development": [
@@ -5715,10 +8027,25 @@
           "sources": [
             "c-release-pac-mania"
           ]
+        },
+        {
+          "text": "Mig64’s April 2010 review gave Pac-Mania 7/10. He liked the controls, clear interface and persistence of the score-chasing game, while finding its sound much less impressive. His ratings split sharply: 9 for gameplay and 4 for sound.",
+          "sources": [
+            "deep-c-review-pac-mania"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "A jogabilidade é simples também, mas boa.",
+          "speaker": "Mig64",
+          "attribution": "Zeebo Club review, 24 April 2010",
+          "translation": "English translation by the archive: “The gameplay is simple too, but good.”",
+          "section": "reception",
+          "source": "deep-c-review-pac-mania"
+        }
+      ],
       "credits": [
         {
           "name": "Tomoyuki Shimizu",
@@ -5772,6 +8099,12 @@
           "sources": [
             "guide-8"
           ]
+        },
+        {
+          "text": "The yo-yo is only the starting weapon. Bombs, boxing gloves, ice knives, fireballs and shurikens change the available attacks. Button 1 attacks and can be held for a charged strike; button 2 jumps, while button 3 uses a weapon-specific special move.",
+          "sources": [
+            "deep-c-review-spin-master"
+          ]
         }
       ],
       "development": [
@@ -5781,6 +8114,12 @@
             "c-data-east-announcement",
             "c-release-spin-master"
           ]
+        },
+        {
+          "text": "The Zeebo Data East releases used emulation.",
+          "sources": [
+            "deep-c-horna-interview"
+          ]
         }
       ],
       "release": [
@@ -5789,10 +8128,25 @@
           "sources": [
             "c-release-spin-master"
           ]
+        },
+        {
+          "text": "STX found the controls responsive and the presentation stronger than Caveman Ninja’s, but considered Spin Master much easier. He completed it with a less experienced second player reaching the final boss alongside him. That cooperative play impressed him more than the short solo campaign.",
+          "sources": [
+            "deep-c-review-spin-master"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "Fecho o game dentro de 30-35 minutos.",
+          "speaker": "STX",
+          "attribution": "Zeebo Club review, 26 April 2010",
+          "translation": "English translation by the archive: “I finish the game in 30–35 minutes.”",
+          "section": "reception",
+          "source": "deep-c-review-spin-master"
+        }
+      ],
       "credits": [],
       "studio_roles": [
         {
@@ -5824,6 +8178,12 @@
           "sources": [
             "guide-7"
           ]
+        },
+        {
+          "text": "Two action buttons cover shooting, passing, blocking and steals. Successful baskets fill a power meter for exaggerated special shots. The Zeebo release supports two-player matches, but movement relies on the D-pad rather than the analog stick.",
+          "sources": [
+            "deep-c-review-street-hoop"
+          ]
         }
       ],
       "development": [
@@ -5833,6 +8193,12 @@
             "c-data-east-announcement",
             "c-release-street-hoop"
           ]
+        },
+        {
+          "text": "The Zeebo Data East releases used emulation.",
+          "sources": [
+            "deep-c-horna-interview"
+          ]
         }
       ],
       "release": [
@@ -5841,10 +8207,25 @@
           "sources": [
             "c-release-street-hoop"
           ]
+        },
+        {
+          "text": "STX’s April 2010 review praised its pace and reported no noticeable lag. He liked the music and competitive replay value, while criticising the lack of analog support on the Z-Pad. Even though he did not usually enjoy basketball games, he kept wanting another match.",
+          "sources": [
+            "deep-c-review-street-hoop"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "o game possui multiplayer. Diversão garantida!",
+          "speaker": "STX",
+          "attribution": "Zeebo Club review, 22 April 2010",
+          "translation": "English translation by the archive: “the game has multiplayer. Guaranteed fun!”",
+          "section": "reception",
+          "source": "deep-c-review-street-hoop"
+        }
+      ],
       "credits": [],
       "studio_roles": [
         {
@@ -5876,6 +8257,12 @@
           "sources": [
             "c-overview-burger"
           ]
+        },
+        {
+          "text": "The pepper shaker is the starting weapon, with other weapons and items appearing at the edge of the screen. Attacks can be directed up or down while on a ladder. Jumping, attacking and dropping burger layers have to be balanced against a constant supply of new enemies.",
+          "sources": [
+            "deep-c-review-burger"
+          ]
         }
       ],
       "development": [
@@ -5884,6 +8271,12 @@
           "sources": [
             "c-overview-burger",
             "c-moby-onan"
+          ]
+        },
+        {
+          "text": "The Zeebo Data East releases used emulation.",
+          "sources": [
+            "deep-c-horna-interview"
           ]
         }
       ],
@@ -5894,10 +8287,25 @@
             "c-data-east-announcement",
             "c-release-burger"
           ]
+        },
+        {
+          "text": "STX praised its simple, responsive controls and difficult stages in April 2010. The tiny characters could be hard to distinguish, even on a large television. He separated his verdict for older and newer players—7.1/10 and 6.1/10—but his complaint about continuing a hard run was concrete:",
+          "sources": [
+            "deep-c-review-burger"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "Esse mereceria suporte a Save States!",
+          "speaker": "STX",
+          "attribution": "Zeebo Club review, 30 April 2010",
+          "translation": "English translation by the archive: “This one ought to support save states!”",
+          "section": "reception",
+          "source": "deep-c-review-burger"
+        }
+      ],
       "credits": [
         {
           "name": "Koji Akibayashi",
@@ -5965,6 +8373,12 @@
           "sources": [
             "guide-3"
           ]
+        },
+        {
+          "text": "Arcade play unlocks hidden fighters, Survival tests how many opponents one life bar can overcome, and Training provides room to practise combinations. Versus supports a second player. The Zeebo edition has Portuguese menu text, but no individual character ending movies.",
+          "sources": [
+            "deep-c-review-tekken"
+          ]
         }
       ],
       "development": [
@@ -5972,6 +8386,12 @@
           "text": "Seiichi Ishii directed and designed the original Namco arcade game. Its credits also name Masahiro Kimoto as motion manager.",
           "sources": [
             "c-tekken-arcade-credits"
+          ]
+        },
+        {
+          "text": "Before launch, John Rizzo said it was not a mobile conversion, but could not identify which earlier platform supplied the port.",
+          "sources": [
+            "deep-a-rizzo-january"
           ]
         }
       ],
@@ -5981,10 +8401,40 @@
           "sources": [
             "c-release-tekken-2"
           ]
+        },
+        {
+          "text": "Mig64 expected little from the slow-looking trailer. After playing the released game, he described much smoother animation, responsive controls and a useful choice of D-pad or analog movement. Missing character voices and endings disappointed him. He initially undervalued its replay appeal, then revised that part after repeatedly returning to play.",
+          "sources": [
+            "deep-c-review-tekken"
+          ]
+        },
+        {
+          "text": "Writing as an owner in 2019, Douglas Deiró also regretted the absent endings, but valued the full fighter roster and the revised character models. He considered the remaining game worth playing on the console he actually owned.",
+          "sources": [
+            "deep-c-tekken-owner",
+            "deep-c-qgmaster-index"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "É meu jogo favorito do Zeebo",
+          "speaker": "Mig64",
+          "attribution": "Comment beneath his Zeebo Club review, 26 April 2010",
+          "translation": "English translation by the archive: “It’s my favourite Zeebo game.”",
+          "section": "reception",
+          "source": "deep-c-review-tekken"
+        },
+        {
+          "text": "Ah! Não tem filminho? Posso ver no Youtube",
+          "speaker": "Douglas Deiró",
+          "attribution": "QG Master, 6 August 2019; syndicated by Retroinvaders",
+          "translation": "English translation by the archive: “Oh! No movie? I can watch it on YouTube”",
+          "section": "reception",
+          "source": "deep-c-tekken-owner"
+        }
+      ],
       "credits": [
         {
           "name": "Seiichi Ishii",
@@ -6041,7 +8491,19 @@
       ],
       "development": [
         {
-          "text": "Vega Mobile developed Tork and Kral under the earlier name Ice and Rock. In a 24 September 2010 report based on contact with the studio, ZeeboBrasil named Jerome Schurch as producer and reported that the game was awaiting Zeebo’s approval.",
+          "text": "The game first appeared publicly as Ice and Rock. In April 2010, Zeebo Club’s Saulo Albert reported that Vega Mobile had displayed prototype images of three planned Zeebo games: XGT Racer, Code Devil and Ice and Rock.",
+          "sources": [
+            "deep-c-vega-originals-report"
+          ]
+        },
+        {
+          "text": "By September it had become Tork and Kral. A ZeeboBrasil report, based on contact with producer Jerome Schurch, described pre-rendered 3D graphics, 60 stages and simultaneous two-player play. The writers noted that the later images looked markedly different from the early prototype.",
+          "sources": [
+            "c-tork-developer-report"
+          ]
+        },
+        {
+          "text": "Schurch said the game was awaiting Zeebo’s approval and expected it within one or two weeks. The same report said Vega was working on further original prototypes and seeking investment to finish them.",
           "sources": [
             "c-tork-developer-report"
           ]
@@ -6049,9 +8511,9 @@
       ],
       "release": [
         {
-          "text": "Vega Mobile released the game for Zeebo on 16 November 2010.",
+          "text": "The official Zeebo blog announced Tork and Kral on 16 November 2010, later than the September report’s expected window. It advertised solo or cooperative play and specified two wired controllers for two players.",
           "sources": [
-            "c-overview-tork"
+            "deep-c-tork-launch"
           ]
         }
       ],
@@ -6084,6 +8546,12 @@
           "sources": [
             "c-toy-raid-credits"
           ]
+        },
+        {
+          "text": "The Zeebo version uses the Z-Pad rather than the iPhone’s tilt control. STX reported no Boomerang support and found the cannon slow to turn; holding button 1 kept it firing. Leaving and returning preserved the current stage, but losing all lives did not give an unlimited continue.",
+          "sources": [
+            "deep-c-review-toy-raid"
+          ]
         }
       ],
       "development": [
@@ -6107,6 +8575,12 @@
           "sources": [
             "c-toy-raid-announcement"
           ]
+        },
+        {
+          "text": "STX gave the game 5.7/10 in his May 2010 Zeebo Club review. He criticised the simple backgrounds and saturated sound effects, while finding the different weapons useful. His verdict treated it as a short-session diversion:",
+          "sources": [
+            "deep-c-review-toy-raid"
+          ]
         }
       ],
       "notes": [],
@@ -6118,6 +8592,14 @@
           "translation": null,
           "section": "development",
           "source": "c-toy-raid-announcement"
+        },
+        {
+          "text": "É um otimo passa tempo e só.",
+          "speaker": "STX",
+          "attribution": "Zeebo Club review, 3 May 2010",
+          "translation": "English translation by the archive: “It’s a great pastime, and that’s all.”",
+          "section": "reception",
+          "source": "deep-c-review-toy-raid"
         }
       ],
       "credits": [
@@ -6189,6 +8671,12 @@
           "sources": [
             "c-chess-overview"
           ]
+        },
+        {
+          "text": "Alongside local two-player chess, there are ordinary and timed games against the computer. Winning earns gears, the in-game currency spent on pieces, boards, backgrounds, tutorials and analyses of historical matches. Players can also stake their gears on a game for a larger reward.",
+          "sources": [
+            "deep-c-review-chess"
+          ]
         }
       ],
       "development": [
@@ -6198,6 +8686,12 @@
             "c-chess-overview",
             "c-chess-credits"
           ]
+        },
+        {
+          "text": "In January 2009, Zeebo CEO John Rizzo said the conversion from Glu’s BREW version had taken four months. He described a proposed wireless two-player edition as manageable because only the moves needed transmitting.",
+          "sources": [
+            "deep-a-rizzo-january"
+          ]
         }
       ],
       "release": [
@@ -6206,10 +8700,32 @@
           "sources": [
             "c-chess-overview"
           ]
+        },
+        {
+          "text": "Mig64’s April 2010 review liked the animated captures and range of unlockable material, but reported pauses before animations and very little audio. The workshop appeared to download purchases, yet no new content had arrived by his review. Players who only wanted chess could disable the combat animations.",
+          "sources": [
+            "deep-c-review-chess"
+          ]
         }
       ],
-      "notes": [],
-      "quotes": [],
+      "notes": [
+        {
+          "text": "The wireless edition discussed before launch was a proposal, not confirmation that online play shipped.",
+          "sources": [
+            "deep-a-rizzo-january"
+          ]
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Atualizações, aonde estão?",
+          "speaker": "Mig64",
+          "attribution": "Zeebo Club review, 27 April 2010",
+          "translation": "English translation by the archive: “Updates, where are they?”",
+          "section": "reception",
+          "source": "deep-c-review-chess"
+        }
+      ],
       "credits": [
         {
           "name": "Viacheslav Dubikovsky",
@@ -6295,9 +8811,10 @@
       "deck": "Five heroes fight monsters with weapons and magic.",
       "overview": [
         {
-          "text": "Wizard Fire offers five fantasy heroes with different attacks. The adventure combines weapon combat, magic and treasure collecting.",
+          "text": "Wizard Fire sends five fantasy heroes through a kingdom filled with monsters, weapons, magic and treasure. It can be played alone or with a second player.",
           "sources": [
-            "guide-8"
+            "guide-8",
+            "deep-c-review-wizard"
           ]
         }
       ],
@@ -6308,6 +8825,12 @@
             "c-release-wizard",
             "c-data-east-announcement"
           ]
+        },
+        {
+          "text": "The Zeebo Data East releases used emulation.",
+          "sources": [
+            "deep-c-horna-interview"
+          ]
         }
       ],
       "release": [
@@ -6316,10 +8839,25 @@
           "sources": [
             "c-release-wizard"
           ]
+        },
+        {
+          "text": "Ahtrun reviewed Wizard Fire the day after its recorded Brazilian release. He enjoyed the cooperative play and reported no lag, but the Z-Pad’s D-pad was a major obstacle. The unchanged English story also made it less accessible to the Brazilian audience the console was meant to reach.",
+          "sources": [
+            "deep-c-review-wizard"
+          ]
         }
       ],
       "notes": [],
-      "quotes": [],
+      "quotes": [
+        {
+          "text": "Sinceramente fica extremamente difícil jogar sem o analógico",
+          "speaker": "Ahtrun",
+          "attribution": "Zeebo Club review, 17 April 2010",
+          "translation": "English translation by the archive: “Honestly, playing without analog is extremely difficult”",
+          "section": "reception",
+          "source": "deep-c-review-wizard"
+        }
+      ],
       "credits": [],
       "studio_roles": [
         {
@@ -6730,6 +9268,37 @@
       ]
     },
     {
+      "heading": "Why BREW was chosen",
+      "text": "Reinaldo Normand told UOL in 2014 that the team had considered Symbian, Java and Linux before choosing BREW. He recalled Nokia’s commitment to N-Gage, concerns about Java piracy, and the cost of adapting Linux. BREW offered an existing shop and copy-protection system. This was a commercial and distribution decision as well as a hardware choice.",
+      "sources": [
+        "deep-root-uol-history"
+      ]
+    },
+    {
+      "heading": "What the production team encountered",
+      "text": "In the same interviews, André Penha described an operating system still carrying telephone functions that the console did not need. Stefano Arnhold recalled that hardware limitations made adapting games much more expensive than expected. Looking back, Normand regretted positioning the console against the PlayStation 2 while offering less power and fewer games.",
+      "sources": [
+        "deep-root-uol-history"
+      ]
+    },
+    {
+      "heading": "A programmer’s account from 2008",
+      "text": "Carol Gomes wrote about Zeebo before its retail launch. During her Tectoy internship, she and colleagues had added multiplayer to an unnamed football game and a racing game. She remembered having to work through difficult source code. Her post also argued that original games and a route for independent developers would be important to the console’s future.",
+      "sources": [
+        "deep-root-carol"
+      ],
+      "quotes": [
+        {
+          "text": "so big and absolutely uncommented",
+          "speaker": "Carol Gomes",
+          "attribution": "Personal development blog, 16 November 2008; describing the games’ existing source code",
+          "translation": null,
+          "section": "development",
+          "source": "deep-root-carol"
+        }
+      ]
+    },
+    {
       "heading": "The development environment",
       "text": "The May 2009 Developer Guide describes Zeebo software version 1.0 as based on Qualcomm’s BREW 4.0.2 SDK, with OpenGL ES graphics and IHID controller extensions. Its specifications list VGA television output at 640 × 480 in a 4:3 aspect ratio.",
       "sources": [
@@ -6744,10 +9313,77 @@
       ]
     },
     {
+      "heading": "The shop closes",
+      "text": "In May 2011, Zeebo announced the end of its Brazilian operations and Zeebo Interactive Studios. Its statement kept the online shop open until 30 September, with reduced game prices during the remaining months. Purchased content would remain usable on the console. After that deadline, a working machine’s installed library mattered in a way it had not when owners could still buy another download.",
+      "sources": [
+        "deep-root-closure"
+      ]
+    },
+    {
+      "heading": "An original console insert",
+      "text": "This undated Portuguese insert welcomed new owners and advertised the games, Boomerang controls and Z-Credits. VG Visual Vault published scans of both sides in October 2019.",
+      "sources": [
+        "deep-media-insert"
+      ],
+      "media": [
+        {
+          "alt": "The front of a Portuguese Zeebo insert welcomes owners beside the console.",
+          "caption": "Portuguese Zeebo console insert, front; scan published in October 2019.",
+          "source": "deep-media-insert",
+          "original_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN-YL8L0G982-AajjXLrnb98bUPMOAV2firfnEMR-B_UGsnxPhszODSWqcQ-LbKBOgLKwVwKO0NlTfOrs8SJkZrS_fE-RcASNqdk300HtCs_2XMprRYMoJwcKumcBoBeRhSUoXaSWCayQ/s1600/01.png",
+          "credit": "Original insert: Zeebo / Tectoy; scan: VG Visual Vault.",
+          "kind": "advertisement",
+          "width": 1600,
+          "height": 1123,
+          "platform": "Zeebo",
+          "platform_evidence": "Publication explicitly identifies the artifact or talk as Zeebo / Tectoy history.",
+          "sha256": "8072dfe5a8b1129bbe1d436d9e7d1c9fe748d79d65ccdc69a266824afb89d6f5",
+          "path": "assets/archive/zeebo-brazil-insert-front.png"
+        },
+        {
+          "alt": "The reverse of the insert advertises Boomerang controls, games and Z-Credits.",
+          "caption": "Portuguese Zeebo console insert, reverse; original leaflet undated.",
+          "source": "deep-media-insert",
+          "original_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfr-SQ6wqZZbElj-7sGoR_8E6xC1yvnyOEH1tUDEZ6St0vE9gavh2EwYu86EaGZ1AJ47zKtGcTrulbmBKZAOBNwO0w0x2LbL8ne0zN2TnX7yF28QxHrxSHUCZQC8Zo4NQ3Uar9i-xnfqc/s1600/02.png",
+          "credit": "Original insert: Zeebo / Tectoy; scan: VG Visual Vault.",
+          "kind": "advertisement",
+          "width": 1600,
+          "height": 1134,
+          "platform": "Zeebo",
+          "platform_evidence": "Publication explicitly identifies the artifact or talk as Zeebo / Tectoy history.",
+          "sha256": "0d75e9abbaa0a9929ea2fdc6e0300e24c692654ef92824c02406a25470433bf4",
+          "path": "assets/archive/zeebo-brazil-insert-back.png"
+        }
+      ]
+    },
+    {
       "heading": "The surviving collection",
       "text": "OpenZeebo’s compilation notes are dated 23 October 2011. They map numeric application IDs to game and system-app names. The archive retains those IDs, the original package variants and the measured file fingerprints, alongside the game histories.",
       "sources": [
         "openzeebo-readme"
+      ]
+    },
+    {
+      "heading": "Documenting the people as well as the software",
+      "text": "Former Tectoy Digital employee Bruno de Paula later began researching the company he had worked for, interviewing former colleagues and presenting its history. Reporting from the History of Games conference in 2024, John Szczepaniak described de Paula’s account of the studio’s split into Tectoy Studios and Zeebo Interactive Studios. He also reported their discussion of enthusiasts preserving the released games and the difficulties of installing dumps on original hardware.",
+      "sources": [
+        "deep-root-preservation"
+      ],
+      "media": [
+        {
+          "alt": "Bruno De Paula stands beside projected images of Tectoy games.",
+          "caption": "Former Tectoy Digital employee Bruno De Paula presenting at History of Games 2024.",
+          "source": "deep-root-preservation",
+          "original_url": "https://images.timeextension.com/1f7479068dc7f/the-quest-to-document-tectoys-zeebo-console-5.900x.jpg",
+          "credit": "Photograph: John Szczepaniak / Time Extension.",
+          "kind": "production",
+          "width": 900,
+          "height": 553,
+          "platform": "Zeebo",
+          "platform_evidence": "Publication explicitly identifies the artifact or talk as Zeebo / Tectoy history.",
+          "sha256": "63ac22bdd21e94d26551f2bd196d32f4261bf8b3c431f92fe151ff1ea449f705",
+          "path": "assets/archive/bruno-de-paula-history-of-games-2024.jpg"
+        }
       ]
     }
   ]

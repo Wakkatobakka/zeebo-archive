@@ -1,0 +1,629 @@
+{
+  "274259": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered original contemporary review, actual plot and2.5D camera observations, 2006 BREW origin and player response.",
+    "remaining_gaps": [
+      "Individual original/Zeebo programmers and production-art accounts were not recovered from the named-title/Com2uS follow-ups."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "280386": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Established actual November launch separately from announcement; expanded explicitly separated Beijing/Zeebo work and shared artist/QA roles.",
+    "remaining_gaps": [
+      "Searches for Danny Caldas, Luiz Gustavo Marquetti and Marcelo Silva did not recover a verified Alice production portfolio; official blog direct access is rate-limited."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "279369": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered first-person Zeebo review: expanded campaign, two-player play, precise controls and missing in-game music.",
+    "remaining_gaps": [
+      "Vega/Jérôme Schurch searches yielded studio records and later Tork reporting, but no verified Alien Breaker production interview or named port staff."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "276151": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Added mobile-family development context from hands-on 2009 preview, with image/platform caveat and exact Zeebo launch date.",
+    "remaining_gaps": [
+      "No Zeebo-specific production interview or contemporary standalone review surfaced in the targeted searches. Do not use arcade or iPhone reviews as Zeebo reception."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "280214": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered first-person October 2010 review and examined primary Polarbit agreement. Added campaign, custom-mode and reception details.",
+    "remaining_gaps": [
+      "Original Polarbit news URL now serves a hosting placeholder. Individual Zeebo adaptation staff and internal production account remain unestablished."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "277083": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered actual controller-bug discussion with reviewer and dissenting player voice, plus release chronology.",
+    "remaining_gaps": [
+      "No verified Zeebo production interview or port-specific design documents found; controller conditions remain attributed historical observations."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "280173": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Read original Disney partnership announcement fully; preserved precise scope of planned lineup.",
+    "remaining_gaps": [
+      "ZeeboTangerina actual-launch article is inaccessible. No verified port-team credit or production portfolio found; Sora Studios attribution in a community table was not adopted."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "274803": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered firsthand review, CEO account of PC/mobile combination, Prieto/Curumin audio credits and Brazilian adaptation team omitted from first pass.",
+    "remaining_gaps": [
+      "Full Moby roll inaccessible; precise division of programming tasks between the retained Gamelion team and Brazilian adaptation staff remains unestablished. No internal production interview recovered."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "278200": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered controller-specific review and campaign/replay structure, with original reviewer conclusion.",
+    "remaining_gaps": [
+      "Vega/PopCap searches found credited adaptation staff but no internal Zeebo production account; no budget estimate is inferred from the quotation."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "280221": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered exact console aiming/camera problems and mixed reception; retained Deion authors separately from Polarbit publisher.",
+    "remaining_gaps": [
+      "Named-author searches did not recover a verified internal account or production portfolio. Primary Polarbit site is now a hosting placeholder."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "278962": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered port attribution, selected original concept credits, actual Zeebo review and analog-aiming observation.",
+    "remaining_gaps": [
+      "No internal Vega development account found. Mislabelled cross-platform GameFAQs review deliberately rejected; full archived review replaces blocked archive.is copy."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "280238": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered holiday launch post and detailed firsthand Boomerang/Z-Pad comparison, upgrade loop and audio reception.",
+    "remaining_gaps": [
+      "No new internal studio interview found; official blog direct access429. Review’s hardware/calibration advice is not represented as fresh compatibility testing."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "276154": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Followed lead programmer to creator-owned portfolio, recovered edition-specific project history, estimated port duration and QSound royalty arrangement.",
+    "remaining_gaps": [
+      "Archived Zeebo Club Prey review route 404 and Moby direct 403; indexed description reviewed. No production artwork/internal level-design account found; primary timing remains an estimate."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "280602": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Verified original developer portfolio and staged Polarbit rollout; resolved exact console release date with edition record.",
+    "remaining_gaps": [
+      "No named Zeebo port team, internal production account or platform-specific review recovered. Mobile online features are not silently attributed to Zeebo."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "278282": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered actual Zeebo review and an original2008Fishlabs distribution account, clearly separated by edition and currency system.",
+    "remaining_gaps": [
+      "Reviewers disagreed about which phone/iPhone assets supplied the port; no source-code lineage is asserted. Original studio-blog conversion report remains a lead."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "280394": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered creator-owned account of first independently-owned project and actual console launch instruction, distinguishing EA iOS from Polarbit Zeebo.",
+    "remaining_gaps": [
+      "No detailed Zeebo adaptation-team account found. Studio portfolio covers broader game family; online features and engine boilerplate are not assumed to describe2009/2010 Zeebo technology."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "276675": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered full contemporary review with actual 24 Mercenary/Professional structure, action prompts and original divided-reception voice.",
+    "remaining_gaps": [
+      "No internal Ideaworks/Capcom account or named Zeebo production staff recovered. Existing HI primary middleware evidence retained; GameFAQs reviews predating console were excluded."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "276152": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered named contemporary purchaser reaction and actual price, separating reviewer assumptions from development credits.",
+    "remaining_gaps": [
+      "No verified internal Namco mobile/Zeebo production account recovered. Reproduced article has a title/publication-date mismatch recorded in source note."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "277455": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered actual review/comments documenting buggy launch and recall; expanded GAMEVIL first-console/localisation and Mexico preinstallation account from full Korean announcement.",
+    "remaining_gaps": [
+      "Official withdrawal/refund and20 Januaryreturn notices not retrieved: two live URLs404and archive lookups unavailable. Dates and universal bug-fix claims are not asserted from Wikipedia alone."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "279712": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered full contemporary review, campaign length, control/audio issues and differing owner reactions.",
+    "remaining_gaps": [
+      "No internal Vega adaptation interview or creator-owned production artwork recovered; release day remains July rather than resolving conflicting database dates without primary proof."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "276121": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_findings": "Recovered explicit original/Zeebo credit split, expanded Brazilian adaptation team, launch-bundle status and actual Portuguese review with dissenting player response.",
+    "remaining_gaps": [
+      "Creator portfolio gives no adaptation detail. Two unrelated Nitro Kart paragraphs in the contemporary review are excluded. No production artwork or detailed port interview recovered."
+    ],
+    "search_log": "zeebo-deep-a-searches.jsonl",
+    "inherited_search_history": "Previous citations retained; no previous unsuccessful-query log exists."
+  },
+  "274804": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "OriginaliPodcompany-announcement coverage adds history of the established design; no unproven source-code lineage."
+    ],
+    "remaining_gaps": []
+  },
+  "280634": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Expanded planned-versus-shipped educational programme context; artist portfolio already sourced and media researcher pursuing artifacts."
+    ],
+    "remaining_gaps": []
+  },
+  "279036": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Full contemporary ZeeboClub review retrieved with named writer,date,edition scope and specific observations."
+    ],
+    "remaining_gaps": []
+  },
+  "274755": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Later firsthand preservation documentation adds launcher interface and end-of-service history."
+    ],
+    "remaining_gaps": []
+  },
+  "274791": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Targeted title/ID and official-service searches logged; existing sourced record retained without invented expansion."
+    ],
+    "remaining_gaps": [
+      "Exact role of standaloneID274791 remains unestablished. Public references often use Zeebo App informally for the separate Z-Wheel launcher; this is not enough to conflate them."
+    ]
+  },
+  "277495": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Official browser supplier account adds home-device transition and intended audience."
+    ],
+    "remaining_gaps": []
+  },
+  "279394": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Targeted title/ID and official-service searches logged; existing sourced record retained without invented expansion."
+    ],
+    "remaining_gaps": [
+      "No new original development account recovered in this pass."
+    ]
+  },
+  "277727": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Shared production and regional review avenues followed; individual credit scopes retained."
+    ],
+    "remaining_gaps": []
+  },
+  "278285": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Shared production and regional review avenues followed; individual credit scopes retained."
+    ],
+    "remaining_gaps": []
+  },
+  "277285": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Shared production and regional review avenues followed; individual credit scopes retained.",
+      "Full contemporary ZeeboClub review retrieved with named writer,date,edition scope and specific observations."
+    ],
+    "remaining_gaps": []
+  },
+  "278283": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Shared production and regional review avenues followed; individual credit scopes retained.",
+      "Full contemporary ZeeboClub review retrieved with named writer,date,edition scope and specific observations."
+    ],
+    "remaining_gaps": []
+  },
+  "276809": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Shared production and regional review avenues followed; individual credit scopes retained.",
+      "SuzanaBueno contemporaryQA interview adds design intent,production participation and specific local landmarks."
+    ],
+    "remaining_gaps": []
+  },
+  "279380": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Full contemporary ZeeboClub review retrieved with named writer,date,edition scope and specific observations."
+    ],
+    "remaining_gaps": []
+  },
+  "280647": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "FelipeLira firsthand interview adds team experience beyond the producer portfolio."
+    ],
+    "remaining_gaps": []
+  },
+  "277229": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Full contemporary ZeeboClub review retrieved with named writer,date,edition scope and specific observations."
+    ],
+    "remaining_gaps": []
+  },
+  "279159": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Full contemporary ZeeboClub review retrieved with named writer,date,edition scope and specific observations."
+    ],
+    "remaining_gaps": []
+  },
+  "278738": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Full contemporary ZeeboClub review retrieved with named writer,date,edition scope and specific observations."
+    ],
+    "remaining_gaps": []
+  },
+  "277534": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Full contemporary ZeeboClub review retrieved with named writer,date,edition scope and specific observations."
+    ],
+    "remaining_gaps": []
+  },
+  "278212": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Control and voice-cast detail retained from the released edition’s credits and description; contemporaneous comparative reception recovered from later Peteca and Queimada reviews."
+    ],
+    "remaining_gaps": [
+      "No dedicated full contemporary Vôlei review recovered; new detail comes from existing credit/artifact records and the shared official relaunch."
+    ]
+  },
+  "279382": {
+    "status": "researched with remaining gaps",
+    "new_material": [
+      "Original free-distribution intent distinguished from launch-era charged price."
+    ],
+    "remaining_gaps": []
+  },
+  "279888": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "Enemies usually fall after a single hit, while bosses can take more punishment. Knives, nunchucks and other dropped weapons extend the fighters’ limited moves. Two players can fight together.",
+      "The Zeebo Data East releases used emulation.",
+      "STX’s August 2010 review gave it 3.7/10. The dark graphics and harsh enemy voices drew particular criticism. Analog movement was a welcome addition after earlier Data East releases had relied on the Z-Pad’s D-pad, but STX still found the jumps and attacks awkward."
+    ],
+    "remaining_questions": [
+      "Individual Zeebo adaptation staffing and production-art trail remain incomplete unless identified explicitly in this entry."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "278986": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "Food matters as well as weapons: the caveman’s energy drains with hunger. Enemies leave food to replenish it. Some stages offer a choice of routes, although those paths lead to the same boss.",
+      "Emulator programmer Miguel Ángel Horna recalled how the project began. He was collaborating with Miguel Ángel Pastor on the Dreamcast emulator Chankast when Zeebo approached Pastor. Zeebo had licensed Data East games, including Caveman Ninja, but the pair still had to implement the emulator needed to run them.",
+      "The Mexican edition is recorded on 31 March 2010. In Brazil, Lucas Mousinho reported on 17 April that the game had appeared on ZeeboNet the previous day, one day ahead of its announced schedule. It cost 1,290 Z-Credits.",
+      "Mousinho welcomed its weapons, branching routes and two-player adventure, placing it among his favourite Zeebo games at that point."
+    ],
+    "remaining_questions": [
+      "Individual Zeebo adaptation staffing and production-art trail remain incomplete unless identified explicitly in this entry."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "279233": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "The isometric view allows movement in eight directions. Killing enemies fills a magic meter while a book cycles through available spells. Casting at the right moment transforms the character, with forms including a tornado, a Medusa head and a giant rat accompanied by smaller rats. Treasure can temporarily improve speed, strength or defence.",
+      "The Zeebo Data East releases used emulation.",
+      "A contemporary comparison survives in STX’s Heavy Barrel review. He described Dark Seal and Wizard Fire as earlier Data East releases limited to the Z-Pad’s D-pad, contrasting them with the later analog-enabled Heavy Barrel and Bad Dudes."
+    ],
+    "remaining_questions": [
+      "No dedicated contemporary Zeebo Dark Seal review recovered from the inspected April/November2010 ZeeboClub indexes. Firsthand control comparison survives in HeavyBarrel review.",
+      "Title-specific Onan engineering and artist credits remain unverified."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "279889": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "Movement and firing direction are independent. STX described using the analog stick to move and the ZL/ZR shoulder buttons to rotate the soldier’s aim. A player has to turn the gun towards an approaching enemy rather than assuming that walking towards it will also aim the weapon.",
+      "The Zeebo Data East releases used emulation.",
+      "Reviewing the Zeebo edition in September 2010, STX welcomed analog support after the earlier D-pad-only releases. He found the graphics and sound dated, but the one-hit deaths and limited continues supplied a substantial challenge. His final score was 5/10; two-player play was one of its stronger attractions."
+    ],
+    "remaining_questions": [
+      "Individual Zeebo adaptation staffing and production-art trail remain incomplete unless identified explicitly in this entry."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "279126": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "The Zeebo version uses the D-pad rather than analog movement. Its pause-menu help lists the fighters’ moves, so players can check a command during a match. STX pointed readers towards that built-in list when requests for a separate move guide appeared beneath his review.",
+      "The Zeebo Data East releases used emulation.",
+      "STX reviewed it two days after the recorded Brazilian release, while players were still waiting for the promised Street Fighter Alpha. He criticised the Z-Pad’s D-pad and uneven animation, but enjoyed returning to its difficult arcade fights. He awarded 7.5/10 for veteran players and 7/10 for newcomers."
+    ],
+    "remaining_questions": [
+      "Individual Zeebo adaptation staffing and production-art trail remain incomplete unless identified explicitly in this entry."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "279200": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "Magical Drop III puts the player beneath a descending field of coloured balls. Pull down balls of one colour, move sideways and throw them back to complete matches. The Zeebo controls use button 1 to collect balls, button 2 to return them and button 3 to bring the ball field down.",
+      "Survival lasts as long as the player can keep up. Challenge pits a chosen character against successive opponents. Magical Journey adds a board-game route with separate challenges, items and bosses. Two players can compete directly.",
+      "The Zeebo Data East releases used emulation.",
+      "STX’s April 2010 review awarded 8.5/10, praising the animation, presentation and responsive controls. The pace distinguished it from the more relaxed Bejeweled Twist: there was little time to plan while the balls kept descending. Repeated character voices were one of his reservations."
+    ],
+    "remaining_questions": [
+      "Individual Zeebo adaptation staffing and production-art trail remain incomplete unless identified explicitly in this entry."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "276212": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "The Z-Pad’s D-pad or analog stick moves Pac-Man, while button 1 jumps. The Zeebo store description reproduced in Mig64’s review advertised 256 levels. Different ghost behaviour and changing maze layouts supply the variations as play continues.",
+      "Mig64’s April 2010 review gave Pac-Mania 7/10. He liked the controls, clear interface and persistence of the score-chasing game, while finding its sound much less impressive. His ratings split sharply: 9 for gameplay and 4 for sound."
+    ],
+    "remaining_questions": [
+      "Individual Zeebo adaptation staffing and production-art trail remain incomplete unless identified explicitly in this entry."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "278987": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "The yo-yo is only the starting weapon. Bombs, boxing gloves, ice knives, fireballs and shurikens change the available attacks. Button 1 attacks and can be held for a charged strike; button 2 jumps, while button 3 uses a weapon-specific special move.",
+      "The Zeebo Data East releases used emulation.",
+      "STX found the controls responsive and the presentation stronger than Caveman Ninja’s, but considered Spin Master much easier. He completed it with a less experienced second player reaching the final boss alongside him. That cooperative play impressed him more than the short solo campaign."
+    ],
+    "remaining_questions": [
+      "Individual Zeebo adaptation staffing and production-art trail remain incomplete unless identified explicitly in this entry."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "278988": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "Two action buttons cover shooting, passing, blocking and steals. Successful baskets fill a power meter for exaggerated special shots. The Zeebo release supports two-player matches, but movement relies on the D-pad rather than the analog stick.",
+      "The Zeebo Data East releases used emulation.",
+      "STX’s April 2010 review praised its pace and reported no noticeable lag. He liked the music and competitive replay value, while criticising the lack of analog support on the Z-Pad. Even though he did not usually enjoy basketball games, he kept wanting another match."
+    ],
+    "remaining_questions": [
+      "Individual Zeebo adaptation staffing and production-art trail remain incomplete unless identified explicitly in this entry."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "279125": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "The pepper shaker is the starting weapon, with other weapons and items appearing at the edge of the screen. Attacks can be directed up or down while on a ladder. Jumping, attacking and dropping burger layers have to be balanced against a constant supply of new enemies.",
+      "The Zeebo Data East releases used emulation.",
+      "STX praised its simple, responsive controls and difficult stages in April 2010. The tiny characters could be hard to distinguish, even on a large television. He separated his verdict for older and newer players—7.1/10 and 6.1/10—but his complaint about continuing a hard run was concrete:"
+    ],
+    "remaining_questions": [
+      "Individual Zeebo adaptation staffing and production-art trail remain incomplete unless identified explicitly in this entry."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "276731": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "Arcade play unlocks hidden fighters, Survival tests how many opponents one life bar can overcome, and Training provides room to practise combinations. Versus supports a second player. The Zeebo edition has Portuguese menu text, but no individual character ending movies.",
+      "Before launch, John Rizzo said it was not a mobile conversion, but could not identify which earlier platform supplied the port.",
+      "Mig64 expected little from the slow-looking trailer. After playing the released game, he described much smoother animation, responsive controls and a useful choice of D-pad or analog movement. Missing character voices and endings disappointed him. He initially undervalued its replay appeal, then revised that part after repeatedly returning to play.",
+      "Writing as an owner in 2019, Douglas Deiró also regretted the absent endings, but valued the full fighter roster and the revised character models. He considered the remaining game worth playing on the console he actually owned."
+    ],
+    "remaining_questions": [
+      "Individual Zeebo adaptation staffing and production-art trail remain incomplete unless identified explicitly in this entry."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "280463": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "The game first appeared publicly as Ice and Rock. In April 2010, Zeebo Club’s Saulo Albert reported that Vega Mobile had displayed prototype images of three planned Zeebo games: XGT Racer, Code Devil and Ice and Rock.",
+      "The official Zeebo blog announced Tork and Kral on 16 November 2010, later than the September report’s expected window. It advertised solo or cooperative play and specified two wired controllers for two players."
+    ],
+    "remaining_questions": [
+      "The original VegaMobile prototype images were reported and named, but not retrieved from an authenticated studio archive in this pass.",
+      "The reason for the interval between September’s expected window and the November launch is undocumented."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "278965": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "The Zeebo version uses the Z-Pad rather than the iPhone’s tilt control. STX reported no Boomerang support and found the cannon slow to turn; holding button 1 kept it firing. Leaving and returning preserved the current stage, but losing all lives did not give an unlimited continue.",
+      "STX gave the game 5.7/10 in his May 2010 Zeebo Club review. He criticised the simple backgrounds and saturated sound effects, while finding the different weapons useful. His verdict treated it as a short-session diversion:"
+    ],
+    "remaining_questions": [
+      "Individual Zeebo adaptation staffing and production-art trail remain incomplete unless identified explicitly in this entry."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "263019": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "Alongside local two-player chess, there are ordinary and timed games against the computer. Winning earns gears, the in-game currency spent on pieces, boards, backgrounds, tutorials and analyses of historical matches. Players can also stake their gears on a game for a larger reward.",
+      "In January 2009, Zeebo CEO John Rizzo said the conversion from Glu’s BREW version had taken four months. He described a proposed wireless two-player edition as manageable because only the moves needed transmitting.",
+      "Mig64’s April 2010 review liked the animated captures and range of unlockable material, but reported pauses before animations and very little audio. The workshop appeared to download purchases, yet no new content had arrived by his review. Players who only wanted chess could disable the combat animations."
+    ],
+    "remaining_questions": [
+      "Whether the prelaunch wireless two-player proposal was delivered is not established.",
+      "Direct project portfolios for named Superscape contributors were not recovered; same-name unrelated profiles were excluded."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "279173": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "Wizard Fire sends five fantasy heroes through a kingdom filled with monsters, weapons, magic and treasure. It can be played alone or with a second player.",
+      "The Zeebo Data East releases used emulation.",
+      "Ahtrun reviewed Wizard Fire the day after its recorded Brazilian release. He enjoyed the cooperative play and reported no lag, but the Z-Pad’s D-pad was a major obstacle. The unchanged English story also made it less accessible to the Brazilian audience the console was meant to reach."
+    ],
+    "remaining_questions": [
+      "Individual Zeebo adaptation staffing and production-art trail remain incomplete unless identified explicitly in this entry."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "274754": {
+    "status": "researched with remaining gaps",
+    "reviewed": "2026-11-15",
+    "new_material": [
+      "The controller supports both single-button moves and some combined-button commands. Weapons can be dropped deliberately, while dashing and launch attacks can be linked into mid-air combinations. Rockman’s detailed Zeebo review made those juggling attacks a particular attraction.",
+      "Access itself became part of the game’s history. Double Dragon Dojo contributor Rockman described buying a Brazilian Zeebo through an auction site, using Google Translate, and finding one with Double Dragon already installed. He praised its fighting options, enemy roster and unlockable Extra mode.",
+      "A review reproduced at Zeebo Club in March 2010 was more reserved about the fighting. It praised the redrawn sprites but described attack sequences that could not be cancelled, leaving a fighter exposed when punches missed. The writer considered the result enjoyable, with less fluid combat than it could have had."
+    ],
+    "remaining_questions": [
+      "The fifteen-person/ten-month figures belong to iPhone2011, not Zeebo2009; direct production schedules for Zeebo remain unverified.",
+      "Rockman’s firsthand review has no displayed publication date."
+    ],
+    "next_action": "Resume from logged creator and archived-source leads if new material is recovered; do not repeat completed searches without a reason.",
+    "remaining_gaps": []
+  },
+  "274214": {
+    "status": "reviewed against the standard",
+    "basis": "Creator/production avenues, regional contemporary reception, edition checks and artifact leads pursued; search records retained.",
+    "gaps": [
+      "No original design documents or source-code production records recovered in this pass."
+    ],
+    "remaining_gaps": [
+      "No original design documents or source-code production records recovered in this pass."
+    ]
+  },
+  "274802": {
+    "status": "reviewed against the standard",
+    "basis": "Creator/production avenues, regional contemporary reception, edition checks and artifact leads pursued; search records retained.",
+    "gaps": [
+      "Original ZeeboClub Quake review returned404; no claim that no other developer material survives."
+    ],
+    "remaining_gaps": [
+      "Original ZeeboClub Quake review returned404; no claim that no other developer material survives."
+    ]
+  },
+  "276153": {
+    "status": "reviewed against the standard",
+    "basis": "Creator/production avenues, regional contemporary reception, edition checks and artifact leads pursued; search records retained.",
+    "gaps": [
+      "No original design documents or source-code production records recovered in this pass."
+    ],
+    "remaining_gaps": [
+      "No original design documents or source-code production records recovered in this pass."
+    ]
+  },
+  "277380": {
+    "status": "reviewed against the standard",
+    "basis": "Creator/production avenues, regional contemporary reception, edition checks and artifact leads pursued; search records retained.",
+    "gaps": [
+      "No original design documents or source-code production records recovered in this pass."
+    ],
+    "remaining_gaps": [
+      "No original design documents or source-code production records recovered in this pass."
+    ]
+  }
+}
