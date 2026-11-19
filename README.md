@@ -1,12 +1,8 @@
 # Zeebo / Archive
 
-**A true archive of the game and its history, not just a file.**
-
 [Browse the archive](https://wakkatobakka.github.io/zeebo-archive/) · [Platform history](history/index.html) · [Creators](creators/index.html) · [Sources](sources/index.html)
 
 Created and maintained by **Wakkatobakka**. Read about Zeebo games, the people who made them, and the console they worked with. Original file records remain available on each entry.
-
-![Zeebo Archive](assets/social-preview.png)
 
 ## This edition — v3.0
 
@@ -41,18 +37,5 @@ The original inventory matched all 88 catalogued source files to Internet Archiv
 | [credits.csv](data/credits.csv) | Selected personal roles and source links |
 
 Game binaries, executable developer tools and full guide scans are not bundled in this website.
-
-## Updating the site
-
-The site is static and works on GitHub Pages without a build step. Upload the extracted website files at the repository root. See [UPLOAD_TO_GITHUB.txt](UPLOAD_TO_GITHUB.txt).
-
-To regenerate pages after editing research, use Python 3.9 or newer:
-
-```sh
-python3 tools/build_site.py
-python3 tools/verify.py
-```
-
-The builder reads the original inventory and the new research separately. The verifier checks the protected inventory and palette, all generated local links and anchors, citation references, credit exports, image metadata and package/member evidence. See [data/SCHEMA.md](data/SCHEMA.md) for the research format.
 
 Report corrections through [GitHub Issues](https://github.com/Wakkatobakka/zeebo-archive/issues), including the record ID and a supporting source.
