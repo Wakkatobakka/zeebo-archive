@@ -576,5 +576,20 @@
     "platform_evidence": "Publication explicitly identifies the artifact or talk as Zeebo / Tectoy history.",
     "sha256": "63ac22bdd21e94d26551f2bd196d32f4261bf8b3c431f92fe151ff1ea449f705",
     "path": "assets/archive/bruno-de-paula-history-of-games-2024.jpg"
+  },
+  {
+    "alt": "Leon’s gun floats in the village in the Zeebo edition.",
+    "caption": "Resident Evil 4 Zeebo Edition running in Omni Player.",
+    "source": "wakka-omni-re4-capture",
+    "original_url": "https://wakkatobakka.github.io/assets/gameplay/resident-evil-4.jpg",
+    "credit": "Captured by Wakka in Omni Player.",
+    "kind": "compatibility-capture",
+    "width": 480,
+    "height": 359,
+    "platform": "Zeebo",
+    "platform_evidence": "Wakka’s Omni gameplay still published with the Zeebo Resident Evil 4 clip.",
+    "path": "assets/archive/resident-evil-4-omni.jpg",
+    "placement": "landing",
+    "sha256": "96d52d71e5cdaa58fcbe12b95e53c55f0665291e47a16364914b5d527d122da6"
   }
 ]

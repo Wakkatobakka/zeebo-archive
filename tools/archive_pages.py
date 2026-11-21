@@ -119,14 +119,26 @@ def render(root):
         year = f'{g["year"]} · ' if g.get('year') else ''
         return f'<a class="entry-card" href="{route(e)}" data-search="{h(" ".join(search))}" data-type="{category(e)}" data-subsets="{" ".join(e["subsets"])}" data-has-guide="{"yes" if e.get("guide_scan") else "no"}"><div><span class="entry-sub">{year}{h(e["kind"])}</span><h3 class="entry-title">{h(e["title"])}</h3><p class="entry-description">{h(g["deck"])}</p></div><span class="card-bottom"><small>ID {h(e["id"])} · {len(e["packages"])} {"package" if len(e["packages"]) == 1 else "variants"}</small><span aria-hidden="true">↗</span></span></a>'
 
-    features = [('276675', 'Resident Evil 4’s Zeebo adaptation and its development credits.'), ('277727', 'The team and tools behind the Zeebo Extreme racing series.'), ('277380', 'Fishlabs describes bringing Galaxy on Fire to Zeebo.')]
+    features = [
+        ('276675', 'Resident Evil 4’s Zeebo adaptation and its development credits.',
+         'resident-evil-4-omni.jpg', 'Leon’s gun floats in the village in the Zeebo edition.',
+         480, 359, 'Zeebo gameplay captured by Wakka in Omni Player'),
+        ('277727', 'The team and tools behind the Zeebo Extreme racing series.',
+         'baja-dirt-track.jpg', 'A yellow buggy races along a dirt track.',
+         331, 248, 'Tectoy / Zeebo Interactive Studios · via Tiago Tex Pine'),
+        ('277380', 'Fishlabs describes bringing Galaxy on Fire to Zeebo.',
+         'galaxy-on-fire-zeebo-003.jpg', 'A ship targets an opponent in the Zeebo edition.',
+         640, 480, 'Fishlabs / Pocket Gamer'),
+    ]
     featurecards = ''
-    for gid, deck in features:
-        e, g = byid[gid], games[gid]
-        art = ''
-        if gid == '277727':
-            art = '<div class="feature-image archive-artifact"><img src="assets/archive/baja-dirt-track.jpg" alt="A dirt track in Zeebo Extreme Baja" loading="lazy" decoding="async"><span class="artifact-credit">Tectoy / Zeebo Interactive Studios · via Tiago Tex Pine</span></div>'
-        featurecards += f'<a class="feature-card" href="{route(e)}">{art}<div><h3>{h(e["title"])}</h3><p>{h(deck)}</p><span class="text-link">Read the entry ↗</span></div></a>'
+    for gid, deck, image, alt, width, height, credit in features:
+        e = byid[gid]
+        featurecards += (
+            f'<a class="feature-card" href="{route(e)}">'
+            f'<div class="feature-image"><img src="assets/archive/{h(image)}" alt="{h(alt)}" width="{width}" height="{height}" loading="lazy" decoding="async"></div>'
+            f'<div><h3>{h(e["title"])}</h3><p>{h(deck)}</p>'
+            f'<small class="artifact-credit">{h(credit)}</small><span class="text-link">Read the entry ↗</span></div></a>'
+        )
     chips = ''.join(f'<button class="chip{" active" if k == "Game" else ""}" type="button" data-type="{k}" aria-pressed="{"true" if k == "Game" else "false"}">{label}</button>' for k, label in [('Game', 'Games'), ('Application', 'Apps'), ('Development', 'Tools & samples'), ('Documentation', 'Documents'), ('All', 'All records')])
     options = ''.join(f'<option value="{k}">{h(v)}</option>' for k, v in data['subsets'].items())
     counts = Counter(e['kind'] for e in entries)
@@ -225,7 +237,7 @@ def render(root):
     body = '<article class="narrow article platform-history"><div class="eyebrow">ZEEBO / PLATFORM HISTORY</div><h1>Making games for Zeebo</h1><p class="lede">The console, its development environment, and the games made for it.</p>'
     for p in platform:
         body += f'<section class="entry-section"><h2>{h(p["heading"])}</h2>' + paragraphs([p], refs) + quotations(p.get('quotes', []), refs, 'development') + media(p.get('media', []), refs, '../') + '</section>'
-    body += '<nav class="reading-routes" aria-label="Game development accounts">' + ''.join(f'<a href="{route(byid[gid], "../")}">{h(byid[gid]["title"])} ↗</a>' for gid, _ in features) + '</nav>'
+    body += '<nav class="reading-routes" aria-label="Game development accounts">' + ''.join(f'<a href="{route(byid[gid], "../")}">{h(byid[gid]["title"])} ↗</a>' for gid, *_ in features) + '</nav>'
     body += '<nav class="reading-routes" aria-label="Development reference records">' + ''.join(f'<a href="{route(e, "../")}">{h(e["title"])}</a>' for e in entries if e['kind'] in ('Development', 'BREW sample')) + '</nav>' + bibliography(refs) + '</article>' + viewer()
     save('history/index.html', 'Platform history', 'Zeebo, its creators, the BREW development environment and digital distribution.', body, prefix='../', active='history', scripts=('entry.js',))
 
